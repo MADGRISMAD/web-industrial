@@ -1,0 +1,6 @@
+/*!
+ * Sticky
+ * (C) RcaTheme.com, All rights reserved.
+ *
+ */
+ .r-sticky{position:static;-webkit-transition:none;transition:none;z-index:1}.r-sticky.bound{position:absolute;left:auto;right:auto}.r-sticky.fixed{position:fixed;left:auto;right:auto}.r-sticky.bound.top,.r-sticky.fixed.top{top:0;bottom:auto}.r-sticky.bound.bottom,.r-sticky.fixed.bottom{top:auto;bottom:0}.r-sticky.native{position:-webkit-sticky;position:-moz-sticky;position:-ms-sticky;position:-o-sticky;position:sticky}.r-sticky-menu{position:static;-webkit-transition:none;transition:none;z-index:1}.r-sticky-menu.bound{position:absolute;left:auto;right:auto}.r-sticky-menu.fixed{position:fixed;left:auto;right:auto}.r-sticky-menu.bound.top,.r-sticky-menu.fixed.top{top:0;bottom:auto}.r-sticky-menu.bound.bottom,.r-sticky-menu.fixed.bottom{top:auto;bottom:0}.r-sticky-menu.native{position:-webkit-sticky;position:-moz-sticky;position:-ms-sticky;position:-o-sticky;position:sticky}
