@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Bienvenida</title>
+	<subtitle type="text">My site</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org"/>
+	<id>https://www.ingenieriaindustrialitt.org/docencia/bienvenida-docencia/itemlist/category/38-reticula</id>
+	<updated>2023-02-07T05:27:34+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.ingenieriaindustrialitt.org/docencia/bienvenida-docencia/itemlist/category/38-reticula?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Calculo vectorial</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/reticula/calculo-vectorial"/>
+		<published>2022-03-13T04:15:40+00:00</published>
+		<updated>2022-03-13T04:15:40+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/reticula/calculo-vectorial</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;La asignatura contribuye a desarrollar un pensamiento lógico-matemático al perfil del ingeniero y aporta las herramientas básicas para introducirse al estudio del cálculo vectorial y su aplicación, así como las bases para el modelado matemático. Además proporciona herramientas que permiten modelar fenómenos de contexto.&lt;/p&gt;
+&lt;p&gt;La importancia del estudio del Cálculo Vectorial radica principalmente en que en diversas aplicaciones de la ingeniería, la concurrencia de variables espaciales y temporales, hace necesario el análisis de fenómenos naturales cuyos modelos utilizan funciones vectoriales o escalares de varias variables.&lt;/p&gt;
+&lt;p&gt;La asignatura está diseñada de manera que el estudiante pueda representar conceptos, que aparecen en el campo de la ingeniería por medio de vectores; resolver problemas en los que intervienen variaciones continuas; resolver problemas geométricos en forma vectorial; graficar funciones de varias variables; calcular derivadas parciales; representar campos vectoriales que provengan del gradiente de un campo escalar, así como su divergencia y rotacional; resolver integrales dobles y triples; aplicar las integrales en el cálculo de áreas y volúmenes.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. Vectores en el espacio&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Definición de un vector en el plano y en el espacio y su interpretación geométrica&lt;/li&gt;
+&lt;li&gt;Álgebra vectorial y su geometría&lt;/li&gt;
+&lt;li&gt;Producto escalar y vectorial&lt;/li&gt;
+&lt;li&gt;Ecuación de la recta&lt;/li&gt;
+&lt;li&gt;Ecuación del plano&lt;/li&gt;
+&lt;li&gt;Aplicaciones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 2.&amp;nbsp;Curvas planas, ecuaciones paramétricas y coordenadas polares&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ecuaciones paramétricas de algunas curvas planas y su representación gráfica&lt;/li&gt;
+&lt;li&gt;Derivada de una curva en forma paramétrica&lt;/li&gt;
+&lt;li&gt;Tangentes a una curva&lt;/li&gt;
+&lt;li&gt;Área y longitud de arco&lt;/li&gt;
+&lt;li&gt;Curvas planas y graficación en coordenadas polares&lt;/li&gt;
+&lt;li&gt;Cálculo en coordenadas polares&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3.&amp;nbsp;Funciones vectoriales de una variable real&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Definición de función vectorial de una variable real&lt;/li&gt;
+&lt;li&gt;Límites y continuidad de una función vectorial&lt;/li&gt;
+&lt;li&gt;Derivada de una función vectorial&lt;/li&gt;
+&lt;li&gt;Integración de funciones vectoriales&lt;/li&gt;
+&lt;li&gt;Longitud de arco&lt;/li&gt;
+&lt;li&gt;Vectores tangente, normal y binormal&lt;/li&gt;
+&lt;li&gt;Curvatura&lt;/li&gt;
+&lt;li&gt;Aplicaciones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4.&amp;nbsp;Funciones reales de varias variables&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Definición de una función de varias variables&lt;/li&gt;
+&lt;li&gt;Gráfica de una función de varias variables Curvas y superficies de nivel&lt;/li&gt;
+&lt;li&gt;Límite y continuidad de una función de varias variables&lt;/li&gt;
+&lt;li&gt;Derivadas parciales&lt;/li&gt;
+&lt;li&gt;Incrementos y diferenciales&lt;/li&gt;
+&lt;li&gt;Regla de la cadena y derivada implícita&lt;/li&gt;
+&lt;li&gt;Derivadas parciales de orden superior&lt;/li&gt;
+&lt;li&gt;Derivada direccional y gradiente&lt;/li&gt;
+&lt;li&gt;Valores extremos de funciones de varias variables&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 5.&amp;nbsp;Integración múltiple&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cálculo de áreas e integrales dobles&lt;/li&gt;
+&lt;li&gt;Integrales iteradas&lt;/li&gt;
+&lt;li&gt;Integral doble en coordenadas rectangulares&lt;/li&gt;
+&lt;li&gt;Integral doble en coordenadas polares&lt;/li&gt;
+&lt;li&gt;Integral triple en coordenadas rectangulares Volumen&lt;/li&gt;
+&lt;li&gt;Integral triple en coordenadas cilíndricas y esféricas&lt;/li&gt;
+&lt;li&gt;Campos vectoriales&lt;/li&gt;
+&lt;li&gt;La Integral de línea&lt;/li&gt;
+&lt;li&gt;Divergencia, rotacional, interpretación geométrica y física&lt;/li&gt;
+&lt;li&gt;Teoremas de integrales Aplicaciones&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;La asignatura contribuye a desarrollar un pensamiento lógico-matemático al perfil del ingeniero y aporta las herramientas básicas para introducirse al estudio del cálculo vectorial y su aplicación, así como las bases para el modelado matemático. Además proporciona herramientas que permiten modelar fenómenos de contexto.&lt;/p&gt;
+&lt;p&gt;La importancia del estudio del Cálculo Vectorial radica principalmente en que en diversas aplicaciones de la ingeniería, la concurrencia de variables espaciales y temporales, hace necesario el análisis de fenómenos naturales cuyos modelos utilizan funciones vectoriales o escalares de varias variables.&lt;/p&gt;
+&lt;p&gt;La asignatura está diseñada de manera que el estudiante pueda representar conceptos, que aparecen en el campo de la ingeniería por medio de vectores; resolver problemas en los que intervienen variaciones continuas; resolver problemas geométricos en forma vectorial; graficar funciones de varias variables; calcular derivadas parciales; representar campos vectoriales que provengan del gradiente de un campo escalar, así como su divergencia y rotacional; resolver integrales dobles y triples; aplicar las integrales en el cálculo de áreas y volúmenes.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. Vectores en el espacio&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Definición de un vector en el plano y en el espacio y su interpretación geométrica&lt;/li&gt;
+&lt;li&gt;Álgebra vectorial y su geometría&lt;/li&gt;
+&lt;li&gt;Producto escalar y vectorial&lt;/li&gt;
+&lt;li&gt;Ecuación de la recta&lt;/li&gt;
+&lt;li&gt;Ecuación del plano&lt;/li&gt;
+&lt;li&gt;Aplicaciones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 2.&amp;nbsp;Curvas planas, ecuaciones paramétricas y coordenadas polares&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ecuaciones paramétricas de algunas curvas planas y su representación gráfica&lt;/li&gt;
+&lt;li&gt;Derivada de una curva en forma paramétrica&lt;/li&gt;
+&lt;li&gt;Tangentes a una curva&lt;/li&gt;
+&lt;li&gt;Área y longitud de arco&lt;/li&gt;
+&lt;li&gt;Curvas planas y graficación en coordenadas polares&lt;/li&gt;
+&lt;li&gt;Cálculo en coordenadas polares&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3.&amp;nbsp;Funciones vectoriales de una variable real&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Definición de función vectorial de una variable real&lt;/li&gt;
+&lt;li&gt;Límites y continuidad de una función vectorial&lt;/li&gt;
+&lt;li&gt;Derivada de una función vectorial&lt;/li&gt;
+&lt;li&gt;Integración de funciones vectoriales&lt;/li&gt;
+&lt;li&gt;Longitud de arco&lt;/li&gt;
+&lt;li&gt;Vectores tangente, normal y binormal&lt;/li&gt;
+&lt;li&gt;Curvatura&lt;/li&gt;
+&lt;li&gt;Aplicaciones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4.&amp;nbsp;Funciones reales de varias variables&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Definición de una función de varias variables&lt;/li&gt;
+&lt;li&gt;Gráfica de una función de varias variables Curvas y superficies de nivel&lt;/li&gt;
+&lt;li&gt;Límite y continuidad de una función de varias variables&lt;/li&gt;
+&lt;li&gt;Derivadas parciales&lt;/li&gt;
+&lt;li&gt;Incrementos y diferenciales&lt;/li&gt;
+&lt;li&gt;Regla de la cadena y derivada implícita&lt;/li&gt;
+&lt;li&gt;Derivadas parciales de orden superior&lt;/li&gt;
+&lt;li&gt;Derivada direccional y gradiente&lt;/li&gt;
+&lt;li&gt;Valores extremos de funciones de varias variables&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 5.&amp;nbsp;Integración múltiple&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cálculo de áreas e integrales dobles&lt;/li&gt;
+&lt;li&gt;Integrales iteradas&lt;/li&gt;
+&lt;li&gt;Integral doble en coordenadas rectangulares&lt;/li&gt;
+&lt;li&gt;Integral doble en coordenadas polares&lt;/li&gt;
+&lt;li&gt;Integral triple en coordenadas rectangulares Volumen&lt;/li&gt;
+&lt;li&gt;Integral triple en coordenadas cilíndricas y esféricas&lt;/li&gt;
+&lt;li&gt;Campos vectoriales&lt;/li&gt;
+&lt;li&gt;La Integral de línea&lt;/li&gt;
+&lt;li&gt;Divergencia, rotacional, interpretación geométrica y física&lt;/li&gt;
+&lt;li&gt;Teoremas de integrales Aplicaciones&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Reticula" />
+	</entry>
+	<entry>
+		<title>Calculo integral</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/reticula/calculo-integral"/>
+		<published>2022-03-11T22:48:47+00:00</published>
+		<updated>2022-03-11T22:48:47+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/reticula/calculo-integral</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;La asignatura contribuye a desarrollar un pensamiento lógico-matemático al perfil del ingeniero y aporta las herramientas básicas para desarrollar el estudio del cálculo integral y sus aplicaciones. Además, proporciona herramientas que permiten modelar fenómenos de contexto.&lt;/p&gt;
+&lt;p&gt;Cálculo Integral requiere como competencia previa todos los temas de Cálculo Diferencial y a su vez proporciona las bases para el desarrollo de las competencias del Cálculo Vectorial y Ecuaciones Diferenciales y asignaturas de física y ciencias de la ingeniería, por lo que se pueden diseñar proyectos integradores con cualquiera de ellas.&lt;/p&gt;
+&lt;p&gt;La característica más sobresaliente de esta asignatura es que en ella se estudian las bases sobre las que se construye el cálculo integral. Utilizando las definiciones de suma de Riemann, integral definida para el cálculo de áreas. Para integral indefinida se consideran los métodos de integración como parte fundamental del curso. La integral es tema de trascendental importancia en las aplicaciones de la ingeniería.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. Teorema fundamental del cálculo&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Medición aproximada de figuras amorfas&lt;/li&gt;
+&lt;li&gt;Notación sumatoria&lt;/li&gt;
+&lt;li&gt;Sumas de Riemann&lt;/li&gt;
+&lt;li&gt;Definición de integral definida&lt;/li&gt;
+&lt;li&gt;Teorema de existencia&lt;/li&gt;
+&lt;li&gt;Propiedades de la integral definida&lt;/li&gt;
+&lt;li&gt;Función primitiva&lt;/li&gt;
+&lt;li&gt;Teorema del valor intermedio&lt;/li&gt;
+&lt;li&gt;Teorema fundamental del cálculo&lt;/li&gt;
+&lt;li&gt;Cálculo de integrales definidas básicas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 2.&amp;nbsp;Métodos de integración e integral indefinida&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Definición de integral indefinida&lt;/li&gt;
+&lt;li&gt;Propiedades de integrales indefinidas&lt;/li&gt;
+&lt;li&gt;Cálculo de integrales indefinidas&lt;/li&gt;
+&lt;li&gt;Directas&lt;/li&gt;
+&lt;li&gt;Cambio de variable&lt;/li&gt;
+&lt;li&gt;Por partes&lt;/li&gt;
+&lt;li&gt;Trigonométricas&lt;/li&gt;
+&lt;li&gt;Sustitución trigonométrica&lt;/li&gt;
+&lt;li&gt;Fracciones parciales&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3.&amp;nbsp;Aplicaciones de la integral&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Áreas&lt;/li&gt;
+&lt;li&gt;Área bajo la gráfica de una función&lt;/li&gt;
+&lt;li&gt;Área entre las gráficas de funciones&lt;/li&gt;
+&lt;li&gt;Longitud de curvas&lt;/li&gt;
+&lt;li&gt;Cálculo de volúmenes de sólidos de revolución&lt;/li&gt;
+&lt;li&gt;Integrales impropias&lt;/li&gt;
+&lt;li&gt;Aplicaciones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4.&amp;nbsp;Series&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Definición de sucesión&lt;/li&gt;
+&lt;li&gt;Definición de serie&lt;/li&gt;
+&lt;li&gt;Finita&lt;/li&gt;
+&lt;li&gt;Infinita&lt;/li&gt;
+&lt;li&gt;Serie numérica y convergencia Criterio de la razón Criterio de la raíz Criterio de la integral&lt;/li&gt;
+&lt;li&gt;Series de potencias&lt;/li&gt;
+&lt;li&gt;Radio de convergencia&lt;/li&gt;
+&lt;li&gt;Serie de Taylor&lt;/li&gt;
+&lt;li&gt;Representación de funciones mediante la&lt;/li&gt;
+&lt;li&gt;serie de Taylor&lt;/li&gt;
+&lt;li&gt;Cálculo de integrales de funciones expresadas como serie de Taylor&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;La asignatura contribuye a desarrollar un pensamiento lógico-matemático al perfil del ingeniero y aporta las herramientas básicas para desarrollar el estudio del cálculo integral y sus aplicaciones. Además, proporciona herramientas que permiten modelar fenómenos de contexto.&lt;/p&gt;
+&lt;p&gt;Cálculo Integral requiere como competencia previa todos los temas de Cálculo Diferencial y a su vez proporciona las bases para el desarrollo de las competencias del Cálculo Vectorial y Ecuaciones Diferenciales y asignaturas de física y ciencias de la ingeniería, por lo que se pueden diseñar proyectos integradores con cualquiera de ellas.&lt;/p&gt;
+&lt;p&gt;La característica más sobresaliente de esta asignatura es que en ella se estudian las bases sobre las que se construye el cálculo integral. Utilizando las definiciones de suma de Riemann, integral definida para el cálculo de áreas. Para integral indefinida se consideran los métodos de integración como parte fundamental del curso. La integral es tema de trascendental importancia en las aplicaciones de la ingeniería.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. Teorema fundamental del cálculo&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Medición aproximada de figuras amorfas&lt;/li&gt;
+&lt;li&gt;Notación sumatoria&lt;/li&gt;
+&lt;li&gt;Sumas de Riemann&lt;/li&gt;
+&lt;li&gt;Definición de integral definida&lt;/li&gt;
+&lt;li&gt;Teorema de existencia&lt;/li&gt;
+&lt;li&gt;Propiedades de la integral definida&lt;/li&gt;
+&lt;li&gt;Función primitiva&lt;/li&gt;
+&lt;li&gt;Teorema del valor intermedio&lt;/li&gt;
+&lt;li&gt;Teorema fundamental del cálculo&lt;/li&gt;
+&lt;li&gt;Cálculo de integrales definidas básicas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 2.&amp;nbsp;Métodos de integración e integral indefinida&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Definición de integral indefinida&lt;/li&gt;
+&lt;li&gt;Propiedades de integrales indefinidas&lt;/li&gt;
+&lt;li&gt;Cálculo de integrales indefinidas&lt;/li&gt;
+&lt;li&gt;Directas&lt;/li&gt;
+&lt;li&gt;Cambio de variable&lt;/li&gt;
+&lt;li&gt;Por partes&lt;/li&gt;
+&lt;li&gt;Trigonométricas&lt;/li&gt;
+&lt;li&gt;Sustitución trigonométrica&lt;/li&gt;
+&lt;li&gt;Fracciones parciales&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3.&amp;nbsp;Aplicaciones de la integral&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Áreas&lt;/li&gt;
+&lt;li&gt;Área bajo la gráfica de una función&lt;/li&gt;
+&lt;li&gt;Área entre las gráficas de funciones&lt;/li&gt;
+&lt;li&gt;Longitud de curvas&lt;/li&gt;
+&lt;li&gt;Cálculo de volúmenes de sólidos de revolución&lt;/li&gt;
+&lt;li&gt;Integrales impropias&lt;/li&gt;
+&lt;li&gt;Aplicaciones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4.&amp;nbsp;Series&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Definición de sucesión&lt;/li&gt;
+&lt;li&gt;Definición de serie&lt;/li&gt;
+&lt;li&gt;Finita&lt;/li&gt;
+&lt;li&gt;Infinita&lt;/li&gt;
+&lt;li&gt;Serie numérica y convergencia Criterio de la razón Criterio de la raíz Criterio de la integral&lt;/li&gt;
+&lt;li&gt;Series de potencias&lt;/li&gt;
+&lt;li&gt;Radio de convergencia&lt;/li&gt;
+&lt;li&gt;Serie de Taylor&lt;/li&gt;
+&lt;li&gt;Representación de funciones mediante la&lt;/li&gt;
+&lt;li&gt;serie de Taylor&lt;/li&gt;
+&lt;li&gt;Cálculo de integrales de funciones expresadas como serie de Taylor&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Reticula" />
+	</entry>
+	<entry>
+		<title>Dibujo industrial</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/reticula/dibujo-industrial"/>
+		<published>2022-03-11T18:33:27+00:00</published>
+		<updated>2022-03-11T18:33:27+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/reticula/dibujo-industrial</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;Esta asignatura aporta al perfil del egresado en ingeniería industrial la capacidad de interpretar dibujos de diferentes productos de la industria, de tal forma que sea capaz de determinar por medio de la materia, las especificaciones y otras características.&lt;/p&gt;
+&lt;p&gt;Así como obtiene la capacidad de dibujar en un software que le permita tener mayor facilidad de adquirir un empleo ya que hoy en día todos los diseños de los productos, escantillones, lay-out y herramentales; son realizados por medio de software. Por otro lado, el simple hecho de dominar esta herramienta le abre la puerta no solo en el área de la ingeniería industrial sino también en el área de dibujo mecánico, dibujo civil.&lt;/p&gt;
+&lt;p&gt;Esta materia se convierte en una competencia previa para las asignaturas de Metrología debido a que debe dibujar piezas para luego medirlas, Estudio del Trabajo I, ya que se dibujan herramentales de diferentes procesos, entre otras.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. Dibujo básico para ingeniería&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducción al dibujo&lt;/li&gt;
+&lt;li&gt;Simbología utilizada en el dibujo: eléctrica&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 2.&amp;nbsp;Cortes y vistas auxiliares&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reglas para dibujar cortes&lt;/li&gt;
+&lt;li&gt;Tipos de cortes&lt;/li&gt;
+&lt;li&gt;Vistas auxiliares&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3.&amp;nbsp;Geometría descriptiva&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dibujo isométrico&lt;/li&gt;
+&lt;li&gt;Dibujo oblicuo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4.&amp;nbsp;Modelado de objetos en 3D&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dibujo de objetos D a partir de una superficie D&lt;/li&gt;
+&lt;li&gt;Manipulación en D&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;Esta asignatura aporta al perfil del egresado en ingeniería industrial la capacidad de interpretar dibujos de diferentes productos de la industria, de tal forma que sea capaz de determinar por medio de la materia, las especificaciones y otras características.&lt;/p&gt;
+&lt;p&gt;Así como obtiene la capacidad de dibujar en un software que le permita tener mayor facilidad de adquirir un empleo ya que hoy en día todos los diseños de los productos, escantillones, lay-out y herramentales; son realizados por medio de software. Por otro lado, el simple hecho de dominar esta herramienta le abre la puerta no solo en el área de la ingeniería industrial sino también en el área de dibujo mecánico, dibujo civil.&lt;/p&gt;
+&lt;p&gt;Esta materia se convierte en una competencia previa para las asignaturas de Metrología debido a que debe dibujar piezas para luego medirlas, Estudio del Trabajo I, ya que se dibujan herramentales de diferentes procesos, entre otras.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. Dibujo básico para ingeniería&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducción al dibujo&lt;/li&gt;
+&lt;li&gt;Simbología utilizada en el dibujo: eléctrica&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 2.&amp;nbsp;Cortes y vistas auxiliares&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reglas para dibujar cortes&lt;/li&gt;
+&lt;li&gt;Tipos de cortes&lt;/li&gt;
+&lt;li&gt;Vistas auxiliares&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3.&amp;nbsp;Geometría descriptiva&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dibujo isométrico&lt;/li&gt;
+&lt;li&gt;Dibujo oblicuo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4.&amp;nbsp;Modelado de objetos en 3D&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dibujo de objetos D a partir de una superficie D&lt;/li&gt;
+&lt;li&gt;Manipulación en D&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Reticula" />
+	</entry>
+	<entry>
+		<title>Química</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/reticula/quimica"/>
+		<published>2022-03-11T18:16:27+00:00</published>
+		<updated>2022-03-11T18:16:27+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/reticula/quimica</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;La asignatura de Química, aporta al perfil del Ingeniero Industrial el reforzamiento y desarrollo de las competencias para identificar propiedades, determinar el manejo y uso de sustancias de importancia industrial, a partir de lo cual el profesional puede tomar decisiones pertinentes ante las situaciones que se presenten en las diversas áreas de las organizaciones o empresas. Las consideraciones para integrar los contenidos asumen criterios de una formación que permite atender la realidad y necesidades de la empresa, gestionando programas que fortalezcan la seguridad e higiene así como el cuidado al medio ambiente.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. Materia, Estructura y Periodicidad&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Materia: Estructura, composición, estados de agregación y clasificación por propiedades&lt;/li&gt;
+&lt;li&gt;Sustancias puras: elementos y compuestos&lt;/li&gt;
+&lt;li&gt;Dispersiones o mezclas&lt;/li&gt;
+&lt;li&gt;Caracterización de los estados de agregación: sólido cristalino, líquido, sólido, vítreo y gel&lt;/li&gt;
+&lt;li&gt;Cambios de estado&lt;/li&gt;
+&lt;li&gt;Clasificación de las sustancias naturales por semejanzas en: propiedades físicas, propiedades químicas&lt;/li&gt;
+&lt;li&gt;Base experimental de la teoría cuántica y estructura atómica&lt;/li&gt;
+&lt;li&gt;Periodicidad química&lt;/li&gt;
+&lt;li&gt;Desarrollo de la tabla periódica moderna&lt;/li&gt;
+&lt;li&gt;Clasificación periódica de los elementos&lt;/li&gt;
+&lt;li&gt;Propiedades atómicas y variaciones periódicas: carga nuclear efectiva, radio atómico, radio iónico, energía de ionización, afinidad electrónica, electronegatividad&lt;/li&gt;
+&lt;li&gt;Propiedades químicas y su variación periódica: tendencias generales y por grupo&lt;/li&gt;
+&lt;li&gt;Elementos de importancia económica, industrial y ambiental en la región o en el país&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unida 2.&amp;nbsp;Enlaces Químicos y el Estado Sólido (Cristalino)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducción&lt;/li&gt;
+&lt;li&gt;Conceptos de enlace químico&lt;/li&gt;
+&lt;li&gt;Clasificación de los enlaces químicos&lt;/li&gt;
+&lt;li&gt;Símbolos de Lewis y regla del octeto&lt;/li&gt;
+&lt;li&gt;Enlace iónico&lt;/li&gt;
+&lt;li&gt;Elementos que forman compuestos iónicos&lt;/li&gt;
+&lt;li&gt;Propiedades físicas de compuestos iónicos&lt;/li&gt;
+&lt;li&gt;Enlace covalente&lt;/li&gt;
+&lt;li&gt;Comparación entre las propiedades de los compuestos iónicos y covalentes&lt;/li&gt;
+&lt;li&gt;Fuerza del enlace covalente&lt;/li&gt;
+&lt;li&gt;Enlace metálico y elementos semiconductores&lt;/li&gt;
+&lt;li&gt;Teoría de bandas&lt;/li&gt;
+&lt;li&gt;Estructura de los materiales&lt;/li&gt;
+&lt;li&gt;Estado sólido (cristalino)&lt;/li&gt;
+&lt;li&gt;Concepto y caracterización de sistemas cristalinos&lt;/li&gt;
+&lt;li&gt;Estado vítreo&lt;/li&gt;
+&lt;li&gt;Estructura amorfa&lt;/li&gt;
+&lt;li&gt;Propiedades características de un material vítreo&lt;/li&gt;
+&lt;li&gt;Metalurgia Principales metales y aleaciones utilizados en la industria&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3.&amp;nbsp;Compuestos Inorgánicos y Orgánicos&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Clasificación y propiedades de los compuestos inorgánicos&lt;/li&gt;
+&lt;li&gt;Óxidos&lt;/li&gt;
+&lt;li&gt;Hidróxidos&lt;/li&gt;
+&lt;li&gt;Ácidos&lt;/li&gt;
+&lt;li&gt;Sales&lt;/li&gt;
+&lt;li&gt;Hidruros&lt;/li&gt;
+&lt;li&gt;Compuestos inorgánicos de impacto económico, industrial, ambiental y social en la región o en el país&lt;/li&gt;
+&lt;li&gt;Clasificación y propiedades de los compuestos orgánicos&lt;/li&gt;
+&lt;li&gt;Hidrocarburos&lt;/li&gt;
+&lt;li&gt;Halogenuros&lt;/li&gt;
+&lt;li&gt;Alcoholes&lt;/li&gt;
+&lt;li&gt;Éteres&lt;/li&gt;
+&lt;li&gt;Aldehídos-Cetonas&lt;/li&gt;
+&lt;li&gt;Ácidos carboxílicos&lt;/li&gt;
+&lt;li&gt;Esteres&lt;/li&gt;
+&lt;li&gt;Aminas&lt;/li&gt;
+&lt;li&gt;Plásticos y Resinas Principales materiales de este tipo utilizados en la industria&lt;/li&gt;
+&lt;li&gt;Compuestos orgánicos de impacto económico, industrial, ambiental y social en la región o en el país&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4.&amp;nbsp;Reacciones Químicas Inorgánicas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Conceptos de mol, soluciones y reacciones&lt;/li&gt;
+&lt;li&gt;Concepto de estequiometría&lt;/li&gt;
+&lt;li&gt;Leyes estequiométricas&lt;/li&gt;
+&lt;li&gt;Ley de la conservación de la materia&lt;/li&gt;
+&lt;li&gt;Ley de las proporciones constantes&lt;/li&gt;
+&lt;li&gt;Ley de las proporciones múltiples&lt;/li&gt;
+&lt;li&gt;Cálculos estequiométricos A: unidades de medida usuales: átomo-gramo, mol-gramo,&lt;/li&gt;
+&lt;li&gt;volumen-gramo molecular, número de Avogadro&lt;/li&gt;
+&lt;li&gt;Cálculos estequiométricos B: relación peso-peso, relación peso-volumen, reactivo limitante, reactivo en exceso, grado de conversión o rendimiento&lt;/li&gt;
+&lt;li&gt;Reacciones químicas simples&lt;/li&gt;
+&lt;li&gt;Acido-base&lt;/li&gt;
+&lt;li&gt;Compuestos de importancia económica, industrial y ambiental&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 5.&amp;nbsp;Conceptos Generales de Gases,&amp;nbsp;Termoquímica y Electroquímica&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Conceptos básicos: gas como estado de agregación, gas ideal, gas real, propiedades críticas y factor de compresibilidad&lt;/li&gt;
+&lt;li&gt;Propiedades PVT: ley de Boyle, Charles, Gay- Lussac Ecuación General del Estado Gaseoso&lt;/li&gt;
+&lt;li&gt;Termoquímica&lt;/li&gt;
+&lt;li&gt;Calor de reacción&lt;/li&gt;
+&lt;li&gt;Calor de formación&lt;/li&gt;
+&lt;li&gt;Calor de solución&lt;/li&gt;
+&lt;li&gt;Electroquímica&lt;/li&gt;
+&lt;li&gt;Electroquímica y celdas electrolíticas&lt;/li&gt;
+&lt;li&gt;Electroquímica y celdas voltaicas (galvánicas)&lt;/li&gt;
+&lt;li&gt;Celdas voltaicas de uso práctico&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;La asignatura de Química, aporta al perfil del Ingeniero Industrial el reforzamiento y desarrollo de las competencias para identificar propiedades, determinar el manejo y uso de sustancias de importancia industrial, a partir de lo cual el profesional puede tomar decisiones pertinentes ante las situaciones que se presenten en las diversas áreas de las organizaciones o empresas. Las consideraciones para integrar los contenidos asumen criterios de una formación que permite atender la realidad y necesidades de la empresa, gestionando programas que fortalezcan la seguridad e higiene así como el cuidado al medio ambiente.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. Materia, Estructura y Periodicidad&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Materia: Estructura, composición, estados de agregación y clasificación por propiedades&lt;/li&gt;
+&lt;li&gt;Sustancias puras: elementos y compuestos&lt;/li&gt;
+&lt;li&gt;Dispersiones o mezclas&lt;/li&gt;
+&lt;li&gt;Caracterización de los estados de agregación: sólido cristalino, líquido, sólido, vítreo y gel&lt;/li&gt;
+&lt;li&gt;Cambios de estado&lt;/li&gt;
+&lt;li&gt;Clasificación de las sustancias naturales por semejanzas en: propiedades físicas, propiedades químicas&lt;/li&gt;
+&lt;li&gt;Base experimental de la teoría cuántica y estructura atómica&lt;/li&gt;
+&lt;li&gt;Periodicidad química&lt;/li&gt;
+&lt;li&gt;Desarrollo de la tabla periódica moderna&lt;/li&gt;
+&lt;li&gt;Clasificación periódica de los elementos&lt;/li&gt;
+&lt;li&gt;Propiedades atómicas y variaciones periódicas: carga nuclear efectiva, radio atómico, radio iónico, energía de ionización, afinidad electrónica, electronegatividad&lt;/li&gt;
+&lt;li&gt;Propiedades químicas y su variación periódica: tendencias generales y por grupo&lt;/li&gt;
+&lt;li&gt;Elementos de importancia económica, industrial y ambiental en la región o en el país&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unida 2.&amp;nbsp;Enlaces Químicos y el Estado Sólido (Cristalino)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducción&lt;/li&gt;
+&lt;li&gt;Conceptos de enlace químico&lt;/li&gt;
+&lt;li&gt;Clasificación de los enlaces químicos&lt;/li&gt;
+&lt;li&gt;Símbolos de Lewis y regla del octeto&lt;/li&gt;
+&lt;li&gt;Enlace iónico&lt;/li&gt;
+&lt;li&gt;Elementos que forman compuestos iónicos&lt;/li&gt;
+&lt;li&gt;Propiedades físicas de compuestos iónicos&lt;/li&gt;
+&lt;li&gt;Enlace covalente&lt;/li&gt;
+&lt;li&gt;Comparación entre las propiedades de los compuestos iónicos y covalentes&lt;/li&gt;
+&lt;li&gt;Fuerza del enlace covalente&lt;/li&gt;
+&lt;li&gt;Enlace metálico y elementos semiconductores&lt;/li&gt;
+&lt;li&gt;Teoría de bandas&lt;/li&gt;
+&lt;li&gt;Estructura de los materiales&lt;/li&gt;
+&lt;li&gt;Estado sólido (cristalino)&lt;/li&gt;
+&lt;li&gt;Concepto y caracterización de sistemas cristalinos&lt;/li&gt;
+&lt;li&gt;Estado vítreo&lt;/li&gt;
+&lt;li&gt;Estructura amorfa&lt;/li&gt;
+&lt;li&gt;Propiedades características de un material vítreo&lt;/li&gt;
+&lt;li&gt;Metalurgia Principales metales y aleaciones utilizados en la industria&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3.&amp;nbsp;Compuestos Inorgánicos y Orgánicos&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Clasificación y propiedades de los compuestos inorgánicos&lt;/li&gt;
+&lt;li&gt;Óxidos&lt;/li&gt;
+&lt;li&gt;Hidróxidos&lt;/li&gt;
+&lt;li&gt;Ácidos&lt;/li&gt;
+&lt;li&gt;Sales&lt;/li&gt;
+&lt;li&gt;Hidruros&lt;/li&gt;
+&lt;li&gt;Compuestos inorgánicos de impacto económico, industrial, ambiental y social en la región o en el país&lt;/li&gt;
+&lt;li&gt;Clasificación y propiedades de los compuestos orgánicos&lt;/li&gt;
+&lt;li&gt;Hidrocarburos&lt;/li&gt;
+&lt;li&gt;Halogenuros&lt;/li&gt;
+&lt;li&gt;Alcoholes&lt;/li&gt;
+&lt;li&gt;Éteres&lt;/li&gt;
+&lt;li&gt;Aldehídos-Cetonas&lt;/li&gt;
+&lt;li&gt;Ácidos carboxílicos&lt;/li&gt;
+&lt;li&gt;Esteres&lt;/li&gt;
+&lt;li&gt;Aminas&lt;/li&gt;
+&lt;li&gt;Plásticos y Resinas Principales materiales de este tipo utilizados en la industria&lt;/li&gt;
+&lt;li&gt;Compuestos orgánicos de impacto económico, industrial, ambiental y social en la región o en el país&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4.&amp;nbsp;Reacciones Químicas Inorgánicas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Conceptos de mol, soluciones y reacciones&lt;/li&gt;
+&lt;li&gt;Concepto de estequiometría&lt;/li&gt;
+&lt;li&gt;Leyes estequiométricas&lt;/li&gt;
+&lt;li&gt;Ley de la conservación de la materia&lt;/li&gt;
+&lt;li&gt;Ley de las proporciones constantes&lt;/li&gt;
+&lt;li&gt;Ley de las proporciones múltiples&lt;/li&gt;
+&lt;li&gt;Cálculos estequiométricos A: unidades de medida usuales: átomo-gramo, mol-gramo,&lt;/li&gt;
+&lt;li&gt;volumen-gramo molecular, número de Avogadro&lt;/li&gt;
+&lt;li&gt;Cálculos estequiométricos B: relación peso-peso, relación peso-volumen, reactivo limitante, reactivo en exceso, grado de conversión o rendimiento&lt;/li&gt;
+&lt;li&gt;Reacciones químicas simples&lt;/li&gt;
+&lt;li&gt;Acido-base&lt;/li&gt;
+&lt;li&gt;Compuestos de importancia económica, industrial y ambiental&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 5.&amp;nbsp;Conceptos Generales de Gases,&amp;nbsp;Termoquímica y Electroquímica&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Conceptos básicos: gas como estado de agregación, gas ideal, gas real, propiedades críticas y factor de compresibilidad&lt;/li&gt;
+&lt;li&gt;Propiedades PVT: ley de Boyle, Charles, Gay- Lussac Ecuación General del Estado Gaseoso&lt;/li&gt;
+&lt;li&gt;Termoquímica&lt;/li&gt;
+&lt;li&gt;Calor de reacción&lt;/li&gt;
+&lt;li&gt;Calor de formación&lt;/li&gt;
+&lt;li&gt;Calor de solución&lt;/li&gt;
+&lt;li&gt;Electroquímica&lt;/li&gt;
+&lt;li&gt;Electroquímica y celdas electrolíticas&lt;/li&gt;
+&lt;li&gt;Electroquímica y celdas voltaicas (galvánicas)&lt;/li&gt;
+&lt;li&gt;Celdas voltaicas de uso práctico&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Reticula" />
+	</entry>
+	<entry>
+		<title>Taller de herramientas intelectuales</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/reticula/taller-herramientas-intelectuales"/>
+		<published>2022-03-11T17:38:12+00:00</published>
+		<updated>2022-03-11T17:38:12+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/reticula/taller-herramientas-intelectuales</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;Esta asignatura aporta al perfil del Ingeniero Industrial las herramientas para desarrollar la capacidad de explicar situaciones de personalidad y habilidades del ser humano que contribuyen en la formación profesional, involucradas en la administración de los sistemas de producción.&lt;/p&gt;
+&lt;p&gt;Se inserta en el primer semestre debido a&amp;nbsp; que esta asignatura dará soporte a otras vinculadas con el desempeño profesional. De manera particular el contenido de esta asignatura se relaciona con&amp;nbsp; los temas de liderazgo e investigación.&lt;/p&gt;
+&lt;p&gt;El Taller de Herramientas Intelectuales proporciona las bases para desarrollar las competencias del ingeniero industrial formándolo en la creatividad, la visión sistémica y analítica para generar un compromiso ético con la sociedad.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Esta asignatura tiene relevancia en la formación del ingeniero industrial, ya que contempla aspectos que contemple aspectos que favorecen la madurez y el autoconocimiento para la solución&amp;nbsp; de problemas en las organizaciones de forma eficiente.&lt;/p&gt;
+&lt;p&gt;Esta es una asignatura que comprende cinco temas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aprender a ser, donde el estudiante fortalece el conocimiento de su personalidad.&lt;/li&gt;
+&lt;li&gt;Aprender a pensar, donde el estudiante conoce y selecciona las formas de pensamiento adecuadas a situaciones dadas.&lt;/li&gt;
+&lt;li&gt;Aprender a aprender, donde el estudiante aplica las herramientas para construir su propio aprendizaje.&lt;/li&gt;
+&lt;li&gt;Aprender a comunicarse, donde el estudiante afianza sus habilidades de lectura, escritura y comprensión para comunicarse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aprender a innovar, donde el estudiante aplica las herramientas adquiridas en los temas previos al elaborar un proyecto en equipo.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. Aprender a ser&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Personalidad&lt;/li&gt;
+&lt;li&gt;Definición y características de personalidad&lt;/li&gt;
+&lt;li&gt;Carácter y temperamento&lt;/li&gt;
+&lt;li&gt;Autoconocimiento y autoestima&lt;/li&gt;
+&lt;li&gt;Sentimientos y emociones&lt;/li&gt;
+&lt;li&gt;Motivación y empatía&lt;/li&gt;
+&lt;li&gt;Inteligencia emocional en el aula&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 2.&amp;nbsp;Aprender a pensar&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tipos de pensamiento&lt;/li&gt;
+&lt;li&gt;Pensamiento lógico&lt;/li&gt;
+&lt;li&gt;Pensamiento creativo&lt;/li&gt;
+&lt;li&gt;Pensamiento crítico&lt;/li&gt;
+&lt;li&gt;Pensamiento sistémico&lt;/li&gt;
+&lt;li&gt;Pensamiento inductivo y deductivo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3.&amp;nbsp;Aprender a aprender&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tipos de aprendizaje&lt;/li&gt;
+&lt;li&gt;Aprendizaje significativo&lt;/li&gt;
+&lt;li&gt;Aprendizaje cooperativo&lt;/li&gt;
+&lt;li&gt;Aprendizaje colaborativo&lt;/li&gt;
+&lt;li&gt;Aprendizaje basado en problemas&lt;/li&gt;
+&lt;li&gt;Obstáculos para lograr el aprendizaje&lt;/li&gt;
+&lt;li&gt;Malos hábitos de estudio&lt;/li&gt;
+&lt;li&gt;Desperdicio del tiempo&lt;/li&gt;
+&lt;li&gt;Estímulos inhibidores del aprendizaje&lt;/li&gt;
+&lt;li&gt;Exceso de confianza&lt;/li&gt;
+&lt;li&gt;Stress&lt;/li&gt;
+&lt;li&gt;Estrategias para aprender&lt;/li&gt;
+&lt;li&gt;Organización del tiempo&lt;/li&gt;
+&lt;li&gt;Uso de métodos de estudio&lt;/li&gt;
+&lt;li&gt;Diseño personalizado de las estrategias de aprendizaje&lt;/li&gt;
+&lt;li&gt;Uso de herramientas de aprendizaje&lt;/li&gt;
+&lt;li&gt;Crear un ambiente propicio para el aprendizaje&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4.&amp;nbsp;Aprender a comunicarse&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Comunicación oral&lt;/li&gt;
+&lt;li&gt;Lectura en voz alta&lt;/li&gt;
+&lt;li&gt;Tono&lt;/li&gt;
+&lt;li&gt;Intensidad&lt;/li&gt;
+&lt;li&gt;Ritmo&lt;/li&gt;
+&lt;li&gt;Elementos para hablar en público&lt;/li&gt;
+&lt;li&gt;Elección del tema&lt;/li&gt;
+&lt;li&gt;Preparación del escrito&lt;/li&gt;
+&lt;li&gt;Preparación personal para hablar en público&lt;/li&gt;
+&lt;li&gt;Lenguaje corporal&lt;/li&gt;
+&lt;li&gt;Presentaciones efectivas&lt;/li&gt;
+&lt;li&gt;Comunicación escrita&lt;/li&gt;
+&lt;li&gt;Tipos de lectura&lt;/li&gt;
+&lt;li&gt;Lectura Selectiva&lt;/li&gt;
+&lt;li&gt;Hojear&lt;/li&gt;
+&lt;li&gt;Examinar&lt;/li&gt;
+&lt;li&gt;Síntesis&lt;/li&gt;
+&lt;li&gt;Lectura crítica&lt;/li&gt;
+&lt;li&gt;Componentes de la lectura&lt;/li&gt;
+&lt;li&gt;Identificar mensajes&lt;/li&gt;
+&lt;li&gt;Hechos, inferencias y opiniones&lt;/li&gt;
+&lt;li&gt;Lectura de comprensión&lt;/li&gt;
+&lt;li&gt;Enunciados de apoyo&lt;/li&gt;
+&lt;li&gt;Propósito del autor&lt;/li&gt;
+&lt;li&gt;Puntos principales&lt;/li&gt;
+&lt;li&gt;Objetivo del texto&lt;/li&gt;
+&lt;li&gt;Contradicciones internas&lt;/li&gt;
+&lt;li&gt;Escribir para pensar y pensar para escribir&lt;/li&gt;
+&lt;li&gt;Valoración del vocabulario personal&lt;/li&gt;
+&lt;li&gt;Escribir para comunicar: ideas, pensamientos y sentimientos&lt;/li&gt;
+&lt;li&gt;Redacción de trabajos académicos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 5.&amp;nbsp;Aprender a innovar&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Creatividad e innovación&lt;/li&gt;
+&lt;li&gt;Definición, similitud y diferencias&lt;/li&gt;
+&lt;li&gt;Fases del proceso creativo e innovador&lt;/li&gt;
+&lt;li&gt;Características de la persona creativa e innovadora&lt;/li&gt;
+&lt;li&gt;La innovación como herramienta competitiva&lt;/li&gt;
+&lt;li&gt;Facilitadores y obstáculos de la innovación&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;Esta asignatura aporta al perfil del Ingeniero Industrial las herramientas para desarrollar la capacidad de explicar situaciones de personalidad y habilidades del ser humano que contribuyen en la formación profesional, involucradas en la administración de los sistemas de producción.&lt;/p&gt;
+&lt;p&gt;Se inserta en el primer semestre debido a&amp;nbsp; que esta asignatura dará soporte a otras vinculadas con el desempeño profesional. De manera particular el contenido de esta asignatura se relaciona con&amp;nbsp; los temas de liderazgo e investigación.&lt;/p&gt;
+&lt;p&gt;El Taller de Herramientas Intelectuales proporciona las bases para desarrollar las competencias del ingeniero industrial formándolo en la creatividad, la visión sistémica y analítica para generar un compromiso ético con la sociedad.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Esta asignatura tiene relevancia en la formación del ingeniero industrial, ya que contempla aspectos que contemple aspectos que favorecen la madurez y el autoconocimiento para la solución&amp;nbsp; de problemas en las organizaciones de forma eficiente.&lt;/p&gt;
+&lt;p&gt;Esta es una asignatura que comprende cinco temas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aprender a ser, donde el estudiante fortalece el conocimiento de su personalidad.&lt;/li&gt;
+&lt;li&gt;Aprender a pensar, donde el estudiante conoce y selecciona las formas de pensamiento adecuadas a situaciones dadas.&lt;/li&gt;
+&lt;li&gt;Aprender a aprender, donde el estudiante aplica las herramientas para construir su propio aprendizaje.&lt;/li&gt;
+&lt;li&gt;Aprender a comunicarse, donde el estudiante afianza sus habilidades de lectura, escritura y comprensión para comunicarse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aprender a innovar, donde el estudiante aplica las herramientas adquiridas en los temas previos al elaborar un proyecto en equipo.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. Aprender a ser&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Personalidad&lt;/li&gt;
+&lt;li&gt;Definición y características de personalidad&lt;/li&gt;
+&lt;li&gt;Carácter y temperamento&lt;/li&gt;
+&lt;li&gt;Autoconocimiento y autoestima&lt;/li&gt;
+&lt;li&gt;Sentimientos y emociones&lt;/li&gt;
+&lt;li&gt;Motivación y empatía&lt;/li&gt;
+&lt;li&gt;Inteligencia emocional en el aula&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 2.&amp;nbsp;Aprender a pensar&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tipos de pensamiento&lt;/li&gt;
+&lt;li&gt;Pensamiento lógico&lt;/li&gt;
+&lt;li&gt;Pensamiento creativo&lt;/li&gt;
+&lt;li&gt;Pensamiento crítico&lt;/li&gt;
+&lt;li&gt;Pensamiento sistémico&lt;/li&gt;
+&lt;li&gt;Pensamiento inductivo y deductivo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3.&amp;nbsp;Aprender a aprender&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tipos de aprendizaje&lt;/li&gt;
+&lt;li&gt;Aprendizaje significativo&lt;/li&gt;
+&lt;li&gt;Aprendizaje cooperativo&lt;/li&gt;
+&lt;li&gt;Aprendizaje colaborativo&lt;/li&gt;
+&lt;li&gt;Aprendizaje basado en problemas&lt;/li&gt;
+&lt;li&gt;Obstáculos para lograr el aprendizaje&lt;/li&gt;
+&lt;li&gt;Malos hábitos de estudio&lt;/li&gt;
+&lt;li&gt;Desperdicio del tiempo&lt;/li&gt;
+&lt;li&gt;Estímulos inhibidores del aprendizaje&lt;/li&gt;
+&lt;li&gt;Exceso de confianza&lt;/li&gt;
+&lt;li&gt;Stress&lt;/li&gt;
+&lt;li&gt;Estrategias para aprender&lt;/li&gt;
+&lt;li&gt;Organización del tiempo&lt;/li&gt;
+&lt;li&gt;Uso de métodos de estudio&lt;/li&gt;
+&lt;li&gt;Diseño personalizado de las estrategias de aprendizaje&lt;/li&gt;
+&lt;li&gt;Uso de herramientas de aprendizaje&lt;/li&gt;
+&lt;li&gt;Crear un ambiente propicio para el aprendizaje&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4.&amp;nbsp;Aprender a comunicarse&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Comunicación oral&lt;/li&gt;
+&lt;li&gt;Lectura en voz alta&lt;/li&gt;
+&lt;li&gt;Tono&lt;/li&gt;
+&lt;li&gt;Intensidad&lt;/li&gt;
+&lt;li&gt;Ritmo&lt;/li&gt;
+&lt;li&gt;Elementos para hablar en público&lt;/li&gt;
+&lt;li&gt;Elección del tema&lt;/li&gt;
+&lt;li&gt;Preparación del escrito&lt;/li&gt;
+&lt;li&gt;Preparación personal para hablar en público&lt;/li&gt;
+&lt;li&gt;Lenguaje corporal&lt;/li&gt;
+&lt;li&gt;Presentaciones efectivas&lt;/li&gt;
+&lt;li&gt;Comunicación escrita&lt;/li&gt;
+&lt;li&gt;Tipos de lectura&lt;/li&gt;
+&lt;li&gt;Lectura Selectiva&lt;/li&gt;
+&lt;li&gt;Hojear&lt;/li&gt;
+&lt;li&gt;Examinar&lt;/li&gt;
+&lt;li&gt;Síntesis&lt;/li&gt;
+&lt;li&gt;Lectura crítica&lt;/li&gt;
+&lt;li&gt;Componentes de la lectura&lt;/li&gt;
+&lt;li&gt;Identificar mensajes&lt;/li&gt;
+&lt;li&gt;Hechos, inferencias y opiniones&lt;/li&gt;
+&lt;li&gt;Lectura de comprensión&lt;/li&gt;
+&lt;li&gt;Enunciados de apoyo&lt;/li&gt;
+&lt;li&gt;Propósito del autor&lt;/li&gt;
+&lt;li&gt;Puntos principales&lt;/li&gt;
+&lt;li&gt;Objetivo del texto&lt;/li&gt;
+&lt;li&gt;Contradicciones internas&lt;/li&gt;
+&lt;li&gt;Escribir para pensar y pensar para escribir&lt;/li&gt;
+&lt;li&gt;Valoración del vocabulario personal&lt;/li&gt;
+&lt;li&gt;Escribir para comunicar: ideas, pensamientos y sentimientos&lt;/li&gt;
+&lt;li&gt;Redacción de trabajos académicos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 5.&amp;nbsp;Aprender a innovar&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Creatividad e innovación&lt;/li&gt;
+&lt;li&gt;Definición, similitud y diferencias&lt;/li&gt;
+&lt;li&gt;Fases del proceso creativo e innovador&lt;/li&gt;
+&lt;li&gt;Características de la persona creativa e innovadora&lt;/li&gt;
+&lt;li&gt;La innovación como herramienta competitiva&lt;/li&gt;
+&lt;li&gt;Facilitadores y obstáculos de la innovación&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Reticula" />
+	</entry>
+	<entry>
+		<title>Calculo diferencial</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/reticula/calculo-diferencial"/>
+		<published>2022-03-11T04:28:18+00:00</published>
+		<updated>2022-03-11T04:28:18+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/reticula/calculo-diferencial</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;La asignatura contribuye a desarrollar un pensamiento lógico-matemático al perfil del ingeniero y aporta las herramientas básicas para introducirse al estudio del cálculo y su aplicación, así como las bases para el modelado matemático. Además, proporciona herramientas que permiten modelar fenómenos de contexto.&lt;/p&gt;
+&lt;p&gt;La importancia del estudio del Cálculo Diferencial radica principalmente en proporcionar las bases para los temas en el desarrollo de las competencias del Cálculo Integral, Cálculo Vectorial, Ecuaciones Diferenciales y asignaturas de física y ciencias de la ingeniería, por lo que se pueden diseñar proyectos integradores con cualquiera de ellas.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;La característica más sobresaliente de esta asignatura es que en ella se estudian las bases sobre las que se construye el cálculo diferencial. Utilizando las definiciones de función y límite se establece uno de los conceptos más importantes del cálculo: la derivada, que permite analizar razones de cambio y problemas de optimización, entre otras. La derivada es tema de trascendental importancia en las aplicaciones de la ingeniería.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. Números reales&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;nbsp;Los números reales&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Axiomas de los números reales&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Intervalos y su representación gráfica&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Valor absoluto y sus propiedades&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Propiedades de las desigualdades&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Resolución de desigualdades de primer y segundo grado con una incógnita&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Resolución de desigualdades que incluyan valor absoluto&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 2.&amp;nbsp;Funciones&amp;nbsp;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Definición de variable, función, dominio y rango&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Función real de variable real y su representación gráfica&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Función inyectiva, suprayectiva y biyectiva&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Funciones algebraicas: polinomiales y racionales&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Funciones trascendentes: trigonométricas, logarítmicas y exponenciales&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Funciones escalonadas&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Operaciones con funciones: adición, multiplicación, división y composición&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Función inversa&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Función implícita&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Otro tipo de funciones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3.&amp;nbsp;&amp;nbsp;Límites y continuidad&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Noción de límite&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Definición de límite de una función&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Propiedades de los límites&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Cálculo de límites&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Límites laterales&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Límites infinitos y límites al infinito&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Asíntotas&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Continuidad en un punto y en un intervalo&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Tipos de discontinuidades&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4.&amp;nbsp;Derivadas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;nbsp;Interpretación geométrica de la derivada&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Incremento y razón de cambio&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Definición de la derivada de una función&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Diferenciales&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Cálculo de derivadas&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Regla de la cadena&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Derivada de funciones implícitas&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Derivadas de orden superior&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 5.&amp;nbsp;&amp;nbsp;Aplicaciones de la derivada&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Recta tangente y recta normal a una curva en un punto&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Teorema de Rolle y teoremas del valor medio&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Función creciente y decreciente&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Máximos y mínimos de una función&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Criterio de la primera derivada para máximos y mínimos&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Concavidades y puntos de inflexión&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Criterio de la segunda derivada para máximos y mínimos&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Análisis de la variación de una función Graficación&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Problemas de optimización y de tasas relacionadas&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Cálculo de aproximaciones usando diferenciales&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;La regla de L’Hôpital&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&quot;gtx-trans&quot; style=&quot;position: absolute; left: -12px; top: 1130.27px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;La asignatura contribuye a desarrollar un pensamiento lógico-matemático al perfil del ingeniero y aporta las herramientas básicas para introducirse al estudio del cálculo y su aplicación, así como las bases para el modelado matemático. Además, proporciona herramientas que permiten modelar fenómenos de contexto.&lt;/p&gt;
+&lt;p&gt;La importancia del estudio del Cálculo Diferencial radica principalmente en proporcionar las bases para los temas en el desarrollo de las competencias del Cálculo Integral, Cálculo Vectorial, Ecuaciones Diferenciales y asignaturas de física y ciencias de la ingeniería, por lo que se pueden diseñar proyectos integradores con cualquiera de ellas.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;La característica más sobresaliente de esta asignatura es que en ella se estudian las bases sobre las que se construye el cálculo diferencial. Utilizando las definiciones de función y límite se establece uno de los conceptos más importantes del cálculo: la derivada, que permite analizar razones de cambio y problemas de optimización, entre otras. La derivada es tema de trascendental importancia en las aplicaciones de la ingeniería.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. Números reales&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;nbsp;Los números reales&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Axiomas de los números reales&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Intervalos y su representación gráfica&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Valor absoluto y sus propiedades&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Propiedades de las desigualdades&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Resolución de desigualdades de primer y segundo grado con una incógnita&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Resolución de desigualdades que incluyan valor absoluto&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 2.&amp;nbsp;Funciones&amp;nbsp;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Definición de variable, función, dominio y rango&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Función real de variable real y su representación gráfica&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Función inyectiva, suprayectiva y biyectiva&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Funciones algebraicas: polinomiales y racionales&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Funciones trascendentes: trigonométricas, logarítmicas y exponenciales&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Funciones escalonadas&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Operaciones con funciones: adición, multiplicación, división y composición&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Función inversa&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Función implícita&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Otro tipo de funciones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3.&amp;nbsp;&amp;nbsp;Límites y continuidad&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Noción de límite&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Definición de límite de una función&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Propiedades de los límites&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Cálculo de límites&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Límites laterales&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Límites infinitos y límites al infinito&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Asíntotas&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Continuidad en un punto y en un intervalo&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Tipos de discontinuidades&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4.&amp;nbsp;Derivadas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;nbsp;Interpretación geométrica de la derivada&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Incremento y razón de cambio&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Definición de la derivada de una función&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Diferenciales&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Cálculo de derivadas&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Regla de la cadena&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Derivada de funciones implícitas&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Derivadas de orden superior&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 5.&amp;nbsp;&amp;nbsp;Aplicaciones de la derivada&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Recta tangente y recta normal a una curva en un punto&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Teorema de Rolle y teoremas del valor medio&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Función creciente y decreciente&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Máximos y mínimos de una función&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Criterio de la primera derivada para máximos y mínimos&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Concavidades y puntos de inflexión&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Criterio de la segunda derivada para máximos y mínimos&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Análisis de la variación de una función Graficación&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Problemas de optimización y de tasas relacionadas&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Cálculo de aproximaciones usando diferenciales&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;La regla de L’Hôpital&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&quot;gtx-trans&quot; style=&quot;position: absolute; left: -12px; top: 1130.27px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Reticula" />
+	</entry>
+	<entry>
+		<title>Taller de etica</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/reticula/etica"/>
+		<published>2022-03-10T17:43:08+00:00</published>
+		<updated>2022-03-10T17:43:08+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/reticula/etica</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;El Taller de ética se plantea como una asignatura común a todas las carreras del SNIT. Esto se fundamenta en lo siguiente:&lt;/p&gt;
+&lt;p&gt;En el Modelo del Siglo XXI del SNEST se busca una formación profesional que integre, en una totalidad dinámica, la competencia en el quehacer profesional con el ejercicio de una ciudadanía activa, responsable y el desarrollo psicosocial de la persona. Además, en el Código de ética del SNEST, se promueve el desarrollo armonioso de todas las facultades del ser humano. El desarrollo del profesionista requiere de una sólida formación ética.&lt;/p&gt;
+&lt;p&gt;Esta asignatura permite reflexionar y desarrollar el juicio ético, permitirá al estudiante formarse en el convencimiento de que el ejercicio de su profesión constituye no sólo una práctica con compromisos laborales y técnicas diversas, sino que es al mismo tiempo una práctica con responsabilidades como ciudadanos y como personas en la construcción de una mejor sociedad. &lt;br /&gt;Se busca desarrollar la comprensión de conceptos y métodos de la ética, así como la reflexión y experiencia de actos éticos, propicia que se involucre de manera consciente en la búsqueda de la congruencia entre su pensamiento, sus palabras y sus actos. Integrando el saber, el saber hacer con el saber ser.&lt;/p&gt;
+&lt;p&gt;La asignatura brinda la ocasión de aprender a aprender para desarrollar su capacidad de confrontarse consigo mismo, de interrogarse y de reconocerse como un ser que posee dignidad, ideas propias y convicción de su quehacer profesional; derechos, deberes y compromisos en contextos organizacionales, tecnológicos, comunitarios y sociales cada vez más complejos, inciertos y cambiantes que requieren cada vez con mayor frecuencia de reflexiones y decisiones tecnoéticas.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. El sentido de aprender sobre ética&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Generalidades sobre ética&lt;/li&gt;
+&lt;li&gt;La ética, su objeto de estudio y su sentido sociocultural&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;El juicio moral y el juicio ético&lt;/li&gt;
+&lt;li&gt;Valores éticos fundamentales: verdad, responsabilidad justicia y libertad&lt;/li&gt;
+&lt;li&gt;Derechos Humanos&lt;/li&gt;
+&lt;li&gt;Significado y sentido del comportamiento ético&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;En el ámbito personal y social&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;En el ámbito académico&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;En el ejercicio de la ciudadanía&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 2.&amp;nbsp;La ética en la ciencia y la tecnología&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Implicaciones éticas de la investigación científica&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Límites éticos de la investigación&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Decisiones éticas en la investigación científica&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Comportamiento ético del investigador&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Motivaciones del investigador&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Implicaciones éticas en el desarrollo y aplicación de la tecnología&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Conceptos y problemas de la tecnoética y bioética&lt;/li&gt;
+&lt;li&gt;Comportamiento ético del tecnólogo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3.&amp;nbsp;Ética en el ejercicio de la profesión&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Consideraciones generales de la ética profesional&lt;/li&gt;
+&lt;li&gt;Dimensiones, deberes e&lt;/li&gt;
+&lt;li&gt;implicaciones de la ética profesional&lt;/li&gt;
+&lt;li&gt;El profesionista y su ética en el ejercicio del liderazgo&lt;/li&gt;
+&lt;li&gt;Dilemas éticos profesionales&lt;/li&gt;
+&lt;li&gt;Códigos de ética profesionales&lt;/li&gt;
+&lt;li&gt;Contenido, sentido e implicaciones de los códigos de ética profesionales&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4.&amp;nbsp;La ética en las instituciones y organizaciones&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Proceder ético en las instituciones y organizaciones&lt;/li&gt;
+&lt;li&gt;Código de ética de las instituciones y organizaciones&lt;/li&gt;
+&lt;li&gt;Casos concretos del proceder ético en las instituciones y organizaciones&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;La Responsabilidad social de las Instituciones y organizaciones&lt;/li&gt;
+&lt;li&gt;Desarrollo del concepto de Responsabilidad social&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Contexto actual de la responsabilidad social&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Derechos humanos laborales&lt;/li&gt;
+&lt;li&gt;Conceptos generales&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Observancia de los derechos humanos laborales&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;El Taller de ética se plantea como una asignatura común a todas las carreras del SNIT. Esto se fundamenta en lo siguiente:&lt;/p&gt;
+&lt;p&gt;En el Modelo del Siglo XXI del SNEST se busca una formación profesional que integre, en una totalidad dinámica, la competencia en el quehacer profesional con el ejercicio de una ciudadanía activa, responsable y el desarrollo psicosocial de la persona. Además, en el Código de ética del SNEST, se promueve el desarrollo armonioso de todas las facultades del ser humano. El desarrollo del profesionista requiere de una sólida formación ética.&lt;/p&gt;
+&lt;p&gt;Esta asignatura permite reflexionar y desarrollar el juicio ético, permitirá al estudiante formarse en el convencimiento de que el ejercicio de su profesión constituye no sólo una práctica con compromisos laborales y técnicas diversas, sino que es al mismo tiempo una práctica con responsabilidades como ciudadanos y como personas en la construcción de una mejor sociedad. &lt;br /&gt;Se busca desarrollar la comprensión de conceptos y métodos de la ética, así como la reflexión y experiencia de actos éticos, propicia que se involucre de manera consciente en la búsqueda de la congruencia entre su pensamiento, sus palabras y sus actos. Integrando el saber, el saber hacer con el saber ser.&lt;/p&gt;
+&lt;p&gt;La asignatura brinda la ocasión de aprender a aprender para desarrollar su capacidad de confrontarse consigo mismo, de interrogarse y de reconocerse como un ser que posee dignidad, ideas propias y convicción de su quehacer profesional; derechos, deberes y compromisos en contextos organizacionales, tecnológicos, comunitarios y sociales cada vez más complejos, inciertos y cambiantes que requieren cada vez con mayor frecuencia de reflexiones y decisiones tecnoéticas.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. El sentido de aprender sobre ética&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Generalidades sobre ética&lt;/li&gt;
+&lt;li&gt;La ética, su objeto de estudio y su sentido sociocultural&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;El juicio moral y el juicio ético&lt;/li&gt;
+&lt;li&gt;Valores éticos fundamentales: verdad, responsabilidad justicia y libertad&lt;/li&gt;
+&lt;li&gt;Derechos Humanos&lt;/li&gt;
+&lt;li&gt;Significado y sentido del comportamiento ético&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;En el ámbito personal y social&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;En el ámbito académico&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;En el ejercicio de la ciudadanía&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 2.&amp;nbsp;La ética en la ciencia y la tecnología&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Implicaciones éticas de la investigación científica&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Límites éticos de la investigación&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Decisiones éticas en la investigación científica&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Comportamiento ético del investigador&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Motivaciones del investigador&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Implicaciones éticas en el desarrollo y aplicación de la tecnología&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Conceptos y problemas de la tecnoética y bioética&lt;/li&gt;
+&lt;li&gt;Comportamiento ético del tecnólogo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3.&amp;nbsp;Ética en el ejercicio de la profesión&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Consideraciones generales de la ética profesional&lt;/li&gt;
+&lt;li&gt;Dimensiones, deberes e&lt;/li&gt;
+&lt;li&gt;implicaciones de la ética profesional&lt;/li&gt;
+&lt;li&gt;El profesionista y su ética en el ejercicio del liderazgo&lt;/li&gt;
+&lt;li&gt;Dilemas éticos profesionales&lt;/li&gt;
+&lt;li&gt;Códigos de ética profesionales&lt;/li&gt;
+&lt;li&gt;Contenido, sentido e implicaciones de los códigos de ética profesionales&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4.&amp;nbsp;La ética en las instituciones y organizaciones&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Proceder ético en las instituciones y organizaciones&lt;/li&gt;
+&lt;li&gt;Código de ética de las instituciones y organizaciones&lt;/li&gt;
+&lt;li&gt;Casos concretos del proceder ético en las instituciones y organizaciones&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;La Responsabilidad social de las Instituciones y organizaciones&lt;/li&gt;
+&lt;li&gt;Desarrollo del concepto de Responsabilidad social&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Contexto actual de la responsabilidad social&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;&amp;nbsp;Derechos humanos laborales&lt;/li&gt;
+&lt;li&gt;Conceptos generales&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Observancia de los derechos humanos laborales&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</content>
+		<category term="Reticula" />
+	</entry>
+	<entry>
+		<title>Fundamentos de investigacion</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/reticula/fundamentos"/>
+		<published>2022-03-10T04:37:39+00:00</published>
+		<updated>2022-03-10T04:37:39+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/reticula/fundamentos</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;El programa de la asignatura de Fundamentos de investigación, está diseñado para contribuir en la formación integral de los estudiantes del Sistema Nacional de Institutos Tecnológicos (SNIT); desarrolla las competencias de búsqueda, y manejo de información que se utilizan para el aprendizaje conceptual, procedimental y actitudinal contenido en los planes de estudio de los programas educativos que oferta. La investigación es un proceso que habilita al profesional para conocer, analizar y descubrir áreas de oportunidad en los diferentes ámbitos donde desarrollará su profesión y proponer soluciones interdisciplinarias y colaborativas con un enfoque sustentable.&lt;/p&gt;
+&lt;p&gt;La formación de ingenieros y licenciados en un mundo globalizado, exige el dominio de herramientas de investigación que le permitan gestionar, aplicar y transformar información a contextos complejos y plurales, cuya solución de problemáticas de manera sustentable, es fundamental para la configuración de la sociedad del conocimiento. Esta asignatura se ubica en primer semestre de las carreras del SNIT, ya que integra las competencias necesarias para el desarrollo de investigación documental útil en el proceso de formación profesional durante la carrera, fortaleciendo el compromiso humano y social.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. Conceptos básicos de fundamentos de&amp;nbsp;investigación como proceso de&amp;nbsp;construcción social&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Relación hombre-conocimiento-realidad&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Concepto de realidad y conocimiento&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Proceso de adquisición del conocimiento&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Tipos de conocimiento&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Proceso de construcción de la ciencia&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Definición y características de la ciencia&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Proceso de construcción&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Clasificación de las ciencias&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Métodos&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Definición de método y técnica&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Tipos de métodos; No científicos lógicos y científicos&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Características, etapas y reglas del método científico&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; La investigación y el investigador&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Definición y características de la investigación&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Características del investigador&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Obstáculos de la investigación&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 2. Herramientas de la comunicación oral y escrita en la investigación&amp;nbsp;documental&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li dir=&quot;ltr&quot;&gt;Distinción entre comunicación escrita y oral&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;Técnicas de redacción: coherencia, Concordancia&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;Normas y reglas ortográficas y de puntuación&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;Tipología de textos académicos como herramientas del conocimiento&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;científico (monografía, ensayo, reseña, reporte, tesis, protocolo e informe de&amp;nbsp;investigación)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3. Estudio del desarrollo de su profesión&amp;nbsp;y su estado actual&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Historia, desarrollo y estado actual de la Profesión&lt;/li&gt;
+&lt;li&gt;Los ámbitos del desarrollo de la profesión en el contexto social&lt;/li&gt;
+&lt;li&gt;Las prácticas predominantes y Emergentes de la profesión en el&amp;nbsp;contexto local, nacional e internacional&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4. Proceso de elaboración de una investigación documental&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fuentes de investigación documental&lt;/li&gt;
+&lt;li&gt;Instrumentos de Investigación documental&lt;/li&gt;
+&lt;li&gt;Estructura de la investigación documental&lt;/li&gt;
+&lt;li&gt;Elección y delimitación del tema&lt;/li&gt;
+&lt;li&gt;Objetivos&lt;/li&gt;
+&lt;li&gt;Localización, selección y acopio de información de diferentes fuentes&lt;/li&gt;
+&lt;li&gt;Diseño del esquema de trabajo (temario tentativo)&lt;/li&gt;
+&lt;li&gt;Sistematización de información en los diversos tipos de fichas&lt;/li&gt;
+&lt;li&gt;Organización del fichero&lt;/li&gt;
+&lt;li&gt;Construcción lógica del aparato crítico (Uso de fuentes referenciales utilizadas como fundamento, citas textuales)&lt;/li&gt;
+&lt;li&gt;Elaboración del informe en borrador&lt;/li&gt;
+&lt;li&gt;Correcciones&lt;/li&gt;
+&lt;li&gt;Presentación del informe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Asignaturas relacionadas&lt;/h2&gt;
+&lt;p&gt;{loadmoduleid 184}&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Caracterización de la asignatura&lt;/h2&gt;
+&lt;p&gt;El programa de la asignatura de Fundamentos de investigación, está diseñado para contribuir en la formación integral de los estudiantes del Sistema Nacional de Institutos Tecnológicos (SNIT); desarrolla las competencias de búsqueda, y manejo de información que se utilizan para el aprendizaje conceptual, procedimental y actitudinal contenido en los planes de estudio de los programas educativos que oferta. La investigación es un proceso que habilita al profesional para conocer, analizar y descubrir áreas de oportunidad en los diferentes ámbitos donde desarrollará su profesión y proponer soluciones interdisciplinarias y colaborativas con un enfoque sustentable.&lt;/p&gt;
+&lt;p&gt;La formación de ingenieros y licenciados en un mundo globalizado, exige el dominio de herramientas de investigación que le permitan gestionar, aplicar y transformar información a contextos complejos y plurales, cuya solución de problemáticas de manera sustentable, es fundamental para la configuración de la sociedad del conocimiento. Esta asignatura se ubica en primer semestre de las carreras del SNIT, ya que integra las competencias necesarias para el desarrollo de investigación documental útil en el proceso de formación profesional durante la carrera, fortaleciendo el compromiso humano y social.&lt;/p&gt;
+&lt;h2&gt;Contenido&lt;/h2&gt;
+&lt;h3&gt;Unidad 1. Conceptos básicos de fundamentos de&amp;nbsp;investigación como proceso de&amp;nbsp;construcción social&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Relación hombre-conocimiento-realidad&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Concepto de realidad y conocimiento&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Proceso de adquisición del conocimiento&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Tipos de conocimiento&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Proceso de construcción de la ciencia&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Definición y características de la ciencia&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Proceso de construcción&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Clasificación de las ciencias&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Métodos&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Definición de método y técnica&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Tipos de métodos; No científicos lógicos y científicos&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Características, etapas y reglas del método científico&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; La investigación y el investigador&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Definición y características de la investigación&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Características del investigador&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt; Obstáculos de la investigación&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 2. Herramientas de la comunicación oral y escrita en la investigación&amp;nbsp;documental&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li dir=&quot;ltr&quot;&gt;Distinción entre comunicación escrita y oral&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;Técnicas de redacción: coherencia, Concordancia&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;Normas y reglas ortográficas y de puntuación&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;Tipología de textos académicos como herramientas del conocimiento&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;científico (monografía, ensayo, reseña, reporte, tesis, protocolo e informe de&amp;nbsp;investigación)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 3. Estudio del desarrollo de su profesión&amp;nbsp;y su estado actual&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Historia, desarrollo y estado actual de la Profesión&lt;/li&gt;
+&lt;li&gt;Los ámbitos del desarrollo de la profesión en el contexto social&lt;/li&gt;
+&lt;li&gt;Las prácticas predominantes y Emergentes de la profesión en el&amp;nbsp;contexto local, nacional e internacional&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unidad 4. Proceso de elaboración de una investigación documental&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fuentes de investigación documental&lt;/li&gt;
+&lt;li&gt;Instrumentos de Investigación documental&lt;/li&gt;
+&lt;li&gt;Estructura de la investigación documental&lt;/li&gt;
+&lt;li&gt;Elección y delimitación del tema&lt;/li&gt;
+&lt;li&gt;Objetivos&lt;/li&gt;
+&lt;li&gt;Localización, selección y acopio de información de diferentes fuentes&lt;/li&gt;
+&lt;li&gt;Diseño del esquema de trabajo (temario tentativo)&lt;/li&gt;
+&lt;li&gt;Sistematización de información en los diversos tipos de fichas&lt;/li&gt;
+&lt;li&gt;Organización del fichero&lt;/li&gt;
+&lt;li&gt;Construcción lógica del aparato crítico (Uso de fuentes referenciales utilizadas como fundamento, citas textuales)&lt;/li&gt;
+&lt;li&gt;Elaboración del informe en borrador&lt;/li&gt;
+&lt;li&gt;Correcciones&lt;/li&gt;
+&lt;li&gt;Presentación del informe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Asignaturas relacionadas&lt;/h2&gt;
+&lt;p&gt;{loadmoduleid 184}&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Reticula" />
+	</entry>
+</feed>

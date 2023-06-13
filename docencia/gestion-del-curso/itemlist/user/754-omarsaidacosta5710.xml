@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_dropfiles/assets/css/jaofoldertree.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_dropfiles/assets/css/material-design-iconic-font.min.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/dropfilesthemes/table/css/style.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/dropfilesthemes/table/css/jquery.mediaTable.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_dropfiles/assets/css/front.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gestion del curso</title>
+		<description><![CDATA[My site]]></description>
+		<link>https://www.ingenieriaindustrialitt.org</link>
+		<lastBuildDate>Tue, 07 Feb 2023 05:39:46 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.ingenieriaindustrialitt.org/docencia/gestion-del-curso/itemlist/user/754-omarsaidacosta?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<item>
+			<title>Noticias</title>
+			<link>https://www.ingenieriaindustrialitt.org/noticias</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/noticias</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">&nbsp;{loadmoduleid 192}</span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">{loadmoduleid 193}</span></span></span></span></span></span></p>
+<h3><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"></span></span></h3>
+<p>&nbsp;</p></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Noticias</category>
+			<pubDate>Sun, 13 Mar 2022 03:02:58 +0000</pubDate>
+		</item>
+		<item>
+			<title>¿Qué opinan los alumnos sobre el regreso a clases presenciales?</title>
+			<link>https://www.ingenieriaindustrialitt.org/home/experiencia-regreso-a-clases</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/home/experiencia-regreso-a-clases</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h3></h3>
+<p>{loadmoduleid 177}</p>
+<p>{loadmoduleid 178}</p>
+<h3 style="text-align: center;">Alumnado con pase diario</h3>
+<p>{loadmoduleid 179}</p></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Estudiantes</category>
+			<pubDate>Fri, 04 Mar 2022 01:05:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Protocolo para regreso a clases presenciales</title>
+			<link>https://www.ingenieriaindustrialitt.org/estudiantes/regreso-seguro</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/estudiantes/regreso-seguro</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h3>Recomendaciones sobre la prevención y control de transmisión de COVID -19</h3>
+<p>Asegurarse el cumplimiento de las siguientes pautas de prevención para controlar el riesgo de exposición a nivel individual e institucional antes de entrar a un salón o laboratorio, para poder proteger la salud de alumnos, docentes, personal de limpieza y personal administrativo:</p>
+<p>{loadmoduleid 175}</p>
+<p>Notas:<br />● No asistirán al Instituto aquellos estudiantes, docentes y otros profesionales que tengan síntomas con COVID-19, así como aquellos que se encuentren en aislamiento por diagnóstico de COVID-19, o en período de cuarentena.<br />● En caso de presentar algún malestar dentro de las instalaciones hacerlo saber al docente o alguna autoridad y seguir indicaciones.</p>
+<p>{loadmoduleid 176}</p>
+<h3>&nbsp;Registro para obtención del pase diario</h3>
+<p>&nbsp;</p>
+<!-- Easy Forms -->
+<div id="c8">
+    Completa mi <a href="https://ingenieriaindustrialitt.org/easyforms/app/form?id=PlowDA">formulario en linea</a>.
+</div>
+<script type="text/javascript">
+    (function(d, t) {
+        var s = d.createElement(t), options = {
+            'id': 'PlowDA',
+            'container': 'c8',
+            'height': '1424px',
+            'form': '//ingenieriaindustrialitt.org/easyforms/app/embed'
+        };
+        s.type= 'text/javascript';
+        s.src = '//ingenieriaindustrialitt.org/easyforms/static_files/js/form.widget.js';
+        s.onload = s.onreadystatechange = function() {
+            var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+            try { (new EasyForms()).initialize(options).display() } catch (e) { }
+        };
+        var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+    })(document, 'script');
+</script>
+<!-- End Easy Forms --></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Estudiantes</category>
+			<pubDate>Thu, 24 Feb 2022 04:53:39 +0000</pubDate>
+		</item>
+		<item>
+			<title>Semana académica (Diseño en cartel)</title>
+			<link>https://www.ingenieriaindustrialitt.org/vinculacion/avisos/item/69-semana-academica</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/vinculacion/avisos/item/69-semana-academica</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p style="text-align: center;"><strong><span style="font-size: 18pt; color: #333399;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><img src="https://graffica.info/wp-content/uploads/2020/09/Miguel-Frago-1-1-1024x576.png" alt="Crea soluciones gráficas de gran impacto visual con el diseño de carteles" width="287" height="161" />&nbsp;</span></span></span></span></span></strong></p>
+<p></p>
+</div><div class="K2FeedFullText">
+<p style="text-align: center;"><span style="color: #000080;"><strong><span style="background-color: #ffffff; font-size: 12pt;">Te invita al evento estudiantil </span></strong></span></p>
+<p style="text-align: center;"><span style="color: #000080;"><strong><span style="background-color: #ffffff; font-size: 12pt;">30 de noviembre - 2 de diciembre </span></strong></span></p>
+<p style="text-align: center;"><span style="background-color: #ffffff; font-size: 12pt;">Si quieres asistir al evento de forma presencial, como visitante, regístrate.</span></p>
+<p style="text-align: center;"><span style="background-color: #ffffff; font-size: 12pt;">Si tienes un proyecto final que tienes que presentar en tu materia, puedes solicitar a tu maestro que lo envies al evento como cartel . Las instrucciones para diseñar el cartel, así como las fechas para enviarlo, lo encuentras en:</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;"><strong><span style="background-color: #ffffff;"> <span role="gridcell"><a style="background-color: #ffffff;" tabindex="-1" role="link" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fingenieriaindustrialitt.org%2Feventos%2Fsa2021%3Ffbclid%3DIwAR0cdOIMH-o07lGSyHfq03ekARwB0Yt8WcbAu92ukCgcNOm7X69E9kGITAs&amp;h=AT3yofsmALYrdXeAAPrKO9Wkp7CNz16uFGtXQXA8ZcO4aZSjXadejTCV4BMSMptrMNrgiVk_58jRzkMLntbgcmfosl0vp30_xjfM1xsQKnR7dSt-_IlmNITxtNx2_Dd0myJEVy5K0MJN7Lc9rQKJgA" target="_blank" rel="nofollow noopener">https://ingenieriaindustrialitt.org/eventos/sa2021</a></span> </span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;"><span style="background-color: #ffffff;">S</span>i vas a terminar tu residencia, puedes cambiar tu presentación final con el envío de cartel y presentarlo el día del evento.</span></p>
+<p></p></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Avisos de vinculación</category>
+			<pubDate>Wed, 17 Nov 2021 02:07:06 +0000</pubDate>
+		</item>
+		<item>
+			<title>Formatos</title>
+			<link>https://www.ingenieriaindustrialitt.org/vinculacion/residencias-profesionales/formatos</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/vinculacion/residencias-profesionales/formatos</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p><img style="background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilescategory="40" data-category="40" /></p></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Vinculacion</category>
+			<pubDate>Thu, 04 Nov 2021 01:01:52 +0000</pubDate>
+		</item>
+		<item>
+			<title>Reunión informativa anteproyectos.</title>
+			<link>https://www.ingenieriaindustrialitt.org/vinculacion/avisos/item/63-reunion-informativa-anteproyectos</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/vinculacion/avisos/item/63-reunion-informativa-anteproyectos</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p style="text-align: center;"><strong><span style="font-size: 18pt; color: #333399;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"></span></span></span></span></span></strong></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.ingenieriaindustrialitt.org/images/Reunion.jpg" alt="" width="272" height="181" /></p>
+</div><div class="K2FeedFullText">
+<p>&nbsp;</p>
+<p style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Para interesados ​​en realizar:</span></span></span></span></span></span></span></span></p>
+<p style="text-align: center;"><span style="vertical-align: inherit; color: #339966;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Residencias Profesionales Enero Junio ​​2022</span></span></span></span></span></span></span></span></p>
+<table style="height: 161px; width: 1062px; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr style="border-width: 0px; border-color: #000000; background-color: #adebe7;">
+<td style="border-width: 0px; border-color: #000000; text-align: center;">
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">1ra Reunión informativa Anteproyectos (residencias ene-jun2022)</span></span></span></span></span></span></span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Jueves, 4 de noviembre · 6:00 - 7:00 pm</span></span></span></span></span></span></span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Información para unirse a Google Meet</span></span></span></span></span></span></span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Enlace a la videollamada: </span></span></span></span></span></span></span></span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><a href="https://meet.google.com/kqv-utof-fhe"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">https://meet.google.com/kqv-utof-fhe</span></span></span></span></span></span></a><a href="https://meet.google.com/kqv-utof-fhe"></a></span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><a href="https://meet.google.com/kqv-utof-fhe"></a></span></span><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">O marca el: (EE. UU.) +1 402-724-0096 PIN: 965603 039 #</span></span></span></span></span></span></p>
+</td>
+<td style="text-align: center;">
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">2da Reunión informativa Anteproyectos (residencias enejun2022)</span></span></span></span></span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Jueves, 18 de noviembre · 6:00 - 7:00 pm</span></span></span></span></span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Información para unirse a Google Meet</span></span></span></span></span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Enlace a la videollamada: </span></span></span></span></span></span><a href="https://meet.google.com/bfn-jojz-nid"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">https://meet.google.com/bfn-jojz-nid</span></span></span></span></span></span></a></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">O marca el: (EE. UU.) +1 405-353-0162 PIN: 535067 916 #</span></span></span></span></span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;<a style="text-align: center;" href="mailto:vinculacion.industrial@tectijuana.edu.mx"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">vinculacion.industrial@tectijuana.edu.mx</span></span></span></span></span></span></span></span></a></p>
+<p style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><a href="mailto:vinculacion.semipresencial@tectijuana.edu.mx"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">vinculacion.semipresencial@tectijuana.edu.mx</span></span></span></span></a><a href="mailto:vinculacion.semipresencial@tectijuana.edu.mx"></a></span></span></span></span></p>
+<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">* Se presentara la misma información en las reuniones (ingresar solo a una.)</span></span></span></span></p>
+<p></p></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Avisos de vinculación</category>
+			<pubDate>Fri, 15 Oct 2021 21:37:06 +0000</pubDate>
+		</item>
+		<item>
+			<title>Laboratorio de Simulación</title>
+			<link>https://www.ingenieriaindustrialitt.org/laboratorios/simulacion</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/laboratorios/simulacion</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p style="text-align: center;"><img src="https://www.ingenieriaindustrialitt.org/images/descargas/Centro-de-Cmputo.jpg" alt="" /></p>
+<p style="text-align: justify;"><span id="t2_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">El laboratorio de simulación </span></span></span><span id="t3_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">&nbsp;es el lugar donde se prestan servicios de cómputo a los&nbsp; </span></span></span><span id="t4_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">miembros de la institución educativa. </span><span style="vertical-align: inherit;">T </span></span></span><span id="t5_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">iene&nbsp; </span></span></span><span id="t6_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">como objetivo proporcionar a los usuarios del recinto (estudiantes y personal&nbsp; </span></span></span><span id="t7_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">docente) el servicio de préstamo de equipos de cómputo, para la enseñanza y el&nbsp; </span></span></span><span id="t8_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">aprendizaje de la informática.</span></span></span></p>
+<p style="text-align: justify;"><span id="t9_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Además del préstamo de equipos, en el laboratorio de cómputo se pueden realizar&nbsp; </span></span></span><span id="ta_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">prácticas didácticas para enseñar acerca o con computadoras, con el fin de </span></span></span><span id="tb_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">desarrollar habilidades instrumentales que será posible la interacción de los&nbsp; </span></span></span><span id="tc_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">usuarios con los sistemas de información.</span></span></span></p>
+<p style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Layout del laboratorio de simulación</span></span></p>
+<p style="text-align: center;"><img src="https://www.ingenieriaindustrialitt.org/images/descargas/Laboratorio_de_simulacion.png" alt="" /></p>
+<table style="height: 603px; width: 1089px;">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="10">&nbsp;HORARIO DE LABORATORIO DICM (DIBUJO Y SIMULACION)&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">HORA</td>
+<td style="text-align: center;">CLAVE</td>
+<td style="text-align: center;">SERIE</td>
+<td style="text-align: center;">MATERIA</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">J</td>
+<td style="text-align: center;">V</td>
+<td style="text-align: center;">SALÓN</td>
+</tr>
+<tr>
+<td style="text-align: center;">7 a 8&nbsp;</td>
+<td style="text-align: center;">INN-1008&nbsp;</td>
+<td style="text-align: center;">IN1B&nbsp;</td>
+<td style="text-align: center;">
+<p>(40)Dibujo Industrial (DI)&nbsp;</p>
+<p>López Álvarez Nereyda (2370)</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>C</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>C</p>
+</td>
+<td style="text-align: center;">DICM</td>
+</tr>
+<tr>
+<td style="text-align: center;">8-9.&nbsp;</td>
+<td style="text-align: center;">&nbsp;&nbsp;</td>
+<td style="text-align: center;">IN1C&nbsp;</td>
+<td style="text-align: center;">
+<p>(40)Dibujo Industrial (DI)&nbsp;</p>
+<p>López Álvarez Nereyda (2370)</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>C</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>C</p>
+</td>
+<td style="text-align: center;">DICM</td>
+</tr>
+<tr>
+<td style="text-align: center;">9-10.</td>
+<td style="text-align: center;">INN-1008</td>
+<td style="text-align: center;">IN1D</td>
+<td style="text-align: center;">
+<p>(40)Dibujo Industrial (DI)</p>
+<p>López Álvarez Nereyda (2370)</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">DICM</td>
+</tr>
+<tr>
+<td style="text-align: center;">10 a 11&nbsp;</td>
+<td style="text-align: center;">INN-1008&nbsp;</td>
+<td style="text-align: center;">IN1M&nbsp;</td>
+<td style="text-align: center;">
+<p>(40)Dibujo Industrial (DI)&nbsp;</p>
+<p>López Álvarez Nereyda (2370)</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">DICM</td>
+</tr>
+<tr>
+<td style="text-align: center;">11 a 12</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">DI-C</td>
+<td style="text-align: center;">DI-C</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">12 a 13</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">13-14</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">14-15</td>
+<td style="text-align: center;">INN-1008&nbsp;</td>
+<td style="text-align: center;">IN1A&nbsp;</td>
+<td style="text-align: center;">
+<p>(40)Dibujo Industrial (DI)</p>
+<p>Rivas Maldonado Laura</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>A</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>M</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>A</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>A</p>
+</td>
+<td style="text-align: center;">DICM</td>
+</tr>
+<tr>
+<td style="text-align: center;">15-16&nbsp;</td>
+<td style="text-align: center;">&nbsp;&nbsp;</td>
+<td style="text-align: center;">IN7G</td>
+<td style="text-align: center;">
+<p>(17) Simulación (SIM)</p>
+<p>Ibarra Gamiz Maria Concepcion</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">
+<p>SIM</p>
+<p>G</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">
+<p>SIM</p>
+<p>G</p>
+</td>
+<td style="text-align: center;">
+<p>SIM</p>
+<p>G</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">16-17</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">DICM</td>
+</tr>
+<tr>
+<td style="text-align: center;">17-18</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">18-19</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">
+<p>SIM-F</p>
+</td>
+<td style="text-align: center;">
+<p>SIM-F</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">19-20</td>
+<td style="text-align: center;" rowspan="2">INC-1027</td>
+<td style="text-align: center;">IN7F&nbsp;</td>
+<td style="text-align: center;">
+<p>(45) Simulación (SIM)</p>
+<p>Benitez Sánchez Alejandro</p>
+</td>
+<td style="text-align: center;" rowspan="2">SIM F</td>
+<td style="text-align: center;" rowspan="2">SIM F</td>
+<td style="text-align: center;">SIM</td>
+<td style="text-align: center;">SIM</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">IN7H</td>
+<td style="text-align: center;">
+<p>Simulación (SIM)</p>
+<p>Perez Morales Juan Ramon</p>
+</td>
+<td style="text-align: center;">H-I</td>
+<td style="text-align: center;">H-I</td>
+</tr>
+<tr>
+<td style="text-align: center;">20-21</td>
+<td style="text-align: center;">INC-1027</td>
+<td style="text-align: center;">IN7E (H / I)</td>
+<td style="text-align: center;">
+<p>(45) Simulación (SIM)</p>
+<p>Perez Morales Juan Ramon</p>
+</td>
+<td style="text-align: center;">
+<p>SIM</p>
+<p>E</p>
+</td>
+<td style="text-align: center;">
+<p>SIM</p>
+<p>E</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">21-22</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">
+<p>SIM</p>
+<p>E</p>
+</td>
+<td style="text-align: center;">
+<p>SIM</p>
+<p>E&nbsp;</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Laboratorios</category>
+			<pubDate>Thu, 14 Oct 2021 15:15:58 +0000</pubDate>
+		</item>
+		<item>
+			<title>Laboratorio de Estudio de Trabajo</title>
+			<link>https://www.ingenieriaindustrialitt.org/laboratorios/estudio-de-trabajo</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/laboratorios/estudio-de-trabajo</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">El laboratorio de Estudio del trabajo es un escenario de prácticas académicas investigativas orientado al desarrollo de competencias relacionadas con el perfil profesional y ocupacional del futuro ingeniero industrial.</span></span></p>
+<p style="text-align: justify;"><br /><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">En este laboratorio el estudiante de ingeniería industrial realiza prácticas orientadas a la identificación, documentación, análisis, mejora y diseño de métodos de trabajo, medición y estandarización de operaciones y balances de línea.</span></span></p>
+<p style="text-align: justify;"><br /><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">El laboratorio cuenta con maquinaria como una banda transportadora, transportador de cadena, mesa octagonal giratoria, mesas de trabajo para cada equipo y el material necesario para realizar las practicas.</span></span></p>
+<p></p>
+<table style="height: 573px; width: 1077px;">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="10">HORARIO DE LABORATORIOS DE ESTUDIO DEL TRABAJO I, GRUPOS A, B, C, D, E, M</td>
+</tr>
+<tr>
+<td style="text-align: center;">HORA</td>
+<td style="text-align: center;">CLAVE</td>
+<td style="text-align: center;">SERIE</td>
+<td style="text-align: center;">MATERIA</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">J</td>
+<td style="text-align: center;">V</td>
+<td style="text-align: center;">SALON</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">7-8.&nbsp;</td>
+<td style="text-align: center;" rowspan="2">INJ-1012</td>
+<td style="text-align: center;" rowspan="2">IN4A</td>
+<td style="text-align: center;" rowspan="2">
+<p>Estudio del trabajo II</p>
+<p>Arana Lugo Alejandra</p>
+</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">
+<p>ETII</p>
+<p>A</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">8-9.</td>
+<td style="text-align: center;" rowspan="2">INJ-1011</td>
+<td style="text-align: center;" rowspan="2">IN3B</td>
+<td style="text-align: center;" rowspan="2">
+<p>(26)Estudio del Trabajo I (ETI)</p>
+<p>Gayosso de la Vega Wendy</p>
+</td>
+<td style="text-align: center;" rowspan="2">
+<p>ETI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;" rowspan="2">
+<p>ETI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">ETII</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">A</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="6">9-10.</td>
+<td style="text-align: center;" rowspan="6">INJ-1011</td>
+<td style="text-align: center;" rowspan="2">IN3E</td>
+<td style="text-align: center;" rowspan="2">
+<p>(36)Estudio del Trabajo I (ETI)</p>
+<p>Morales Ochoa Lilia Cristina</p>
+</td>
+<td style="text-align: center;" rowspan="2">
+<p>ETI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;" rowspan="2">
+<p>ETI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;" rowspan="6">ETI&nbsp; E</td>
+<td style="text-align: center;" rowspan="6">&nbsp;</td>
+<td style="text-align: center;">ET II</td>
+<td style="text-align: center;" rowspan="6">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">IN3C</td>
+<td style="text-align: center;" rowspan="2">
+<p>Estudio del trabajo II</p>
+<p>Arana Lugo Alejandra</p>
+</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">IN3D</td>
+<td style="text-align: center;" rowspan="2">
+<p>Estudio del trabajo II&nbsp;</p>
+<p>Elia Marlene Sauceda</p>
+</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">C</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="4">10-11.</td>
+<td style="text-align: center;" rowspan="4">INJ-1011</td>
+<td style="text-align: center;" rowspan="4">IN3A</td>
+<td style="text-align: center;" rowspan="2">
+<p>(32)Estudio del Trabajo I (ETI)</p>
+<p>Marin Vaca Erika Elizabeth</p>
+</td>
+<td style="text-align: center;" rowspan="4">
+<p>ETI&nbsp;&nbsp;</p>
+<p>A</p>
+</td>
+<td style="text-align: center;" rowspan="4">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="4">
+<p>ETI</p>
+<p>E</p>
+</td>
+<td style="text-align: center;" rowspan="4">
+<p>ETII&nbsp;&nbsp;</p>
+<p>B</p>
+</td>
+<td style="text-align: center;">ET II</td>
+<td style="text-align: center;" rowspan="4">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">
+<p>Estudio del trabajo II</p>
+<p>Maria Elena Hernandez Guevara</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">C</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="4">11-12.</td>
+<td style="text-align: center;" rowspan="4">INJ-1011</td>
+<td style="text-align: center;" rowspan="4">IN3C</td>
+<td style="text-align: center;" rowspan="4">
+<p>(18)Estudio del Trabajo I (ETI)</p>
+<p>Arana Lugo Alejandra&nbsp;&nbsp;</p>
+</td>
+<td style="text-align: center;" rowspan="4">
+<p>ETI</p>
+<p>A&nbsp;</p>
+</td>
+<td style="text-align: center;" rowspan="4">&nbsp;</td>
+<td style="text-align: center;" rowspan="4">&nbsp;</td>
+<td style="text-align: center;">ETII</td>
+<td style="text-align: center;" rowspan="4">ETIC&nbsp;</td>
+<td style="text-align: center;" rowspan="4">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">B</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">12-13.</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">ETI</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">C</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">13-14.</td>
+<td style="text-align: center;" rowspan="2">INJ-1011</td>
+<td style="text-align: center;" rowspan="2">IN3D</td>
+<td style="text-align: center;" rowspan="2">
+<p>(29)Estudio del Trabajo I (ETI)</p>
+<p>Morales Ochoa Lilia Cristina</p>
+</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">
+<p>ETI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;" rowspan="2">
+<p>ET II</p>
+<p>E</p>
+</td>
+<td style="text-align: center;">ET II</td>
+<td style="text-align: center;" rowspan="2">207/DILE</td>
+</tr>
+<tr>
+<td style="text-align: center;">N</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="4">14-15&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;INJ-1012</td>
+<td style="text-align: center;" rowspan="2">&nbsp;IN4E</td>
+<td style="text-align: center;" rowspan="2">
+<p>Estudio del trabajo II</p>
+<p>Maria Elena Hernandez Guevara</p>
+</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">
+<p>ETI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;" rowspan="2">
+<p>ET II</p>
+<p>E</p>
+</td>
+<td style="text-align: center;" rowspan="2">
+<p>ET II</p>
+<p>N</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">&nbsp;INJ-1012</td>
+<td style="text-align: center;" rowspan="2">&nbsp;IN4N</td>
+<td style="text-align: center;" rowspan="2">
+<p>Estudio del trabajo II</p>
+<p>Arana Lugo Alejandra</p>
+</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">17-19</td>
+<td style="text-align: center;">INJ- 1011</td>
+<td style="text-align: center;">IN3M</td>
+<td style="text-align: center;">
+<p>(29)Estudio del Trabajo I</p>
+<p>(ETI)Adrian Salazar</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">ETI-M</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Laboratorios</category>
+			<pubDate>Sat, 09 Oct 2021 03:50:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>Manuales</title>
+			<link>https://www.ingenieriaindustrialitt.org/laboratorios/estudio-de-trabajo/manuales-2</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/laboratorios/estudio-de-trabajo/manuales-2</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Laboratorios</category>
+			<pubDate>Wed, 29 Sep 2021 23:12:55 +0000</pubDate>
+		</item>
+		<item>
+			<title>Laboratorio de Ergonomía</title>
+			<link>https://www.ingenieriaindustrialitt.org/laboratorios/ergonomia</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/laboratorios/ergonomia</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p style="text-align: justify;"><span style="font-size: 24pt;"><span style="color: #008000;"><span style="font-size: 12pt; color: #000000;"></span></span></span><span style="font-size: 24pt;"><span style="color: #008000;"><span style="font-size: 12pt; color: #000000;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Durante su trabajo profesional los ingenieros deben definir los problemas, generar hipótesis de soluciones factibles, diseñar y realizar experimentos para comprobarlas a partir de los recursos disponibles, procesar la información utilizando las técnicas estadísticas adecuadas, llegar a conclusiones analizando los resultados obtenidos y diseñar al fin la solución al problema, todo ello haciendo un uso eficiente de la bibliografía relevante más actualizada y descubriendo la información requerida para fundamentar y materializar las soluciones.&nbsp;</span></span></span></span></span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 24pt;"><span style="color: #008000;"><span style="font-size: 12pt; color: #000000;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Las prácticas de laboratorio son fundamentales para que los estudiantes obtengan facilidades por ellos mismos de los métodos y técnicas de trabajo y de la investigación científica, ya que esto les permitirá desarrollar, reforzar y comprobar los fundamentos teóricos adquiridos previamente, empleando los medios necesarios para ello .</span></span></span></span></span><br /></span></span></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"></span></span></span></span></p>
+<div style="text-align: center;" aria-hidden="true">
+<table style="height: 469px; width: 1095px;">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="10"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">HORARIO DE LABORATORIO DE ERGONOMIA</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">HORA</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CLAVE</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">SERIE</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">MATERIA</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">L</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">METRO</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">X</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">J</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">V</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">SALÓN</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">12 - 13</span></span></td>
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">INF-1010</span></span></td>
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">IN6A</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">(41) Ergonomía (ERG)</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Torres López Anel</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">A</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">13 - 14</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">A</span></span></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">14 - 15</span></span></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">15 - 16</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="4"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">16 - 17</span></span></td>
+<td style="text-align: center;" rowspan="4"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">INF-1010</span></span></td>
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">IN6G</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">(31) Ergonomía (ERG)</span></span></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;" rowspan="4">&nbsp;</td>
+<td style="text-align: center;" rowspan="4">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Urías Celaya José Alonso</span></span></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">G</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">IN6F</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">(40) Ergonomía (ERG)</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Daniel eduardo Hernandez Morales</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">F</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">F</span></span></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">G</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">17- 18</span></span></td>
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">INF-1010</span></span></td>
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">IN6E</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">(39) Ergonomía (ERG)</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Realy Vázquez Vargas Arturo</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">E</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">E</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">18 - 19</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">19 - 20</span></span></td>
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">INF-1010</span></span></td>
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">IN6M</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">(41) Ergonomía (ERG)</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Alvarado Nanguelú Samuel</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">M</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">M</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">20 - 21</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 1109px; top: 39px;">&nbsp;</div></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Laboratorios</category>
+			<pubDate>Wed, 29 Sep 2021 05:38:55 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

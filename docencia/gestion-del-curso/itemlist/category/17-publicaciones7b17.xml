@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Gestion del curso</title>
+	<subtitle type="text">My site</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org"/>
+	<id>https://www.ingenieriaindustrialitt.org/docencia/gestion-del-curso/itemlist/category/17-publicaciones</id>
+	<updated>2023-02-07T05:36:20+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.ingenieriaindustrialitt.org/docencia/gestion-del-curso/itemlist/category/17-publicaciones?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Publicaciones</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/docencia/gestion-del-curso/item/42-publicaciones"/>
+		<published>2020-04-18T04:17:40+00:00</published>
+		<updated>2020-04-18T04:17:40+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/docencia/gestion-del-curso/item/42-publicaciones</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;{loadpapers:authors=any:categories=any:years=any:months=any:lab=1:style=ol}&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;{loadpapers:authors=any:categories=any:years=any:months=any:lab=1:style=ol}&lt;/div&gt;</content>
+		<category term="Publicaciones" />
+	</entry>
+</feed>

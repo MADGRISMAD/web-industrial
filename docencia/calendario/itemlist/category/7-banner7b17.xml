@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Calendario</title>
+	<subtitle type="text">My site</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org"/>
+	<id>https://www.ingenieriaindustrialitt.org/docencia/calendario/itemlist/category/7-banner</id>
+	<updated>2023-02-07T05:33:24+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.ingenieriaindustrialitt.org/docencia/calendario/itemlist/category/7-banner?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Banner 2</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/docencia/calendario/item/30-banner-2"/>
+		<published>2019-09-11T03:46:08+00:00</published>
+		<updated>2019-09-11T03:46:08+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/docencia/calendario/item/30-banner-2</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/media/k2/items/cache/1c0ae2205709722b62e843abc0471a55_S.jpg&quot; alt=&quot;Banner 2&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/media/k2/items/cache/1c0ae2205709722b62e843abc0471a55_S.jpg&quot; alt=&quot;Banner 2&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;/div&gt;</content>
+		<category term="Banner" />
+		<link rel="enclosure" href="https://www.ingenieriaindustrialitt.org/media/k2/items/cache/1c0ae2205709722b62e843abc0471a55_S.jpg" type="image/jpeg"  length="15459" />
+	</entry>
+	<entry>
+		<title>Banner 1</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/docencia/calendario/item/29-banner-1"/>
+		<published>2019-09-11T03:27:26+00:00</published>
+		<updated>2019-09-11T03:27:26+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/docencia/calendario/item/29-banner-1</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/media/k2/items/cache/fc34f61d23b74be53ee07d469bd32064_S.jpg&quot; alt=&quot;Banner 1&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/media/k2/items/cache/fc34f61d23b74be53ee07d469bd32064_S.jpg&quot; alt=&quot;Banner 1&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;/div&gt;</content>
+		<category term="Banner" />
+		<link rel="enclosure" href="https://www.ingenieriaindustrialitt.org/media/k2/items/cache/fc34f61d23b74be53ee07d469bd32064_S.jpg" type="image/jpeg"  length="26756" />
+	</entry>
+</feed>

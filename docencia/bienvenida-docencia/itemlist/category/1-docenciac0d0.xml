@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_dropfiles/assets/css/jaofoldertree.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_dropfiles/assets/css/material-design-iconic-font.min.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/dropfilesthemes/table/css/style.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/dropfilesthemes/table/css/jquery.mediaTable.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_dropfiles/assets/css/front.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/dropfilesthemes/default/style.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Bienvenida</title>
+		<description><![CDATA[My site]]></description>
+		<link>https://www.ingenieriaindustrialitt.org</link>
+		<lastBuildDate>Tue, 07 Feb 2023 05:21:59 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.ingenieriaindustrialitt.org/docencia/bienvenida-docencia/itemlist/category/1-docencia?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<item>
+			<title>Instrumentos de evaluación</title>
+			<link>https://www.ingenieriaindustrialitt.org/docencia/instrumentos-de-evaluacion</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/docencia/instrumentos-de-evaluacion</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h2>Rúbricas</h2>
+<p>&nbsp;<img style="background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilescategory="33" data-category="33" /></p></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Docencia</category>
+			<pubDate>Sun, 13 Sep 2020 23:33:56 +0000</pubDate>
+		</item>
+		<item>
+			<title>Criterios de evaluación</title>
+			<link>https://www.ingenieriaindustrialitt.org/docencia/criterios-de-evaluacion</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/docencia/criterios-de-evaluacion</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><style type="text/css">.ac-container input:checked ~ article.ac-large{
+	height: 500px;
+}
+.ac-container label:hover{
+	background: #06326B;
+}</style>
+<section class="ac-container">
+<div><input id="ac-1" checked="checked" name="accordion-1" type="radio" /> <label for="ac-1">Semestre 1</label>
+<article class="ac-large"><img style="background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilescategory="9" data-category="9" /></article>
+</div>
+<div><input id="ac-2" name="accordion-1" type="radio" /> <label for="ac-2">Semestre 2</label>
+<article class="ac-large"><img style="background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilescategory="10" data-category="10" /></article>
+</div>
+<div><input id="ac-3" name="accordion-1" type="radio" /> <label for="ac-3">Semestre 3</label>
+<article class="ac-large"><img style="background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilescategory="11" data-category="11" /></article>
+</div>
+<div><input id="ac-4" name="accordion-1" type="radio" /> <label for="ac-4">Semestre 4</label>
+<article class="ac-large"><img style="background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilescategory="12" data-category="12" /></article>
+</div>
+<div><input id="ac-5" name="accordion-1" type="radio" /> <label for="ac-5">Semestre 5</label>
+<article class="ac-large"><img style="background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilescategory="13" data-category="13" /></article>
+</div>
+<div><input id="ac-6" name="accordion-1" type="radio" /> <label for="ac-6">Semestre 6</label>
+<article class="ac-large"><img style="background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilescategory="15" data-category="15" /></article>
+</div>
+<div><input id="ac-7" name="accordion-1" type="radio" /> <label for="ac-7">Semestre 7</label>
+<article class="ac-large"><img style="background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilescategory="16" data-category="16" /></article>
+</div>
+<div><input id="ac-8" name="accordion-1" type="radio" /> <label for="ac-8">Semestre 8</label>
+<article class="ac-large"><img style="background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilescategory="17" data-category="17" /></article>
+</div>
+<div><input id="ac-9" name="accordion-1" type="radio" /> <label for="ac-9">Semestre 9 Manufactura Avanzada</label>
+<article class="ac-large"><img style="background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilescategory="18" data-category="18" /></article>
+</div>
+<div><input id="ac-10" name="accordion-1" type="radio" /> <label for="ac-10">Semestre 9 Lean Six Sigma</label>
+<article class="ac-large"><img style="background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilescategory="19" data-category="19" /></article>
+</div>
+<div><input id="ac-11" name="accordion-1" type="radio" /> <label for="ac-11">Semestre 10 Manufactura Avanzada</label>
+<article class="ac-large"><img style="background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilescategory="20" data-category="20" /></article>
+</div>
+<div><input id="ac-12" name="accordion-1" type="radio" /> <label for="ac-12">Semestre 10 Lean Six Sigma</label>
+<article class="ac-large"><img style="background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilescategory="21" data-category="21" /></article>
+</div>
+</section></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Docencia</category>
+			<pubDate>Wed, 28 Aug 2019 00:44:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gestión del curso Enero - Junio 2019</title>
+			<link>https://www.ingenieriaindustrialitt.org/docencia/gestion-del-curso</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/docencia/gestion-del-curso</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><style>
+#chartdiv {
+  width: 100%;
+  height: 500px;
+}
+
+</style>
+
+<!-- Resources -->
+<script src="https://www.ingenieriaindustrialitt.org/images/amcharts4/core.js"></script>
+<script src="https://www.ingenieriaindustrialitt.org/images/amcharts4/charts.js"></script>
+<script src="https://www.ingenieriaindustrialitt.org/images/amcharts4/themes/kelly.js"></script>
+<script src="https://www.ingenieriaindustrialitt.org/images/amcharts4/themes/animated.js"></script>
+
+<!-- Chart code -->
+<script>
+am4core.ready(function() {
+
+// Themes begin
+am4core.useTheme(am4themes_kelly);
+am4core.useTheme(am4themes_animated);
+// Themes end
+
+/**
+ * Define data for each year
+ */
+var chartData = {
+  "1995": [
+    { "sector": "En cumplimiento", "size": 92 },
+    { "sector": "Sin cumplimiento", "size": 8 } ],
+  "1996": [
+    { "sector": "En cumplimiento", "size": 75 },
+    { "sector": "Sin cumplimiento", "size": 25 } ],
+  "1997": [
+    { "sector": "En cumplimiento", "size": 53 },
+    { "sector": "Sin cumplimiento", "size": 47 } ],
+  "1998": [
+    { "sector": "En cumplimiento", "size": 96 },
+    { "sector": "Sin cumplimiento", "size": 4 } ]
+};
+
+// Create chart instance
+var chart = am4core.create("chartdiv", am4charts.PieChart);
+
+// Add data
+chart.data = [
+    { "sector": "En cumplimiento", "size": 92 },
+    { "sector": "Sin cumplimiento", "size": 8 }
+];
+
+// Add label
+chart.innerRadius = 120;
+var label = chart.seriesContainer.createChild(am4core.Label);
+label.text = "1995";
+label.horizontalCenter = "middle";
+label.verticalCenter = "middle";
+label.fontSize = 16;
+
+// Add and configure Series
+var pieSeries = chart.series.push(new am4charts.PieSeries());
+pieSeries.dataFields.value = "size";
+pieSeries.dataFields.category = "sector";
+pieSeries.colors.list = [
+  am4core.color("#94cc14"),
+  am4core.color("#d40000")
+];
+
+// Animate chart data
+var currentYear = 1995;
+function getCurrentData() {
+  label.text = currentYear;
+  if(currentYear == 1995)
+    label.text = "Planeación e instrumentación";
+  if(currentYear == 1996)
+    label.text = "1er. Reporte parcial";
+  if(currentYear == 1997)
+    label.text = "2o. Reporte parcial";
+  if(currentYear == 1998)
+    label.text = "Reporte final";
+  var data = chartData[currentYear];
+  currentYear++;
+  if (currentYear > 1998)
+    currentYear = 1995;
+  return data;
+}
+
+function loop() {
+  //chart.allLabels[0].text = currentYear;
+  var data = getCurrentData();
+  for(var i = 0; i < data.length; i++) {
+    chart.data[i].size = data[i].size;
+  }
+  chart.invalidateRawData();
+  chart.setTimeout( loop, 4000 );
+}
+
+loop();
+
+}); // end am4core.ready()
+</script>
+
+<!-- HTML -->
+<div id="chartdiv"></div></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Docencia</category>
+			<pubDate>Wed, 03 Jul 2019 22:46:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>Profesores</title>
+			<link>https://www.ingenieriaindustrialitt.org/docencia/profesores</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/docencia/profesores</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h3>Antigüedad de los profesores en la Institución</h3>
+<style type="text/css">#chartdiv {
+  width: 100%;
+  height: 500px;
+}</style>
+<!-- Resources -->
+<script src="https://www.ingenieriaindustrialitt.org/images/amcharts4/core.js" type="text/javascript"></script>
+<script src="https://www.ingenieriaindustrialitt.org/images/amcharts4/charts.js" type="text/javascript"></script>
+<script src="https://www.ingenieriaindustrialitt.org/images/amcharts4/themes/kelly.js" type="text/javascript"></script>
+<script src="https://www.ingenieriaindustrialitt.org/images/amcharts4/themes/animated.js" type="text/javascript"></script>
+<!-- Chart code -->
+<script type="text/javascript">am4core.ready(function() {
+
+// Themes begin
+am4core.useTheme(am4themes_kelly);
+am4core.useTheme(am4themes_animated);
+// Themes end
+
+var chart = am4core.create("chartdiv", am4charts.PieChart3D);
+chart.hiddenState.properties.opacity = 0; // this creates initial fade-in
+
+chart.legend = new am4charts.Legend();
+
+chart.data = [
+  {
+    country: "36 años o más",
+    litres: 6.1
+  },
+  {
+    country: "De 31 a 35 años",
+    litres: 10.6
+  },
+  {
+    country: "De 26 a 30 años",
+    litres: 4.5
+  },
+  {
+    country: "De 21 a 25 años",
+    litres: 7.6
+  },
+  {
+    country: "De 16 a 20 años",
+    litres: 4.5
+  },
+  {
+    country: "De 11 a 15 años",
+    litres: 3
+  },
+  {
+    country: "De 1 a 3 años",
+    litres: 30.3
+  },
+  {
+    country: "De 4 a 10 años",
+    litres: 33.3
+  }
+];
+
+var series = chart.series.push(new am4charts.PieSeries3D());
+series.dataFields.value = "litres";
+series.dataFields.category = "country";
+
+}); // end am4core.ready()</script>
+<!-- HTML -->
+<div id="chartdiv"></div></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Docencia</category>
+			<pubDate>Mon, 01 Jul 2019 05:35:54 +0000</pubDate>
+		</item>
+		<item>
+			<title>Plan reticular</title>
+			<link>https://www.ingenieriaindustrialitt.org/home/plan-reticular-iind-2010-227</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/home/plan-reticular-iind-2010-227</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h3>Retícula genérica</h3>
+<p>{loadmoduleid 181}</p>
+
+
+<!-- START: Sliders -->
+<div class="rl_sliders nn_sliders accordion panel-group" id="set-rl_sliders-3" role="presentation"><a id="rl_sliders-scrollto_3" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-group panel rl_sliders-group nn_sliders-group active">
+<a id="rl_sliders-scrollto_manufactura-avanzada-3" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading" role="heading" aria-controls="manufactura-avanzada-3">
+<a href="https://www.ingenieriaindustrialitt.org/docencia/bienvenida-docencia/itemlist/category/1-docencia?format=feed&type=rss#manufactura-avanzada-3" title="Manufactura Avanzada" class="accordion-toggle rl_sliders-toggle nn_sliders-toggle" data-toggle="collapse" id="slider-manufactura-avanzada-3" data-id="manufactura-avanzada-3" data-parent="#set-rl_sliders-3" aria-selected="true" aria-expanded="true"><span class="rl_sliders-toggle-inner nn_sliders-toggle-inner"> Manufactura Avanzada</span></a>
+</div>
+<div class="accordion-body rl_sliders-body nn_sliders-body collapse in" role="region" aria-labelledby="slider-manufactura-avanzada-3" aria-hidden="false" id="manufactura-avanzada-3">
+<div class="accordion-inner panel-body">
+<h2 class="rl_sliders-title nn_sliders-title">Manufactura Avanzada</h2>
+<p><img src="https://www.ingenieriaindustrialitt.org/images/Mapa_manufactura.png" alt="Mapa manufactura" /></p>
+<p>Descargable en PDF</p>
+<p><img style="background: url('/components/com_dropfiles/assets/images/file_download.png') no-repeat scroll center center #444444; height: 100px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilesfile="91" data-dropfilesfilecategory="34" data-file="91" /></p>
+
+
+</div></div></div>
+<div class="accordion-group panel rl_sliders-group nn_sliders-group">
+<a id="rl_sliders-scrollto_lean-six-sigma-3" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading" role="heading" aria-controls="lean-six-sigma-3">
+<a href="https://www.ingenieriaindustrialitt.org/docencia/bienvenida-docencia/itemlist/category/1-docencia?format=feed&type=rss#lean-six-sigma-3" title="Lean Six Sigma" class="accordion-toggle rl_sliders-toggle nn_sliders-toggle collapsed" data-toggle="collapse" id="slider-lean-six-sigma-3" data-id="lean-six-sigma-3" data-parent="#set-rl_sliders-3" aria-selected="false" aria-expanded="false"><span class="rl_sliders-toggle-inner nn_sliders-toggle-inner"> Lean Six Sigma</span></a>
+</div>
+<div class="accordion-body rl_sliders-body nn_sliders-body collapse" role="region" aria-labelledby="slider-lean-six-sigma-3" aria-hidden="true" id="lean-six-sigma-3">
+<div class="accordion-inner panel-body">
+<h2 class="rl_sliders-title nn_sliders-title">Lean Six Sigma</h2>
+<p><img src="https://www.ingenieriaindustrialitt.org/images/Mapa_lean.png" alt="Mapa lean" /></p>
+<p>Descargable en PDF</p>
+<p><img style="background: url('/components/com_dropfiles/assets/images/file_download.png') no-repeat scroll center center #444444; height: 100px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilesfile="92" data-dropfilesfilecategory="34" data-file="92" /></p>
+</div></div></div></div><!-- END: Sliders -->
+<p>&nbsp;</p>
+<p>&nbsp;</p></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Docencia</category>
+			<pubDate>Tue, 02 Apr 2019 02:27:45 +0000</pubDate>
+		</item>
+		<item>
+			<title>Gestión de cursos y formatos de referencia</title>
+			<link>https://www.ingenieriaindustrialitt.org/docencia/gestion-y-formatos</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/docencia/gestion-y-formatos</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h2 style="text-align: center;">GESTIÓN DEL CURSO AGOSTO-DICIEMBRE 2018</h2>
+<table>
+<tbody>
+<tr style="text-align: left;">
+<td style="border-image: initial;">
+<p><span style="font-size: 14pt;">a) Planeación e Instrumentación:</span></p>
+</td>
+<td style="text-align: justify;"><span style="font-size: 14pt;">20 AL 24 de AGOSTO DEL 2018&nbsp;</span></td>
+</tr>
+<tr style="text-align: left;">
+<td style="border-image: initial;">
+<p><span style="font-size: 14pt;">b) 1ra. Revisión:</span></p>
+</td>
+<td style="text-align: justify;"><span style="font-size: 14pt;">24 AL 28 DE SEPTIEMBRE DEL 2018</span></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Actualizar en SIE (<a href="http://201.174.121.12/intertec/indexdocente.html">http://201.174.121.12/intertec/indexdocente.html</a>)</li>
+<li>Entregar a docencia vía electrónica: sábana de calificaciones del periodo en cuestión, copia de examen revisado y contestado, toda evidencia que haya formado parte de su evaluación en ese período).</li>
+</ul>
+<div>
+<table>
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: justify;"><span style="font-size: 14pt;">c) 2da. Revisión:&nbsp;</span></td>
+<td style="text-align: justify;"><span style="font-size: 14pt;">29 DE OCTUBRE AL 02 NOVIEMBRE DEL 2018&nbsp;</span></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Actualizar en SIE (<a href="http://201.174.121.12/intertec/indexdocente.html">http://201.174.121.12/intertec/indexdocente.html</a>)</li>
+<li>Entregar a docencia vía electrónica: sábana de calificaciones del periodo en cuestión, copia de examen revisado y contestado, toda evidencia que haya formado parte de su evaluación en ese período).</li>
+</ul>
+</div></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Docencia</category>
+			<pubDate>Fri, 28 Sep 2018 03:43:40 +0000</pubDate>
+		</item>
+		<item>
+			<title>Calendarios</title>
+			<link>https://www.ingenieriaindustrialitt.org/docencia/calendario</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/docencia/calendario</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p>Calendario académico Septiembre 2020</p>
+<p><img style="background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;" src="https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif" alt="" data-dropfilescategory="35" data-category="35" /></p>
+<div id="gtx-trans" style="position: absolute; left: 165px; top: -5px;">&nbsp;</div></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Docencia</category>
+			<pubDate>Fri, 28 Sep 2018 03:40:32 +0000</pubDate>
+		</item>
+		<item>
+			<title>Bienvenidos a Proyectos de Docencia</title>
+			<link>https://www.ingenieriaindustrialitt.org/docencia</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/docencia</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h2>Misión</h2>
+<p>Formar profesionales de la carrera de Ingeniería Industrial, que sean agentes de cambio, comprometidos e integrados al desarrollo de su país, emprendedores, analíticos y creativos, que mejoren la productividad de los sistemas generadores de bienes y servicios, mediante el uso eficiente de los recursos disponibles y la incorporación de procesos de alta tecnología.</p>
+<p>&nbsp;</p>
+<h2>Visión</h2>
+<p>Ser un departamento que integre la docencia, la vinculación y la investigación, para la formación de ingenieros que respondan a los retos en la generación de bienes y servicios de clase mundial</p></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Docencia</category>
+			<pubDate>Fri, 28 Sep 2018 03:13:35 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

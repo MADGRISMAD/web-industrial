@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Bienvenida</title>
+	<subtitle type="text">My site</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org"/>
+	<id>https://www.ingenieriaindustrialitt.org/docencia/bienvenida-docencia/itemlist/category/24-plan-de-estudios</id>
+	<updated>2023-02-07T05:33:30+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.ingenieriaindustrialitt.org/docencia/bienvenida-docencia/itemlist/category/24-plan-de-estudios?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Plan de estudios</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/posgrado/programa/plan-de-estudios"/>
+		<published>2021-10-27T17:09:35+00:00</published>
+		<updated>2021-10-27T17:09:35+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/posgrado/programa/plan-de-estudios</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/posgrado/plan_estudios_maestria.png&quot; alt=&quot;plan estudios maestria&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/posgrado/plan_estudios_maestria.png&quot; alt=&quot;plan estudios maestria&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Plan de estudios" />
+	</entry>
+</feed>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Instrumentos de evaluación</title>
+	<subtitle type="text">My site</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org"/>
+	<id>https://www.ingenieriaindustrialitt.org/docencia/instrumentos-de-evaluacion/itemlist/category/27-perfil-de-ingreso</id>
+	<updated>2023-02-07T05:37:49+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.ingenieriaindustrialitt.org/docencia/instrumentos-de-evaluacion/itemlist/category/27-perfil-de-ingreso?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Perfil de ingreso</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/posgrado/programa/perfil-de-ingreso"/>
+		<published>2020-07-05T02:21:29+00:00</published>
+		<updated>2020-07-05T02:21:29+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/posgrado/programa/perfil-de-ingreso</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Los aspirantes al programa de Maestría en Ingeniería Industrial deberán ser graduados de una licenciatura o ingeniería afín al programa. Así mismo, el candidato deberá tener la disposición de aprender, a fin de mejorar sus capacidades analíticas y disciplina profesional, que le permita diseñar y desarrollar proyectos de innovación en su entorno laboral. Por tal motivo, el aspirante deberá tener empatía con los valores del posgrado y un gran interés en aprender y aplicar nuevas metodologías y tecnologías que le permitan estar a la vanguardia del conocimiento, ser proactivo y aptitud para el trabajo en equipo.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Los aspirantes al programa de Maestría en Ingeniería Industrial deberán ser graduados de una licenciatura o ingeniería afín al programa. Así mismo, el candidato deberá tener la disposición de aprender, a fin de mejorar sus capacidades analíticas y disciplina profesional, que le permita diseñar y desarrollar proyectos de innovación en su entorno laboral. Por tal motivo, el aspirante deberá tener empatía con los valores del posgrado y un gran interés en aprender y aplicar nuevas metodologías y tecnologías que le permitan estar a la vanguardia del conocimiento, ser proactivo y aptitud para el trabajo en equipo.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Perfil de ingreso" />
+	</entry>
+</feed>

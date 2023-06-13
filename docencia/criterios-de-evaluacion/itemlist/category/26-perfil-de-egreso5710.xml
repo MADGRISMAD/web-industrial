@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Criterios de evaluación</title>
+		<description><![CDATA[My site]]></description>
+		<link>https://www.ingenieriaindustrialitt.org</link>
+		<lastBuildDate>Tue, 07 Feb 2023 05:36:56 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.ingenieriaindustrialitt.org/docencia/criterios-de-evaluacion/itemlist/category/26-perfil-de-egreso?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<item>
+			<title>Perfil de egreso</title>
+			<link>https://www.ingenieriaindustrialitt.org/posgrado/programa/perfil-de-egreso</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/posgrado/programa/perfil-de-egreso</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p style="text-align: justify;">El egresado será capaz de diseñar, implantar y mejorar continuamente los sistemas de manufactura, calidad y toma de decisiones en las organizaciones, así como participar en actividades de aplicación en el desarrollo tecnológico, administración de proyectos, excelencia académica y asesoría con apoyo en la computación y grupos multidisciplinarios.</p></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Perfil de egreso</category>
+			<pubDate>Sun, 05 Jul 2020 02:22:35 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

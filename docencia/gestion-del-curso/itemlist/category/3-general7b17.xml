@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/dropfilesthemes/default/style.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_dropfiles/assets/css/front.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Gestion del curso</title>
+	<subtitle type="text">My site</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org"/>
+	<id>https://www.ingenieriaindustrialitt.org/docencia/gestion-del-curso/itemlist/category/3-general</id>
+	<updated>2023-02-07T05:36:27+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.ingenieriaindustrialitt.org/docencia/gestion-del-curso/itemlist/category/3-general?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Organización</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/home/organigrama"/>
+		<published>2019-09-23T21:28:10+00:00</published>
+		<updated>2019-09-23T21:28:10+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/home/organigrama</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/organigrama_feb2022.png&quot; alt=&quot;organigrama feb2022&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Descargable en PDF&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/file_download.png') no-repeat scroll center center #444444; height: 100px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilesfile=&quot;112&quot; data-dropfilesfilecategory=&quot;34&quot; data-file=&quot;112&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/organigrama_feb2022.png&quot; alt=&quot;organigrama feb2022&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Descargable en PDF&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/file_download.png') no-repeat scroll center center #444444; height: 100px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilesfile=&quot;112&quot; data-dropfilesfilecategory=&quot;34&quot; data-file=&quot;112&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="General" />
+	</entry>
+	<entry>
+		<title>Plan de Desarrollo Departamental</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/home/plan-de-desarrollo-departamental"/>
+		<published>2019-09-05T16:29:10+00:00</published>
+		<updated>2019-09-05T16:29:10+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/home/plan-de-desarrollo-departamental</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;{pdf=/downloads/general/PDD 2016-2020.pdf|100%|600|native}&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;{pdf=/downloads/general/PDD 2016-2020.pdf|100%|600|native}&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="General" />
+	</entry>
+	<entry>
+		<title>Plan de contingencia</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/home/plan-de-contingencia"/>
+		<published>2019-08-28T18:17:03+00:00</published>
+		<updated>2019-08-28T18:17:03+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/home/plan-de-contingencia</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h3&gt;&amp;nbsp;Contingencia Covid-19&lt;/h3&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.ingenieriaindustrialitt.org/images/descargas/269519695_695194535199962_1205816642787482040_n.png&quot; alt=&quot;&quot; width=&quot;762&quot; height=&quot;327&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Coronavirus&lt;/h3&gt;
+&lt;p&gt;Los coronavirus son una extensa familia de virus que pueden causar enfermedades tanto en animales como en humanos. En los humanos, se sabe que varios coronavirus causan infecciones respiratorias que pueden ir desde el resfriado común hasta enfermedades más graves como el síndrome respiratorio de Oriente Medio (MERS) y el síndrome respiratorio agudo severo (SRAS). El coronavirus que se ha descubierto más recientemente causa la enfermedad por coronavirus COVID-19. (OMS: 2020)&lt;/p&gt;
+&lt;p&gt;COVID-19 La COVID-19 es la enfermedad infecciosa causada por el coronavirus que se ha descubierto más recientemente. Tanto el nuevo virus como la enfermedad eran desconocidos antes de que estallara el brote en Wuhan (China) en diciembre de 2019. (OMS: 2020).&lt;br /&gt;&lt;br /&gt;Medidas para la prevención del COVID-19, en base a información extraída de la página oficial de la OMS:&lt;br /&gt;Lávese las manos a fondo y con frecuencia usando un desinfectante a base de&amp;nbsp;alcohol o con agua y jabón. Lavarse las manos con agua y jabón o usando un&amp;nbsp;desinfectante a base de alcohol mata los virus que pueda haber en sus manos.&lt;br /&gt;Mantenga una distancia mínima de 1 metro (3 pies) entre usted y cualquier&amp;nbsp;persona que tosa o estornude. Cuando alguien tose o estornuda, despide por la nariz o por la boca unas gotículas de líquido que pueden contener el virus. Si&amp;nbsp;está demasiado cerca, puede respirar las gotículas y con ellas el virus de la&amp;nbsp;COVID-19, si la persona que tose tiene la enfermedad.&amp;nbsp;Evite tocarse los ojos, la nariz y la boca. Las manos tocan muchas superficies y&amp;nbsp;pueden recoger virus. Una vez contaminadas, las manos pueden transferir el&amp;nbsp;virus a los ojos, la nariz o la boca. Desde allí, el virus puede entrar en su cuerpo&amp;nbsp;y causarle la enfermedad.&amp;nbsp;Tanto usted como las personas que les rodean deben asegurarse de mantener&amp;nbsp;una buena higiene de las vías respiratorias. Eso significa cubrirse la boca y la&amp;nbsp;nariz con el codo doblado o con un pañuelo de papel al toser o estornudar.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.ingenieriaindustrialitt.org/images/descargas/273627322_674069013634845_2777235076030426301_n.png&quot; alt=&quot;&quot; width=&quot;456&quot; height=&quot;532&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Imagen 1. Recomendaciones para prevenir el coronavirus&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h4&gt;Garantice la seguridad de las operaciones en la escuela&lt;/h4&gt;
+&lt;p&gt;El alumno y docentes:&lt;br /&gt;Una vez dentro de las instalaciones de la institución, antes de accesar a cualquier&amp;nbsp;laboratorio o salón lavarse las manos en las estaciones para el lavado de manos con agua y jabón y, disponga un gel con contenido de alcohol para las manos (desinfectante de manos) así como en las salidas.&lt;/p&gt;
+&lt;p&gt;A continuación, la forma correcta de lavarse las manos&lt;/p&gt;
+&lt;p&gt;Paso 1: Mojar las manos con agua corriente segura.&lt;br /&gt;Paso 2: Aplicar suficiente jabón para cubrir las manos húmedas.&lt;br /&gt;Paso 3: Frotar todas las superficies de las manos –incluyendo el dorso, entre los&amp;nbsp;dedos y bajo las uñas– durante al menos 20 segundos.&lt;br /&gt;Paso 4: Enjuagar las manos a fondo con agua corriente.&lt;br /&gt;Paso 5: Secarse las manos con un paño limpio y seco, una toalla de un solo uso&amp;nbsp;un secador de manos, según sea el caso.&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.ingenieriaindustrialitt.org/images/descargas/269614552_321619356650416_6857204632032846680_n.jpg&quot; alt=&quot;&quot; width=&quot;554&quot; height=&quot;542&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Imagen 2. Tecnica de lavado de manos&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Mantener la sana distancia dentro de los laboratorios y salones, los asientos de las alumnas y alumnos deberán estar y mantenerse a una distancia libre de 1.5 metros hacia sus cuatro lados. Esto debe preverse también en los espacios destinados para los docentes y oficinas administrativas de la escuela.&lt;/p&gt;
+&lt;p&gt;Mantenerte con cubre bocas en áreas cerradas, salones, laboratorios, baños y oficinas.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.ingenieriaindustrialitt.org/images/descargas/259313357_1303812126750148_6992798777541590681_n.jpg&quot; alt=&quot;&quot; width=&quot;614&quot; height=&quot;558&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Imagen 3. Uso correcto de cubrebocas&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;En la entrada y salida sigue las señalizaciones del sentido de tránsito para mantener la circulación ordenada en el interior de salones y laboratorios evitando la saturación en las vías de acceso y movilidad al interior.&lt;br /&gt;La distribución del mobiliario escolar en las aulas de clase dependerá de las&amp;nbsp;dimensiones de los salones de cada Unidad Académica, por tal motivo, se&amp;nbsp;presenta la estructuración de mobiliario con la aplicación de la medida de&amp;nbsp;prevención de sano distanciamiento físico entre las personas.&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.ingenieriaindustrialitt.org/images/descargas/260775889_604398717529632_8728555405523698082_n.png&quot; alt=&quot;&quot; width=&quot;737&quot; height=&quot;369&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Imagen 4. Distancia social&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;En los dos modelos de aulas deberán aplicarse los protocolos de limpieza y&amp;nbsp;desinfección previa al inicio de clases y al finalizar la jornada laboral. En los&amp;nbsp;intervalos de cada tres clases, las ventanas de las aulas deberán de abrirse,&amp;nbsp;garantizando que el espacio sea ventilado de manera natural.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/descargas/273066712_258676466421608_6395784106153927376_n.png&quot; alt=&quot;&quot; width=&quot;521&quot; height=&quot;338&quot; /&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/descargas/273058528_422400139636676_3786859853122109538_n.png&quot; alt=&quot;&quot; width=&quot;491&quot; height=&quot;358&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Imagen 5. Modelo de aulas&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;● Limpiar y desinfectar las superficies que se tocan con frecuencia en las áreas de trabajo, salones de clase, laboratorios y talleres, como cerraduras y manijas de puertas, llaves de lavabos, pasamanos, barras de agarre, escritorios, pupitres, equipo de cómputo y de oficina, gabinetes y lockers, equipo de laboratorio, entre otros, dentro de las instalaciones de las unidades académicas.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;● Los productos químicos de limpieza a emplear son a base de hipoclorito de sodio con concentraciones de al menos 0.5% o con productos autorizados por las instancias de salud estatal y federal que cumplan con las medidas de protección al ambiente. El área de servicios generales coordinará y vigilará el cumplimiento de esta medida de prevención.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;● Limpieza y desinfección de filtros de aires acondicionados, vigilando en todo momento que la actividad se realice cuando menos cada quince días, para lo cual, se implementará una programación de la medida de prevención para cada unidad académica por el área de mantenimiento.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;● Para minimizar el riesgo de otras enfermedades asociadas al agua y garantizar agua limpia en los lavabos para el lavado de manos con medida de prevención de contagios del COVID-19, todos los sistemas de almacenamiento de agua potable de las Unidades Académicas se limpiarán y desinfectarán, previo al regreso de actividades en el contexto de la nueva normalidad por personal del área de mantenimiento.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;{pdf=/downloads/general/Plan_de_contingencia.pdf|100%|600|native}&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h3&gt;&amp;nbsp;Contingencia Covid-19&lt;/h3&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.ingenieriaindustrialitt.org/images/descargas/269519695_695194535199962_1205816642787482040_n.png&quot; alt=&quot;&quot; width=&quot;762&quot; height=&quot;327&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Coronavirus&lt;/h3&gt;
+&lt;p&gt;Los coronavirus son una extensa familia de virus que pueden causar enfermedades tanto en animales como en humanos. En los humanos, se sabe que varios coronavirus causan infecciones respiratorias que pueden ir desde el resfriado común hasta enfermedades más graves como el síndrome respiratorio de Oriente Medio (MERS) y el síndrome respiratorio agudo severo (SRAS). El coronavirus que se ha descubierto más recientemente causa la enfermedad por coronavirus COVID-19. (OMS: 2020)&lt;/p&gt;
+&lt;p&gt;COVID-19 La COVID-19 es la enfermedad infecciosa causada por el coronavirus que se ha descubierto más recientemente. Tanto el nuevo virus como la enfermedad eran desconocidos antes de que estallara el brote en Wuhan (China) en diciembre de 2019. (OMS: 2020).&lt;br /&gt;&lt;br /&gt;Medidas para la prevención del COVID-19, en base a información extraída de la página oficial de la OMS:&lt;br /&gt;Lávese las manos a fondo y con frecuencia usando un desinfectante a base de&amp;nbsp;alcohol o con agua y jabón. Lavarse las manos con agua y jabón o usando un&amp;nbsp;desinfectante a base de alcohol mata los virus que pueda haber en sus manos.&lt;br /&gt;Mantenga una distancia mínima de 1 metro (3 pies) entre usted y cualquier&amp;nbsp;persona que tosa o estornude. Cuando alguien tose o estornuda, despide por la nariz o por la boca unas gotículas de líquido que pueden contener el virus. Si&amp;nbsp;está demasiado cerca, puede respirar las gotículas y con ellas el virus de la&amp;nbsp;COVID-19, si la persona que tose tiene la enfermedad.&amp;nbsp;Evite tocarse los ojos, la nariz y la boca. Las manos tocan muchas superficies y&amp;nbsp;pueden recoger virus. Una vez contaminadas, las manos pueden transferir el&amp;nbsp;virus a los ojos, la nariz o la boca. Desde allí, el virus puede entrar en su cuerpo&amp;nbsp;y causarle la enfermedad.&amp;nbsp;Tanto usted como las personas que les rodean deben asegurarse de mantener&amp;nbsp;una buena higiene de las vías respiratorias. Eso significa cubrirse la boca y la&amp;nbsp;nariz con el codo doblado o con un pañuelo de papel al toser o estornudar.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.ingenieriaindustrialitt.org/images/descargas/273627322_674069013634845_2777235076030426301_n.png&quot; alt=&quot;&quot; width=&quot;456&quot; height=&quot;532&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Imagen 1. Recomendaciones para prevenir el coronavirus&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h4&gt;Garantice la seguridad de las operaciones en la escuela&lt;/h4&gt;
+&lt;p&gt;El alumno y docentes:&lt;br /&gt;Una vez dentro de las instalaciones de la institución, antes de accesar a cualquier&amp;nbsp;laboratorio o salón lavarse las manos en las estaciones para el lavado de manos con agua y jabón y, disponga un gel con contenido de alcohol para las manos (desinfectante de manos) así como en las salidas.&lt;/p&gt;
+&lt;p&gt;A continuación, la forma correcta de lavarse las manos&lt;/p&gt;
+&lt;p&gt;Paso 1: Mojar las manos con agua corriente segura.&lt;br /&gt;Paso 2: Aplicar suficiente jabón para cubrir las manos húmedas.&lt;br /&gt;Paso 3: Frotar todas las superficies de las manos –incluyendo el dorso, entre los&amp;nbsp;dedos y bajo las uñas– durante al menos 20 segundos.&lt;br /&gt;Paso 4: Enjuagar las manos a fondo con agua corriente.&lt;br /&gt;Paso 5: Secarse las manos con un paño limpio y seco, una toalla de un solo uso&amp;nbsp;un secador de manos, según sea el caso.&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.ingenieriaindustrialitt.org/images/descargas/269614552_321619356650416_6857204632032846680_n.jpg&quot; alt=&quot;&quot; width=&quot;554&quot; height=&quot;542&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Imagen 2. Tecnica de lavado de manos&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Mantener la sana distancia dentro de los laboratorios y salones, los asientos de las alumnas y alumnos deberán estar y mantenerse a una distancia libre de 1.5 metros hacia sus cuatro lados. Esto debe preverse también en los espacios destinados para los docentes y oficinas administrativas de la escuela.&lt;/p&gt;
+&lt;p&gt;Mantenerte con cubre bocas en áreas cerradas, salones, laboratorios, baños y oficinas.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.ingenieriaindustrialitt.org/images/descargas/259313357_1303812126750148_6992798777541590681_n.jpg&quot; alt=&quot;&quot; width=&quot;614&quot; height=&quot;558&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Imagen 3. Uso correcto de cubrebocas&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;En la entrada y salida sigue las señalizaciones del sentido de tránsito para mantener la circulación ordenada en el interior de salones y laboratorios evitando la saturación en las vías de acceso y movilidad al interior.&lt;br /&gt;La distribución del mobiliario escolar en las aulas de clase dependerá de las&amp;nbsp;dimensiones de los salones de cada Unidad Académica, por tal motivo, se&amp;nbsp;presenta la estructuración de mobiliario con la aplicación de la medida de&amp;nbsp;prevención de sano distanciamiento físico entre las personas.&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.ingenieriaindustrialitt.org/images/descargas/260775889_604398717529632_8728555405523698082_n.png&quot; alt=&quot;&quot; width=&quot;737&quot; height=&quot;369&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Imagen 4. Distancia social&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;En los dos modelos de aulas deberán aplicarse los protocolos de limpieza y&amp;nbsp;desinfección previa al inicio de clases y al finalizar la jornada laboral. En los&amp;nbsp;intervalos de cada tres clases, las ventanas de las aulas deberán de abrirse,&amp;nbsp;garantizando que el espacio sea ventilado de manera natural.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/descargas/273066712_258676466421608_6395784106153927376_n.png&quot; alt=&quot;&quot; width=&quot;521&quot; height=&quot;338&quot; /&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/descargas/273058528_422400139636676_3786859853122109538_n.png&quot; alt=&quot;&quot; width=&quot;491&quot; height=&quot;358&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Imagen 5. Modelo de aulas&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;● Limpiar y desinfectar las superficies que se tocan con frecuencia en las áreas de trabajo, salones de clase, laboratorios y talleres, como cerraduras y manijas de puertas, llaves de lavabos, pasamanos, barras de agarre, escritorios, pupitres, equipo de cómputo y de oficina, gabinetes y lockers, equipo de laboratorio, entre otros, dentro de las instalaciones de las unidades académicas.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;● Los productos químicos de limpieza a emplear son a base de hipoclorito de sodio con concentraciones de al menos 0.5% o con productos autorizados por las instancias de salud estatal y federal que cumplan con las medidas de protección al ambiente. El área de servicios generales coordinará y vigilará el cumplimiento de esta medida de prevención.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;● Limpieza y desinfección de filtros de aires acondicionados, vigilando en todo momento que la actividad se realice cuando menos cada quince días, para lo cual, se implementará una programación de la medida de prevención para cada unidad académica por el área de mantenimiento.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;● Para minimizar el riesgo de otras enfermedades asociadas al agua y garantizar agua limpia en los lavabos para el lavado de manos con medida de prevención de contagios del COVID-19, todos los sistemas de almacenamiento de agua potable de las Unidades Académicas se limpiarán y desinfectarán, previo al regreso de actividades en el contexto de la nueva normalidad por personal del área de mantenimiento.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;{pdf=/downloads/general/Plan_de_contingencia.pdf|100%|600|native}&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="General" />
+	</entry>
+	<entry>
+		<title>Valores</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/home/valores"/>
+		<published>2019-08-27T20:19:29+00:00</published>
+		<updated>2019-08-27T20:19:29+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/home/valores</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;&lt;strong&gt;Pertenencia.&lt;/strong&gt; Promover el orgullo de formar parte de la institución, plenamente identificado, convencido y comprometido con la misión y visión del tecnológico.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Responsabilidad.&lt;/strong&gt; Cumplir con las funciones y tareas, individual y grupalmente, con un sentido de compromiso y un enfoque centrado en la calidad.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Integridad.&lt;/strong&gt; Fomentar la autenticidad y congruencia entre nuestros valores y comportamientos.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Profesionalismo.&lt;/strong&gt; Ser ético, respetuoso, competente y mantenerse actualizado.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Innovación.&lt;/strong&gt; Fomentar la creación y desarrollo de proyectos que induzcan al logro de la visión institucional.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Compromiso social.&lt;/strong&gt; Desempeñarse con espíritu de servicio y coadyuvar, a través de la educación tecnológica, al cambio económico, político y social, así como a la preservación del medio ambiente.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trabajo en equipo.&lt;/strong&gt; Promover la colaboración, la armonía y la equidad con actitud proactiva multiplicando los logros del bien común.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Alto desempeño.&lt;/strong&gt; Cumplir y elevar estándares de calidad, sustentados en el desarrollo humano.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;&lt;strong&gt;Pertenencia.&lt;/strong&gt; Promover el orgullo de formar parte de la institución, plenamente identificado, convencido y comprometido con la misión y visión del tecnológico.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Responsabilidad.&lt;/strong&gt; Cumplir con las funciones y tareas, individual y grupalmente, con un sentido de compromiso y un enfoque centrado en la calidad.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Integridad.&lt;/strong&gt; Fomentar la autenticidad y congruencia entre nuestros valores y comportamientos.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Profesionalismo.&lt;/strong&gt; Ser ético, respetuoso, competente y mantenerse actualizado.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Innovación.&lt;/strong&gt; Fomentar la creación y desarrollo de proyectos que induzcan al logro de la visión institucional.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Compromiso social.&lt;/strong&gt; Desempeñarse con espíritu de servicio y coadyuvar, a través de la educación tecnológica, al cambio económico, político y social, así como a la preservación del medio ambiente.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trabajo en equipo.&lt;/strong&gt; Promover la colaboración, la armonía y la equidad con actitud proactiva multiplicando los logros del bien común.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Alto desempeño.&lt;/strong&gt; Cumplir y elevar estándares de calidad, sustentados en el desarrollo humano.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="General" />
+	</entry>
+	<entry>
+		<title>Atributos del egresado</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/home/atributos-del-egresado"/>
+		<published>2019-06-28T20:12:23+00:00</published>
+		<updated>2019-06-28T20:12:23+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/home/atributos-del-egresado</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;&lt;span style=&quot;vertical-align: inherit;&quot;&gt;&lt;span style=&quot;vertical-align: inherit;&quot;&gt;{loadmoduleid 180}&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;&lt;span style=&quot;vertical-align: inherit;&quot;&gt;&lt;span style=&quot;vertical-align: inherit;&quot;&gt;{loadmoduleid 180}&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="General" />
+	</entry>
+	<entry>
+		<title>Misión y visión</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/home/mision-y-vision"/>
+		<published>2019-06-28T19:43:47+00:00</published>
+		<updated>2019-06-28T19:43:47+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/home/mision-y-vision</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Misión&lt;/h2&gt;
+&lt;p&gt;Formar ingenieros industriales utilizando modelos educativos de vanguardia con una orientación analítica y humana que les permita ser competitivos, éticos y que estén comprometidos con el desarrollo sustentable.&lt;/p&gt;
+&lt;h2&gt;Visión&lt;/h2&gt;
+&lt;p&gt;Ser un departamento que integre la docencia, la vinculación y la investigación, para la formación de ingenieros que respondan a los retos en la generación de bienes y servicios de clase mundial.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Misión&lt;/h2&gt;
+&lt;p&gt;Formar ingenieros industriales utilizando modelos educativos de vanguardia con una orientación analítica y humana que les permita ser competitivos, éticos y que estén comprometidos con el desarrollo sustentable.&lt;/p&gt;
+&lt;h2&gt;Visión&lt;/h2&gt;
+&lt;p&gt;Ser un departamento que integre la docencia, la vinculación y la investigación, para la formación de ingenieros que respondan a los retos en la generación de bienes y servicios de clase mundial.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="General" />
+	</entry>
+	<entry>
+		<title>Objetivos educacionales</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/home/objetivos-educacionales"/>
+		<published>2019-06-28T19:32:52+00:00</published>
+		<updated>2019-06-28T19:32:52+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/home/objetivos-educacionales</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;ul class=&quot;ul_numbers&quot;&gt;
+&lt;li class=&quot;li_number1&quot;&gt;El egresado será capaz de diseñar estrategias y gestionar los recursos para los sistemas productivos de bienes y servicios en las organizaciones bajo los principios de industria limpia en un plazo máximo de 5 años después de su egreso.&lt;/li&gt;
+&lt;li class=&quot;li_number2&quot;&gt;El egresado será capaz de analizar, mejorar e implementar sistemas productivos de bienes y servicios en las organizaciones bajo los principios de industria limpia en un plazo máximo de 4 años después de su egreso.&lt;/li&gt;
+&lt;li class=&quot;li_number3&quot;&gt;El egresado será capaz de tomar decisiones y resolver problemas a través de ideas creativas e innovadoras bajo los principios de productividad y competitividad en un plazo máximo de 5 años.&lt;/li&gt;
+&lt;li class=&quot;li_number4&quot;&gt;El egresado buscará su desarrollo profesional de forma permanente a través de la actualización en las metodologías y herramientas emergentes aplicables en las organizaciones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Perfil de egreso&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Analizar, diseñar y gestionar sistemas productivos desde la provisión&amp;nbsp; de insumos hasta la entrega de bienes&amp;nbsp; y servicios, integrándolos con eficacia y eficiencia.&lt;/li&gt;
+&lt;li&gt;Conocer, seleccionar y aplicar tecnologías para optimizar procesos productivos.&lt;/li&gt;
+&lt;li&gt;Diseñar, implementar y administrar sistemas de mantenimiento para eficientar la operación de las&amp;nbsp; instalaciones y equipos.&lt;/li&gt;
+&lt;li&gt;Implementar sistemas de gestión de calidad para satisfacer los requerimientos del cliente y partes interesadas.&lt;/li&gt;
+&lt;li&gt;Utilizar los instrumentos de medición requeridos en la certificación y/o acreditación con las normas vigentes.&lt;/li&gt;
+&lt;li&gt;Interpretar e implementar estrategias y métodos estadísticos en los procesos organizacionales para la mejora continua.&lt;/li&gt;
+&lt;li&gt;Seleccionar y adecuar modelos de calidad y diseño de experimentos en procesos organizacionales para su optimización.&lt;/li&gt;
+&lt;li&gt;Gestionar sistemas de seguridad, salud ocupacional y protección al medio ambiente, en industrias de producción y de servicios.&lt;/li&gt;
+&lt;li&gt;Identificar necesidades de su entorno y desarrollar investigación aplicada para crear e innovar bienes y servicios.&lt;/li&gt;
+&lt;li&gt;Crear y mejorar productos de alto valor agregado bajo los principios de productividad y competitividad.&lt;/li&gt;
+&lt;li&gt;Seleccionar e implementar tecnologías de información y&amp;nbsp; comunicación dentro de la empresa.&lt;/li&gt;
+&lt;li&gt;Participar en proyectos de transferencia, desarrollo y adaptación de tecnologías en los sistemas productivos.&lt;/li&gt;
+&lt;li&gt;Diseñar, implementar y mejorar sistemas&amp;nbsp; y estaciones de trabajo considerando factores ergonómicos para optimizar&amp;nbsp; la producción.&lt;/li&gt;
+&lt;li&gt;Participar en la estandarización de operaciones para la transferencia y adaptación de los sistemas productivos.&lt;/li&gt;
+&lt;li&gt;Manejar y aplicar las normas y estándares en&amp;nbsp; el análisis de operaciones de los sistemas de producción.&lt;/li&gt;
+&lt;li&gt;Emprender e incubar empresas con base tecnológica, que promueva el desarrollo socioeconómico de una región, así como su constitución legal.&lt;/li&gt;
+&lt;li&gt;Formular, evaluar y gestionar proyectos de inversión, que le permita emprender la&amp;nbsp; creación de unidades productivas de bienes y servicios bajo criterios de competitividad y sustentabilidad.&lt;/li&gt;
+&lt;li&gt;Tomar decisiones para la mejora de sistemas productivos y de servicios, fundamentadas en planteamientos y modelos analíticos.&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;ul class=&quot;ul_numbers&quot;&gt;
+&lt;li class=&quot;li_number1&quot;&gt;El egresado será capaz de diseñar estrategias y gestionar los recursos para los sistemas productivos de bienes y servicios en las organizaciones bajo los principios de industria limpia en un plazo máximo de 5 años después de su egreso.&lt;/li&gt;
+&lt;li class=&quot;li_number2&quot;&gt;El egresado será capaz de analizar, mejorar e implementar sistemas productivos de bienes y servicios en las organizaciones bajo los principios de industria limpia en un plazo máximo de 4 años después de su egreso.&lt;/li&gt;
+&lt;li class=&quot;li_number3&quot;&gt;El egresado será capaz de tomar decisiones y resolver problemas a través de ideas creativas e innovadoras bajo los principios de productividad y competitividad en un plazo máximo de 5 años.&lt;/li&gt;
+&lt;li class=&quot;li_number4&quot;&gt;El egresado buscará su desarrollo profesional de forma permanente a través de la actualización en las metodologías y herramientas emergentes aplicables en las organizaciones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Perfil de egreso&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Analizar, diseñar y gestionar sistemas productivos desde la provisión&amp;nbsp; de insumos hasta la entrega de bienes&amp;nbsp; y servicios, integrándolos con eficacia y eficiencia.&lt;/li&gt;
+&lt;li&gt;Conocer, seleccionar y aplicar tecnologías para optimizar procesos productivos.&lt;/li&gt;
+&lt;li&gt;Diseñar, implementar y administrar sistemas de mantenimiento para eficientar la operación de las&amp;nbsp; instalaciones y equipos.&lt;/li&gt;
+&lt;li&gt;Implementar sistemas de gestión de calidad para satisfacer los requerimientos del cliente y partes interesadas.&lt;/li&gt;
+&lt;li&gt;Utilizar los instrumentos de medición requeridos en la certificación y/o acreditación con las normas vigentes.&lt;/li&gt;
+&lt;li&gt;Interpretar e implementar estrategias y métodos estadísticos en los procesos organizacionales para la mejora continua.&lt;/li&gt;
+&lt;li&gt;Seleccionar y adecuar modelos de calidad y diseño de experimentos en procesos organizacionales para su optimización.&lt;/li&gt;
+&lt;li&gt;Gestionar sistemas de seguridad, salud ocupacional y protección al medio ambiente, en industrias de producción y de servicios.&lt;/li&gt;
+&lt;li&gt;Identificar necesidades de su entorno y desarrollar investigación aplicada para crear e innovar bienes y servicios.&lt;/li&gt;
+&lt;li&gt;Crear y mejorar productos de alto valor agregado bajo los principios de productividad y competitividad.&lt;/li&gt;
+&lt;li&gt;Seleccionar e implementar tecnologías de información y&amp;nbsp; comunicación dentro de la empresa.&lt;/li&gt;
+&lt;li&gt;Participar en proyectos de transferencia, desarrollo y adaptación de tecnologías en los sistemas productivos.&lt;/li&gt;
+&lt;li&gt;Diseñar, implementar y mejorar sistemas&amp;nbsp; y estaciones de trabajo considerando factores ergonómicos para optimizar&amp;nbsp; la producción.&lt;/li&gt;
+&lt;li&gt;Participar en la estandarización de operaciones para la transferencia y adaptación de los sistemas productivos.&lt;/li&gt;
+&lt;li&gt;Manejar y aplicar las normas y estándares en&amp;nbsp; el análisis de operaciones de los sistemas de producción.&lt;/li&gt;
+&lt;li&gt;Emprender e incubar empresas con base tecnológica, que promueva el desarrollo socioeconómico de una región, así como su constitución legal.&lt;/li&gt;
+&lt;li&gt;Formular, evaluar y gestionar proyectos de inversión, que le permita emprender la&amp;nbsp; creación de unidades productivas de bienes y servicios bajo criterios de competitividad y sustentabilidad.&lt;/li&gt;
+&lt;li&gt;Tomar decisiones para la mejora de sistemas productivos y de servicios, fundamentadas en planteamientos y modelos analíticos.&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;</content>
+		<category term="General" />
+	</entry>
+</feed>

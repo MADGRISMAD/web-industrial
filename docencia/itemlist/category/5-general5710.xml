@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Docencia</title>
+		<description><![CDATA[My site]]></description>
+		<link>https://www.ingenieriaindustrialitt.org</link>
+		<lastBuildDate>Tue, 07 Feb 2023 05:32:35 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.ingenieriaindustrialitt.org/docencia/itemlist/category/5-general?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<item>
+			<title>Laboratorio de Simulación</title>
+			<link>https://www.ingenieriaindustrialitt.org/laboratorios/simulacion</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/laboratorios/simulacion</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p style="text-align: center;"><img src="https://www.ingenieriaindustrialitt.org/images/descargas/Centro-de-Cmputo.jpg" alt="" /></p>
+<p style="text-align: justify;"><span id="t2_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">El laboratorio de simulación </span></span></span><span id="t3_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">&nbsp;es el lugar donde se prestan servicios de cómputo a los&nbsp; </span></span></span><span id="t4_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">miembros de la institución educativa. </span><span style="vertical-align: inherit;">T </span></span></span><span id="t5_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">iene&nbsp; </span></span></span><span id="t6_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">como objetivo proporcionar a los usuarios del recinto (estudiantes y personal&nbsp; </span></span></span><span id="t7_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">docente) el servicio de préstamo de equipos de cómputo, para la enseñanza y el&nbsp; </span></span></span><span id="t8_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">aprendizaje de la informática.</span></span></span></p>
+<p style="text-align: justify;"><span id="t9_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Además del préstamo de equipos, en el laboratorio de cómputo se pueden realizar&nbsp; </span></span></span><span id="ta_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">prácticas didácticas para enseñar acerca o con computadoras, con el fin de </span></span></span><span id="tb_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">desarrollar habilidades instrumentales que será posible la interacción de los&nbsp; </span></span></span><span id="tc_2" class="t s2_2 f0"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">usuarios con los sistemas de información.</span></span></span></p>
+<p style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Layout del laboratorio de simulación</span></span></p>
+<p style="text-align: center;"><img src="https://www.ingenieriaindustrialitt.org/images/descargas/Laboratorio_de_simulacion.png" alt="" /></p>
+<table style="height: 603px; width: 1089px;">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="10">&nbsp;HORARIO DE LABORATORIO DICM (DIBUJO Y SIMULACION)&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">HORA</td>
+<td style="text-align: center;">CLAVE</td>
+<td style="text-align: center;">SERIE</td>
+<td style="text-align: center;">MATERIA</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">J</td>
+<td style="text-align: center;">V</td>
+<td style="text-align: center;">SALÓN</td>
+</tr>
+<tr>
+<td style="text-align: center;">7 a 8&nbsp;</td>
+<td style="text-align: center;">INN-1008&nbsp;</td>
+<td style="text-align: center;">IN1B&nbsp;</td>
+<td style="text-align: center;">
+<p>(40)Dibujo Industrial (DI)&nbsp;</p>
+<p>López Álvarez Nereyda (2370)</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>C</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>C</p>
+</td>
+<td style="text-align: center;">DICM</td>
+</tr>
+<tr>
+<td style="text-align: center;">8-9.&nbsp;</td>
+<td style="text-align: center;">&nbsp;&nbsp;</td>
+<td style="text-align: center;">IN1C&nbsp;</td>
+<td style="text-align: center;">
+<p>(40)Dibujo Industrial (DI)&nbsp;</p>
+<p>López Álvarez Nereyda (2370)</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>C</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>C</p>
+</td>
+<td style="text-align: center;">DICM</td>
+</tr>
+<tr>
+<td style="text-align: center;">9-10.</td>
+<td style="text-align: center;">INN-1008</td>
+<td style="text-align: center;">IN1D</td>
+<td style="text-align: center;">
+<p>(40)Dibujo Industrial (DI)</p>
+<p>López Álvarez Nereyda (2370)</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">DICM</td>
+</tr>
+<tr>
+<td style="text-align: center;">10 a 11&nbsp;</td>
+<td style="text-align: center;">INN-1008&nbsp;</td>
+<td style="text-align: center;">IN1M&nbsp;</td>
+<td style="text-align: center;">
+<p>(40)Dibujo Industrial (DI)&nbsp;</p>
+<p>López Álvarez Nereyda (2370)</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">DICM</td>
+</tr>
+<tr>
+<td style="text-align: center;">11 a 12</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">DI-C</td>
+<td style="text-align: center;">DI-C</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">12 a 13</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">13-14</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">14-15</td>
+<td style="text-align: center;">INN-1008&nbsp;</td>
+<td style="text-align: center;">IN1A&nbsp;</td>
+<td style="text-align: center;">
+<p>(40)Dibujo Industrial (DI)</p>
+<p>Rivas Maldonado Laura</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>A</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>M</p>
+</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>A</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">
+<p>DI</p>
+<p>A</p>
+</td>
+<td style="text-align: center;">DICM</td>
+</tr>
+<tr>
+<td style="text-align: center;">15-16&nbsp;</td>
+<td style="text-align: center;">&nbsp;&nbsp;</td>
+<td style="text-align: center;">IN7G</td>
+<td style="text-align: center;">
+<p>(17) Simulación (SIM)</p>
+<p>Ibarra Gamiz Maria Concepcion</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">
+<p>SIM</p>
+<p>G</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">
+<p>SIM</p>
+<p>G</p>
+</td>
+<td style="text-align: center;">
+<p>SIM</p>
+<p>G</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">16-17</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">DICM</td>
+</tr>
+<tr>
+<td style="text-align: center;">17-18</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">18-19</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">
+<p>SIM-F</p>
+</td>
+<td style="text-align: center;">
+<p>SIM-F</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">19-20</td>
+<td style="text-align: center;" rowspan="2">INC-1027</td>
+<td style="text-align: center;">IN7F&nbsp;</td>
+<td style="text-align: center;">
+<p>(45) Simulación (SIM)</p>
+<p>Benitez Sánchez Alejandro</p>
+</td>
+<td style="text-align: center;" rowspan="2">SIM F</td>
+<td style="text-align: center;" rowspan="2">SIM F</td>
+<td style="text-align: center;">SIM</td>
+<td style="text-align: center;">SIM</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">IN7H</td>
+<td style="text-align: center;">
+<p>Simulación (SIM)</p>
+<p>Perez Morales Juan Ramon</p>
+</td>
+<td style="text-align: center;">H-I</td>
+<td style="text-align: center;">H-I</td>
+</tr>
+<tr>
+<td style="text-align: center;">20-21</td>
+<td style="text-align: center;">INC-1027</td>
+<td style="text-align: center;">IN7E (H / I)</td>
+<td style="text-align: center;">
+<p>(45) Simulación (SIM)</p>
+<p>Perez Morales Juan Ramon</p>
+</td>
+<td style="text-align: center;">
+<p>SIM</p>
+<p>E</p>
+</td>
+<td style="text-align: center;">
+<p>SIM</p>
+<p>E</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">21-22</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">
+<p>SIM</p>
+<p>E</p>
+</td>
+<td style="text-align: center;">
+<p>SIM</p>
+<p>E&nbsp;</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Laboratorios</category>
+			<pubDate>Thu, 14 Oct 2021 15:15:58 +0000</pubDate>
+		</item>
+		<item>
+			<title>Laboratorio de Estudio de Trabajo</title>
+			<link>https://www.ingenieriaindustrialitt.org/laboratorios/estudio-de-trabajo</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/laboratorios/estudio-de-trabajo</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">El laboratorio de Estudio del trabajo es un escenario de prácticas académicas investigativas orientado al desarrollo de competencias relacionadas con el perfil profesional y ocupacional del futuro ingeniero industrial.</span></span></p>
+<p style="text-align: justify;"><br /><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">En este laboratorio el estudiante de ingeniería industrial realiza prácticas orientadas a la identificación, documentación, análisis, mejora y diseño de métodos de trabajo, medición y estandarización de operaciones y balances de línea.</span></span></p>
+<p style="text-align: justify;"><br /><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">El laboratorio cuenta con maquinaria como una banda transportadora, transportador de cadena, mesa octagonal giratoria, mesas de trabajo para cada equipo y el material necesario para realizar las practicas.</span></span></p>
+<p></p>
+<table style="height: 573px; width: 1077px;">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="10">HORARIO DE LABORATORIOS DE ESTUDIO DEL TRABAJO I, GRUPOS A, B, C, D, E, M</td>
+</tr>
+<tr>
+<td style="text-align: center;">HORA</td>
+<td style="text-align: center;">CLAVE</td>
+<td style="text-align: center;">SERIE</td>
+<td style="text-align: center;">MATERIA</td>
+<td style="text-align: center;">L</td>
+<td style="text-align: center;">M</td>
+<td style="text-align: center;">X</td>
+<td style="text-align: center;">J</td>
+<td style="text-align: center;">V</td>
+<td style="text-align: center;">SALON</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">7-8.&nbsp;</td>
+<td style="text-align: center;" rowspan="2">INJ-1012</td>
+<td style="text-align: center;" rowspan="2">IN4A</td>
+<td style="text-align: center;" rowspan="2">
+<p>Estudio del trabajo II</p>
+<p>Arana Lugo Alejandra</p>
+</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">
+<p>ETII</p>
+<p>A</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">8-9.</td>
+<td style="text-align: center;" rowspan="2">INJ-1011</td>
+<td style="text-align: center;" rowspan="2">IN3B</td>
+<td style="text-align: center;" rowspan="2">
+<p>(26)Estudio del Trabajo I (ETI)</p>
+<p>Gayosso de la Vega Wendy</p>
+</td>
+<td style="text-align: center;" rowspan="2">
+<p>ETI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;" rowspan="2">
+<p>ETI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">ETII</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">A</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="6">9-10.</td>
+<td style="text-align: center;" rowspan="6">INJ-1011</td>
+<td style="text-align: center;" rowspan="2">IN3E</td>
+<td style="text-align: center;" rowspan="2">
+<p>(36)Estudio del Trabajo I (ETI)</p>
+<p>Morales Ochoa Lilia Cristina</p>
+</td>
+<td style="text-align: center;" rowspan="2">
+<p>ETI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;" rowspan="2">
+<p>ETI</p>
+<p>B</p>
+</td>
+<td style="text-align: center;" rowspan="6">ETI&nbsp; E</td>
+<td style="text-align: center;" rowspan="6">&nbsp;</td>
+<td style="text-align: center;">ET II</td>
+<td style="text-align: center;" rowspan="6">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">IN3C</td>
+<td style="text-align: center;" rowspan="2">
+<p>Estudio del trabajo II</p>
+<p>Arana Lugo Alejandra</p>
+</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">IN3D</td>
+<td style="text-align: center;" rowspan="2">
+<p>Estudio del trabajo II&nbsp;</p>
+<p>Elia Marlene Sauceda</p>
+</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">C</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="4">10-11.</td>
+<td style="text-align: center;" rowspan="4">INJ-1011</td>
+<td style="text-align: center;" rowspan="4">IN3A</td>
+<td style="text-align: center;" rowspan="2">
+<p>(32)Estudio del Trabajo I (ETI)</p>
+<p>Marin Vaca Erika Elizabeth</p>
+</td>
+<td style="text-align: center;" rowspan="4">
+<p>ETI&nbsp;&nbsp;</p>
+<p>A</p>
+</td>
+<td style="text-align: center;" rowspan="4">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="4">
+<p>ETI</p>
+<p>E</p>
+</td>
+<td style="text-align: center;" rowspan="4">
+<p>ETII&nbsp;&nbsp;</p>
+<p>B</p>
+</td>
+<td style="text-align: center;">ET II</td>
+<td style="text-align: center;" rowspan="4">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">
+<p>Estudio del trabajo II</p>
+<p>Maria Elena Hernandez Guevara</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">C</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="4">11-12.</td>
+<td style="text-align: center;" rowspan="4">INJ-1011</td>
+<td style="text-align: center;" rowspan="4">IN3C</td>
+<td style="text-align: center;" rowspan="4">
+<p>(18)Estudio del Trabajo I (ETI)</p>
+<p>Arana Lugo Alejandra&nbsp;&nbsp;</p>
+</td>
+<td style="text-align: center;" rowspan="4">
+<p>ETI</p>
+<p>A&nbsp;</p>
+</td>
+<td style="text-align: center;" rowspan="4">&nbsp;</td>
+<td style="text-align: center;" rowspan="4">&nbsp;</td>
+<td style="text-align: center;">ETII</td>
+<td style="text-align: center;" rowspan="4">ETIC&nbsp;</td>
+<td style="text-align: center;" rowspan="4">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">B</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">12-13.</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">ETI</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">C</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">13-14.</td>
+<td style="text-align: center;" rowspan="2">INJ-1011</td>
+<td style="text-align: center;" rowspan="2">IN3D</td>
+<td style="text-align: center;" rowspan="2">
+<p>(29)Estudio del Trabajo I (ETI)</p>
+<p>Morales Ochoa Lilia Cristina</p>
+</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">
+<p>ETI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;" rowspan="2">
+<p>ET II</p>
+<p>E</p>
+</td>
+<td style="text-align: center;">ET II</td>
+<td style="text-align: center;" rowspan="2">207/DILE</td>
+</tr>
+<tr>
+<td style="text-align: center;">N</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="4">14-15&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;INJ-1012</td>
+<td style="text-align: center;" rowspan="2">&nbsp;IN4E</td>
+<td style="text-align: center;" rowspan="2">
+<p>Estudio del trabajo II</p>
+<p>Maria Elena Hernandez Guevara</p>
+</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">
+<p>ETI</p>
+<p>D</p>
+</td>
+<td style="text-align: center;" rowspan="2">
+<p>ET II</p>
+<p>E</p>
+</td>
+<td style="text-align: center;" rowspan="2">
+<p>ET II</p>
+<p>N</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2">&nbsp;INJ-1012</td>
+<td style="text-align: center;" rowspan="2">&nbsp;IN4N</td>
+<td style="text-align: center;" rowspan="2">
+<p>Estudio del trabajo II</p>
+<p>Arana Lugo Alejandra</p>
+</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">17-19</td>
+<td style="text-align: center;">INJ- 1011</td>
+<td style="text-align: center;">IN3M</td>
+<td style="text-align: center;">
+<p>(29)Estudio del Trabajo I</p>
+<p>(ETI)Adrian Salazar</p>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">ETI-M</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Laboratorios</category>
+			<pubDate>Sat, 09 Oct 2021 03:50:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>Manuales</title>
+			<link>https://www.ingenieriaindustrialitt.org/laboratorios/estudio-de-trabajo/manuales-2</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/laboratorios/estudio-de-trabajo/manuales-2</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Laboratorios</category>
+			<pubDate>Wed, 29 Sep 2021 23:12:55 +0000</pubDate>
+		</item>
+		<item>
+			<title>Laboratorio de Ergonomía</title>
+			<link>https://www.ingenieriaindustrialitt.org/laboratorios/ergonomia</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/laboratorios/ergonomia</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p style="text-align: justify;"><span style="font-size: 24pt;"><span style="color: #008000;"><span style="font-size: 12pt; color: #000000;"></span></span></span><span style="font-size: 24pt;"><span style="color: #008000;"><span style="font-size: 12pt; color: #000000;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Durante su trabajo profesional los ingenieros deben definir los problemas, generar hipótesis de soluciones factibles, diseñar y realizar experimentos para comprobarlas a partir de los recursos disponibles, procesar la información utilizando las técnicas estadísticas adecuadas, llegar a conclusiones analizando los resultados obtenidos y diseñar al fin la solución al problema, todo ello haciendo un uso eficiente de la bibliografía relevante más actualizada y descubriendo la información requerida para fundamentar y materializar las soluciones.&nbsp;</span></span></span></span></span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: 24pt;"><span style="color: #008000;"><span style="font-size: 12pt; color: #000000;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Las prácticas de laboratorio son fundamentales para que los estudiantes obtengan facilidades por ellos mismos de los métodos y técnicas de trabajo y de la investigación científica, ya que esto les permitirá desarrollar, reforzar y comprobar los fundamentos teóricos adquiridos previamente, empleando los medios necesarios para ello .</span></span></span></span></span><br /></span></span></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"></span></span></span></span></p>
+<div style="text-align: center;" aria-hidden="true">
+<table style="height: 469px; width: 1095px;">
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="10"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">HORARIO DE LABORATORIO DE ERGONOMIA</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">HORA</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">CLAVE</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">SERIE</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">MATERIA</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">L</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">METRO</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">X</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">J</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">V</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">SALÓN</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">12 - 13</span></span></td>
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">INF-1010</span></span></td>
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">IN6A</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">(41) Ergonomía (ERG)</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Torres López Anel</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">A</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">13 - 14</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">A</span></span></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">14 - 15</span></span></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">15 - 16</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="4"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">16 - 17</span></span></td>
+<td style="text-align: center;" rowspan="4"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">INF-1010</span></span></td>
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">IN6G</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">(31) Ergonomía (ERG)</span></span></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;" rowspan="4">&nbsp;</td>
+<td style="text-align: center;" rowspan="4">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Urías Celaya José Alonso</span></span></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">G</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">IN6F</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">(40) Ergonomía (ERG)</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Daniel eduardo Hernandez Morales</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">F</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">F</span></span></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">G</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">17- 18</span></span></td>
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">INF-1010</span></span></td>
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">IN6E</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">(39) Ergonomía (ERG)</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Realy Vázquez Vargas Arturo</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">E</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">E</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">18 - 19</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">19 - 20</span></span></td>
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">INF-1010</span></span></td>
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">IN6M</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">(41) Ergonomía (ERG)</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">ERG</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Alvarado Nanguelú Samuel</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">M</span></span></td>
+<td style="text-align: center;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">M</span></span></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;" rowspan="2"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">20 - 21</span></span></td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+<td style="text-align: center;" rowspan="2">&nbsp;</td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 1109px; top: 39px;">&nbsp;</div></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Laboratorios</category>
+			<pubDate>Wed, 29 Sep 2021 05:38:55 +0000</pubDate>
+		</item>
+		<item>
+			<title>.</title>
+			<link>https://www.ingenieriaindustrialitt.org/home/area-de-ingenieria-industrial</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/home/area-de-ingenieria-industrial</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Laboratorios</category>
+			<pubDate>Thu, 11 Jul 2019 22:48:59 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

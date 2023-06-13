@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Profesores</title>
+		<description><![CDATA[My site]]></description>
+		<link>https://www.ingenieriaindustrialitt.org</link>
+		<lastBuildDate>Tue, 07 Feb 2023 05:39:29 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.ingenieriaindustrialitt.org/docencia/profesores/itemlist/category/14-programa-de-estudios?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<item>
+			<title>Pre-registro maestria</title>
+			<link>https://www.ingenieriaindustrialitt.org/posgrado/programa/pre-registro</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/posgrado/programa/pre-registro</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><!-- Easy Forms -->
+<div id="c3">Completa mi <a href="https://ingenieriaindustrialitt.org/easyforms/app/form?id=TMGmFw">formulario en linea</a>.</div>
+<script type="text/javascript">(function(d, t) {
+        var s = d.createElement(t), options = {
+            'id': 'TMGmFw',
+            'theme': 0,
+            'container': 'c3',
+            'height': '912px',
+            'form': '//ingenieriaindustrialitt.org/easyforms/app/embed'
+        };
+        s.type= 'text/javascript';
+        s.src = '//ingenieriaindustrialitt.org/easyforms/static_files/js/form.widget.js';
+        s.onload = s.onreadystatechange = function() {
+            var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+            try { (new EasyForms()).initialize(options).display() } catch (e) { }
+        };
+        var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+    })(document, 'script');</script>
+<!-- End Easy Forms --></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Admision</category>
+			<pubDate>Wed, 27 Oct 2021 19:09:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>Plan de estudios</title>
+			<link>https://www.ingenieriaindustrialitt.org/posgrado/programa/plan-de-estudios</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/posgrado/programa/plan-de-estudios</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p><img src="https://www.ingenieriaindustrialitt.org/images/posgrado/plan_estudios_maestria.png" alt="plan estudios maestria" /></p></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Plan de estudios</category>
+			<pubDate>Wed, 27 Oct 2021 17:09:35 +0000</pubDate>
+		</item>
+		<item>
+			<title>Perfil de egreso</title>
+			<link>https://www.ingenieriaindustrialitt.org/posgrado/programa/perfil-de-egreso</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/posgrado/programa/perfil-de-egreso</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p style="text-align: justify;">El egresado será capaz de diseñar, implantar y mejorar continuamente los sistemas de manufactura, calidad y toma de decisiones en las organizaciones, así como participar en actividades de aplicación en el desarrollo tecnológico, administración de proyectos, excelencia académica y asesoría con apoyo en la computación y grupos multidisciplinarios.</p></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Perfil de egreso</category>
+			<pubDate>Sun, 05 Jul 2020 02:22:35 +0000</pubDate>
+		</item>
+		<item>
+			<title>Perfil de ingreso</title>
+			<link>https://www.ingenieriaindustrialitt.org/posgrado/programa/perfil-de-ingreso</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/posgrado/programa/perfil-de-ingreso</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p style="text-align: justify;">Los aspirantes al programa de Maestría en Ingeniería Industrial deberán ser graduados de una licenciatura o ingeniería afín al programa. Así mismo, el candidato deberá tener la disposición de aprender, a fin de mejorar sus capacidades analíticas y disciplina profesional, que le permita diseñar y desarrollar proyectos de innovación en su entorno laboral. Por tal motivo, el aspirante deberá tener empatía con los valores del posgrado y un gran interés en aprender y aplicar nuevas metodologías y tecnologías que le permitan estar a la vanguardia del conocimiento, ser proactivo y aptitud para el trabajo en equipo.</p></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Perfil de ingreso</category>
+			<pubDate>Sun, 05 Jul 2020 02:21:29 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

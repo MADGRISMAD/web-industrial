@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_dropfiles/assets/css/jaofoldertree.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_dropfiles/assets/css/material-design-iconic-font.min.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/dropfilesthemes/table/css/style.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/dropfilesthemes/table/css/jquery.mediaTable.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_dropfiles/assets/css/front.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/dropfilesthemes/default/style.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Docencia</title>
+	<subtitle type="text">My site</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org"/>
+	<id>https://www.ingenieriaindustrialitt.org/docencia/itemlist/category/1-docencia</id>
+	<updated>2023-02-07T05:21:52+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.ingenieriaindustrialitt.org/docencia/itemlist/category/1-docencia?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Instrumentos de evaluación</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/docencia/instrumentos-de-evaluacion"/>
+		<published>2020-09-13T23:33:56+00:00</published>
+		<updated>2020-09-13T23:33:56+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/docencia/instrumentos-de-evaluacion</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Rúbricas&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;33&quot; data-category=&quot;33&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Rúbricas&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;33&quot; data-category=&quot;33&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Docencia" />
+	</entry>
+	<entry>
+		<title>Criterios de evaluación</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/docencia/criterios-de-evaluacion"/>
+		<published>2019-08-28T00:44:53+00:00</published>
+		<updated>2019-08-28T00:44:53+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/docencia/criterios-de-evaluacion</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;.ac-container input:checked ~ article.ac-large{
+	height: 500px;
+}
+.ac-container label:hover{
+	background: #06326B;
+}&lt;/style&gt;
+&lt;section class=&quot;ac-container&quot;&gt;
+&lt;div&gt;&lt;input id=&quot;ac-1&quot; checked=&quot;checked&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-1&quot;&gt;Semestre 1&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;9&quot; data-category=&quot;9&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-2&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-2&quot;&gt;Semestre 2&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;10&quot; data-category=&quot;10&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-3&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-3&quot;&gt;Semestre 3&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;11&quot; data-category=&quot;11&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-4&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-4&quot;&gt;Semestre 4&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;12&quot; data-category=&quot;12&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-5&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-5&quot;&gt;Semestre 5&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;13&quot; data-category=&quot;13&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-6&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-6&quot;&gt;Semestre 6&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;15&quot; data-category=&quot;15&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-7&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-7&quot;&gt;Semestre 7&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;16&quot; data-category=&quot;16&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-8&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-8&quot;&gt;Semestre 8&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;17&quot; data-category=&quot;17&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-9&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-9&quot;&gt;Semestre 9 Manufactura Avanzada&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;18&quot; data-category=&quot;18&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-10&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-10&quot;&gt;Semestre 9 Lean Six Sigma&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;19&quot; data-category=&quot;19&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-11&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-11&quot;&gt;Semestre 10 Manufactura Avanzada&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;20&quot; data-category=&quot;20&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-12&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-12&quot;&gt;Semestre 10 Lean Six Sigma&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;21&quot; data-category=&quot;21&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/section&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;style type=&quot;text/css&quot;&gt;.ac-container input:checked ~ article.ac-large{
+	height: 500px;
+}
+.ac-container label:hover{
+	background: #06326B;
+}&lt;/style&gt;
+&lt;section class=&quot;ac-container&quot;&gt;
+&lt;div&gt;&lt;input id=&quot;ac-1&quot; checked=&quot;checked&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-1&quot;&gt;Semestre 1&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;9&quot; data-category=&quot;9&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-2&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-2&quot;&gt;Semestre 2&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;10&quot; data-category=&quot;10&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-3&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-3&quot;&gt;Semestre 3&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;11&quot; data-category=&quot;11&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-4&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-4&quot;&gt;Semestre 4&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;12&quot; data-category=&quot;12&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-5&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-5&quot;&gt;Semestre 5&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;13&quot; data-category=&quot;13&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-6&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-6&quot;&gt;Semestre 6&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;15&quot; data-category=&quot;15&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-7&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-7&quot;&gt;Semestre 7&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;16&quot; data-category=&quot;16&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-8&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-8&quot;&gt;Semestre 8&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;17&quot; data-category=&quot;17&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-9&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-9&quot;&gt;Semestre 9 Manufactura Avanzada&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;18&quot; data-category=&quot;18&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-10&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-10&quot;&gt;Semestre 9 Lean Six Sigma&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;19&quot; data-category=&quot;19&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-11&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-11&quot;&gt;Semestre 10 Manufactura Avanzada&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;20&quot; data-category=&quot;20&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;input id=&quot;ac-12&quot; name=&quot;accordion-1&quot; type=&quot;radio&quot; /&gt; &lt;label for=&quot;ac-12&quot;&gt;Semestre 10 Lean Six Sigma&lt;/label&gt;
+&lt;article class=&quot;ac-large&quot;&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;21&quot; data-category=&quot;21&quot; /&gt;&lt;/article&gt;
+&lt;/div&gt;
+&lt;/section&gt;&lt;/div&gt;</content>
+		<category term="Docencia" />
+	</entry>
+	<entry>
+		<title>Gestión del curso Enero - Junio 2019</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/docencia/gestion-del-curso"/>
+		<published>2019-07-03T22:46:28+00:00</published>
+		<updated>2019-07-03T22:46:28+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/docencia/gestion-del-curso</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;style&gt;
+#chartdiv {
+  width: 100%;
+  height: 500px;
+}
+
+&lt;/style&gt;
+
+&lt;!-- Resources --&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/core.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/charts.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/themes/kelly.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/themes/animated.js&quot;&gt;&lt;/script&gt;
+
+&lt;!-- Chart code --&gt;
+&lt;script&gt;
+am4core.ready(function() {
+
+// Themes begin
+am4core.useTheme(am4themes_kelly);
+am4core.useTheme(am4themes_animated);
+// Themes end
+
+/**
+ * Define data for each year
+ */
+var chartData = {
+  &quot;1995&quot;: [
+    { &quot;sector&quot;: &quot;En cumplimiento&quot;, &quot;size&quot;: 92 },
+    { &quot;sector&quot;: &quot;Sin cumplimiento&quot;, &quot;size&quot;: 8 } ],
+  &quot;1996&quot;: [
+    { &quot;sector&quot;: &quot;En cumplimiento&quot;, &quot;size&quot;: 75 },
+    { &quot;sector&quot;: &quot;Sin cumplimiento&quot;, &quot;size&quot;: 25 } ],
+  &quot;1997&quot;: [
+    { &quot;sector&quot;: &quot;En cumplimiento&quot;, &quot;size&quot;: 53 },
+    { &quot;sector&quot;: &quot;Sin cumplimiento&quot;, &quot;size&quot;: 47 } ],
+  &quot;1998&quot;: [
+    { &quot;sector&quot;: &quot;En cumplimiento&quot;, &quot;size&quot;: 96 },
+    { &quot;sector&quot;: &quot;Sin cumplimiento&quot;, &quot;size&quot;: 4 } ]
+};
+
+// Create chart instance
+var chart = am4core.create(&quot;chartdiv&quot;, am4charts.PieChart);
+
+// Add data
+chart.data = [
+    { &quot;sector&quot;: &quot;En cumplimiento&quot;, &quot;size&quot;: 92 },
+    { &quot;sector&quot;: &quot;Sin cumplimiento&quot;, &quot;size&quot;: 8 }
+];
+
+// Add label
+chart.innerRadius = 120;
+var label = chart.seriesContainer.createChild(am4core.Label);
+label.text = &quot;1995&quot;;
+label.horizontalCenter = &quot;middle&quot;;
+label.verticalCenter = &quot;middle&quot;;
+label.fontSize = 16;
+
+// Add and configure Series
+var pieSeries = chart.series.push(new am4charts.PieSeries());
+pieSeries.dataFields.value = &quot;size&quot;;
+pieSeries.dataFields.category = &quot;sector&quot;;
+pieSeries.colors.list = [
+  am4core.color(&quot;#94cc14&quot;),
+  am4core.color(&quot;#d40000&quot;)
+];
+
+// Animate chart data
+var currentYear = 1995;
+function getCurrentData() {
+  label.text = currentYear;
+  if(currentYear == 1995)
+    label.text = &quot;Planeación e instrumentación&quot;;
+  if(currentYear == 1996)
+    label.text = &quot;1er. Reporte parcial&quot;;
+  if(currentYear == 1997)
+    label.text = &quot;2o. Reporte parcial&quot;;
+  if(currentYear == 1998)
+    label.text = &quot;Reporte final&quot;;
+  var data = chartData[currentYear];
+  currentYear++;
+  if (currentYear &gt; 1998)
+    currentYear = 1995;
+  return data;
+}
+
+function loop() {
+  //chart.allLabels[0].text = currentYear;
+  var data = getCurrentData();
+  for(var i = 0; i &lt; data.length; i++) {
+    chart.data[i].size = data[i].size;
+  }
+  chart.invalidateRawData();
+  chart.setTimeout( loop, 4000 );
+}
+
+loop();
+
+}); // end am4core.ready()
+&lt;/script&gt;
+
+&lt;!-- HTML --&gt;
+&lt;div id=&quot;chartdiv&quot;&gt;&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;style&gt;
+#chartdiv {
+  width: 100%;
+  height: 500px;
+}
+
+&lt;/style&gt;
+
+&lt;!-- Resources --&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/core.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/charts.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/themes/kelly.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/themes/animated.js&quot;&gt;&lt;/script&gt;
+
+&lt;!-- Chart code --&gt;
+&lt;script&gt;
+am4core.ready(function() {
+
+// Themes begin
+am4core.useTheme(am4themes_kelly);
+am4core.useTheme(am4themes_animated);
+// Themes end
+
+/**
+ * Define data for each year
+ */
+var chartData = {
+  &quot;1995&quot;: [
+    { &quot;sector&quot;: &quot;En cumplimiento&quot;, &quot;size&quot;: 92 },
+    { &quot;sector&quot;: &quot;Sin cumplimiento&quot;, &quot;size&quot;: 8 } ],
+  &quot;1996&quot;: [
+    { &quot;sector&quot;: &quot;En cumplimiento&quot;, &quot;size&quot;: 75 },
+    { &quot;sector&quot;: &quot;Sin cumplimiento&quot;, &quot;size&quot;: 25 } ],
+  &quot;1997&quot;: [
+    { &quot;sector&quot;: &quot;En cumplimiento&quot;, &quot;size&quot;: 53 },
+    { &quot;sector&quot;: &quot;Sin cumplimiento&quot;, &quot;size&quot;: 47 } ],
+  &quot;1998&quot;: [
+    { &quot;sector&quot;: &quot;En cumplimiento&quot;, &quot;size&quot;: 96 },
+    { &quot;sector&quot;: &quot;Sin cumplimiento&quot;, &quot;size&quot;: 4 } ]
+};
+
+// Create chart instance
+var chart = am4core.create(&quot;chartdiv&quot;, am4charts.PieChart);
+
+// Add data
+chart.data = [
+    { &quot;sector&quot;: &quot;En cumplimiento&quot;, &quot;size&quot;: 92 },
+    { &quot;sector&quot;: &quot;Sin cumplimiento&quot;, &quot;size&quot;: 8 }
+];
+
+// Add label
+chart.innerRadius = 120;
+var label = chart.seriesContainer.createChild(am4core.Label);
+label.text = &quot;1995&quot;;
+label.horizontalCenter = &quot;middle&quot;;
+label.verticalCenter = &quot;middle&quot;;
+label.fontSize = 16;
+
+// Add and configure Series
+var pieSeries = chart.series.push(new am4charts.PieSeries());
+pieSeries.dataFields.value = &quot;size&quot;;
+pieSeries.dataFields.category = &quot;sector&quot;;
+pieSeries.colors.list = [
+  am4core.color(&quot;#94cc14&quot;),
+  am4core.color(&quot;#d40000&quot;)
+];
+
+// Animate chart data
+var currentYear = 1995;
+function getCurrentData() {
+  label.text = currentYear;
+  if(currentYear == 1995)
+    label.text = &quot;Planeación e instrumentación&quot;;
+  if(currentYear == 1996)
+    label.text = &quot;1er. Reporte parcial&quot;;
+  if(currentYear == 1997)
+    label.text = &quot;2o. Reporte parcial&quot;;
+  if(currentYear == 1998)
+    label.text = &quot;Reporte final&quot;;
+  var data = chartData[currentYear];
+  currentYear++;
+  if (currentYear &gt; 1998)
+    currentYear = 1995;
+  return data;
+}
+
+function loop() {
+  //chart.allLabels[0].text = currentYear;
+  var data = getCurrentData();
+  for(var i = 0; i &lt; data.length; i++) {
+    chart.data[i].size = data[i].size;
+  }
+  chart.invalidateRawData();
+  chart.setTimeout( loop, 4000 );
+}
+
+loop();
+
+}); // end am4core.ready()
+&lt;/script&gt;
+
+&lt;!-- HTML --&gt;
+&lt;div id=&quot;chartdiv&quot;&gt;&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Docencia" />
+	</entry>
+	<entry>
+		<title>Profesores</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/docencia/profesores"/>
+		<published>2019-07-01T05:35:54+00:00</published>
+		<updated>2019-07-01T05:35:54+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/docencia/profesores</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h3&gt;Antigüedad de los profesores en la Institución&lt;/h3&gt;
+&lt;style type=&quot;text/css&quot;&gt;#chartdiv {
+  width: 100%;
+  height: 500px;
+}&lt;/style&gt;
+&lt;!-- Resources --&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/core.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/charts.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/themes/kelly.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/themes/animated.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;!-- Chart code --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;am4core.ready(function() {
+
+// Themes begin
+am4core.useTheme(am4themes_kelly);
+am4core.useTheme(am4themes_animated);
+// Themes end
+
+var chart = am4core.create(&quot;chartdiv&quot;, am4charts.PieChart3D);
+chart.hiddenState.properties.opacity = 0; // this creates initial fade-in
+
+chart.legend = new am4charts.Legend();
+
+chart.data = [
+  {
+    country: &quot;36 años o más&quot;,
+    litres: 6.1
+  },
+  {
+    country: &quot;De 31 a 35 años&quot;,
+    litres: 10.6
+  },
+  {
+    country: &quot;De 26 a 30 años&quot;,
+    litres: 4.5
+  },
+  {
+    country: &quot;De 21 a 25 años&quot;,
+    litres: 7.6
+  },
+  {
+    country: &quot;De 16 a 20 años&quot;,
+    litres: 4.5
+  },
+  {
+    country: &quot;De 11 a 15 años&quot;,
+    litres: 3
+  },
+  {
+    country: &quot;De 1 a 3 años&quot;,
+    litres: 30.3
+  },
+  {
+    country: &quot;De 4 a 10 años&quot;,
+    litres: 33.3
+  }
+];
+
+var series = chart.series.push(new am4charts.PieSeries3D());
+series.dataFields.value = &quot;litres&quot;;
+series.dataFields.category = &quot;country&quot;;
+
+}); // end am4core.ready()&lt;/script&gt;
+&lt;!-- HTML --&gt;
+&lt;div id=&quot;chartdiv&quot;&gt;&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h3&gt;Antigüedad de los profesores en la Institución&lt;/h3&gt;
+&lt;style type=&quot;text/css&quot;&gt;#chartdiv {
+  width: 100%;
+  height: 500px;
+}&lt;/style&gt;
+&lt;!-- Resources --&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/core.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/charts.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/themes/kelly.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://www.ingenieriaindustrialitt.org/images/amcharts4/themes/animated.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+&lt;!-- Chart code --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;am4core.ready(function() {
+
+// Themes begin
+am4core.useTheme(am4themes_kelly);
+am4core.useTheme(am4themes_animated);
+// Themes end
+
+var chart = am4core.create(&quot;chartdiv&quot;, am4charts.PieChart3D);
+chart.hiddenState.properties.opacity = 0; // this creates initial fade-in
+
+chart.legend = new am4charts.Legend();
+
+chart.data = [
+  {
+    country: &quot;36 años o más&quot;,
+    litres: 6.1
+  },
+  {
+    country: &quot;De 31 a 35 años&quot;,
+    litres: 10.6
+  },
+  {
+    country: &quot;De 26 a 30 años&quot;,
+    litres: 4.5
+  },
+  {
+    country: &quot;De 21 a 25 años&quot;,
+    litres: 7.6
+  },
+  {
+    country: &quot;De 16 a 20 años&quot;,
+    litres: 4.5
+  },
+  {
+    country: &quot;De 11 a 15 años&quot;,
+    litres: 3
+  },
+  {
+    country: &quot;De 1 a 3 años&quot;,
+    litres: 30.3
+  },
+  {
+    country: &quot;De 4 a 10 años&quot;,
+    litres: 33.3
+  }
+];
+
+var series = chart.series.push(new am4charts.PieSeries3D());
+series.dataFields.value = &quot;litres&quot;;
+series.dataFields.category = &quot;country&quot;;
+
+}); // end am4core.ready()&lt;/script&gt;
+&lt;!-- HTML --&gt;
+&lt;div id=&quot;chartdiv&quot;&gt;&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Docencia" />
+	</entry>
+	<entry>
+		<title>Plan reticular</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/home/plan-reticular-iind-2010-227"/>
+		<published>2019-04-02T02:27:45+00:00</published>
+		<updated>2019-04-02T02:27:45+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/home/plan-reticular-iind-2010-227</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h3&gt;Retícula genérica&lt;/h3&gt;
+&lt;p&gt;{loadmoduleid 181}&lt;/p&gt;
+&lt;p&gt;
+
+<!-- START: Sliders -->
+<div class="rl_sliders nn_sliders accordion panel-group" id="set-rl_sliders-3" role="presentation"><a id="rl_sliders-scrollto_3" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-group panel rl_sliders-group nn_sliders-group active">
+<a id="rl_sliders-scrollto_manufactura-avanzada-3" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading" role="heading" aria-controls="manufactura-avanzada-3">
+<a href="https://www.ingenieriaindustrialitt.org/docencia/itemlist/category/1-docencia?format=feed&type=atom#manufactura-avanzada-3" title="Manufactura Avanzada" class="accordion-toggle rl_sliders-toggle nn_sliders-toggle" data-toggle="collapse" id="slider-manufactura-avanzada-3" data-id="manufactura-avanzada-3" data-parent="#set-rl_sliders-3" aria-selected="true" aria-expanded="true"><span class="rl_sliders-toggle-inner nn_sliders-toggle-inner"> Manufactura Avanzada</span></a>
+</div>
+<div class="accordion-body rl_sliders-body nn_sliders-body collapse in" role="region" aria-labelledby="slider-manufactura-avanzada-3" aria-hidden="false" id="manufactura-avanzada-3">
+<div class="accordion-inner panel-body">
+<h2 class="rl_sliders-title nn_sliders-title">Manufactura Avanzada</h2>&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/Mapa_manufactura.png&quot; alt=&quot;Mapa manufactura&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Descargable en PDF&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/file_download.png') no-repeat scroll center center #444444; height: 100px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilesfile=&quot;91&quot; data-dropfilesfilecategory=&quot;34&quot; data-file=&quot;91&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+
+</div></div></div>
+<div class="accordion-group panel rl_sliders-group nn_sliders-group">
+<a id="rl_sliders-scrollto_lean-six-sigma-3" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading" role="heading" aria-controls="lean-six-sigma-3">
+<a href="https://www.ingenieriaindustrialitt.org/docencia/itemlist/category/1-docencia?format=feed&type=atom#lean-six-sigma-3" title="Lean Six Sigma" class="accordion-toggle rl_sliders-toggle nn_sliders-toggle collapsed" data-toggle="collapse" id="slider-lean-six-sigma-3" data-id="lean-six-sigma-3" data-parent="#set-rl_sliders-3" aria-selected="false" aria-expanded="false"><span class="rl_sliders-toggle-inner nn_sliders-toggle-inner"> Lean Six Sigma</span></a>
+</div>
+<div class="accordion-body rl_sliders-body nn_sliders-body collapse" role="region" aria-labelledby="slider-lean-six-sigma-3" aria-hidden="true" id="lean-six-sigma-3">
+<div class="accordion-inner panel-body">
+<h2 class="rl_sliders-title nn_sliders-title">Lean Six Sigma</h2>&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/Mapa_lean.png&quot; alt=&quot;Mapa lean&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Descargable en PDF&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/file_download.png') no-repeat scroll center center #444444; height: 100px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilesfile=&quot;92&quot; data-dropfilesfilecategory=&quot;34&quot; data-file=&quot;92&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;</div></div></div></div><!-- END: Sliders -->&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h3&gt;Retícula genérica&lt;/h3&gt;
+&lt;p&gt;{loadmoduleid 181}&lt;/p&gt;
+&lt;p&gt;
+
+<!-- START: Sliders -->
+<div class="rl_sliders nn_sliders accordion panel-group" id="set-rl_sliders-4" role="presentation"><a id="rl_sliders-scrollto_4" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-group panel rl_sliders-group nn_sliders-group active">
+<a id="rl_sliders-scrollto_manufactura-avanzada-4" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading" role="heading" aria-controls="manufactura-avanzada-4">
+<a href="https://www.ingenieriaindustrialitt.org/docencia/itemlist/category/1-docencia?format=feed&type=atom#manufactura-avanzada-4" title="Manufactura Avanzada" class="accordion-toggle rl_sliders-toggle nn_sliders-toggle" data-toggle="collapse" id="slider-manufactura-avanzada-4" data-id="manufactura-avanzada-4" data-parent="#set-rl_sliders-4" aria-selected="true" aria-expanded="true"><span class="rl_sliders-toggle-inner nn_sliders-toggle-inner"> Manufactura Avanzada</span></a>
+</div>
+<div class="accordion-body rl_sliders-body nn_sliders-body collapse in" role="region" aria-labelledby="slider-manufactura-avanzada-4" aria-hidden="false" id="manufactura-avanzada-4">
+<div class="accordion-inner panel-body">
+<h2 class="rl_sliders-title nn_sliders-title">Manufactura Avanzada</h2>&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/Mapa_manufactura.png&quot; alt=&quot;Mapa manufactura&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Descargable en PDF&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/file_download.png') no-repeat scroll center center #444444; height: 100px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilesfile=&quot;91&quot; data-dropfilesfilecategory=&quot;34&quot; data-file=&quot;91&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+
+</div></div></div>
+<div class="accordion-group panel rl_sliders-group nn_sliders-group">
+<a id="rl_sliders-scrollto_lean-six-sigma-4" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading" role="heading" aria-controls="lean-six-sigma-4">
+<a href="https://www.ingenieriaindustrialitt.org/docencia/itemlist/category/1-docencia?format=feed&type=atom#lean-six-sigma-4" title="Lean Six Sigma" class="accordion-toggle rl_sliders-toggle nn_sliders-toggle collapsed" data-toggle="collapse" id="slider-lean-six-sigma-4" data-id="lean-six-sigma-4" data-parent="#set-rl_sliders-4" aria-selected="false" aria-expanded="false"><span class="rl_sliders-toggle-inner nn_sliders-toggle-inner"> Lean Six Sigma</span></a>
+</div>
+<div class="accordion-body rl_sliders-body nn_sliders-body collapse" role="region" aria-labelledby="slider-lean-six-sigma-4" aria-hidden="true" id="lean-six-sigma-4">
+<div class="accordion-inner panel-body">
+<h2 class="rl_sliders-title nn_sliders-title">Lean Six Sigma</h2>&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/Mapa_lean.png&quot; alt=&quot;Mapa lean&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Descargable en PDF&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/file_download.png') no-repeat scroll center center #444444; height: 100px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilesfile=&quot;92&quot; data-dropfilesfilecategory=&quot;34&quot; data-file=&quot;92&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;</div></div></div></div><!-- END: Sliders -->&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Docencia" />
+	</entry>
+	<entry>
+		<title>Gestión de cursos y formatos de referencia</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/docencia/gestion-y-formatos"/>
+		<published>2018-09-28T03:43:40+00:00</published>
+		<updated>2018-09-28T03:43:40+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/docencia/gestion-y-formatos</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2 style=&quot;text-align: center;&quot;&gt;GESTIÓN DEL CURSO AGOSTO-DICIEMBRE 2018&lt;/h2&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;border-image: initial;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;a) Planeación e Instrumentación:&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;20 AL 24 de AGOSTO DEL 2018&amp;nbsp;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;border-image: initial;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;b) 1ra. Revisión:&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;24 AL 28 DE SEPTIEMBRE DEL 2018&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Actualizar en SIE (&lt;a href=&quot;http://201.174.121.12/intertec/indexdocente.html&quot;&gt;http://201.174.121.12/intertec/indexdocente.html&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Entregar a docencia vía electrónica: sábana de calificaciones del periodo en cuestión, copia de examen revisado y contestado, toda evidencia que haya formado parte de su evaluación en ese período).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;c) 2da. Revisión:&amp;nbsp;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;29 DE OCTUBRE AL 02 NOVIEMBRE DEL 2018&amp;nbsp;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Actualizar en SIE (&lt;a href=&quot;http://201.174.121.12/intertec/indexdocente.html&quot;&gt;http://201.174.121.12/intertec/indexdocente.html&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Entregar a docencia vía electrónica: sábana de calificaciones del periodo en cuestión, copia de examen revisado y contestado, toda evidencia que haya formado parte de su evaluación en ese período).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2 style=&quot;text-align: center;&quot;&gt;GESTIÓN DEL CURSO AGOSTO-DICIEMBRE 2018&lt;/h2&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;border-image: initial;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;a) Planeación e Instrumentación:&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;20 AL 24 de AGOSTO DEL 2018&amp;nbsp;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;border-image: initial;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;b) 1ra. Revisión:&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;24 AL 28 DE SEPTIEMBRE DEL 2018&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Actualizar en SIE (&lt;a href=&quot;http://201.174.121.12/intertec/indexdocente.html&quot;&gt;http://201.174.121.12/intertec/indexdocente.html&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Entregar a docencia vía electrónica: sábana de calificaciones del periodo en cuestión, copia de examen revisado y contestado, toda evidencia que haya formado parte de su evaluación en ese período).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;text-align: left;&quot;&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;c) 2da. Revisión:&amp;nbsp;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;29 DE OCTUBRE AL 02 NOVIEMBRE DEL 2018&amp;nbsp;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Actualizar en SIE (&lt;a href=&quot;http://201.174.121.12/intertec/indexdocente.html&quot;&gt;http://201.174.121.12/intertec/indexdocente.html&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Entregar a docencia vía electrónica: sábana de calificaciones del periodo en cuestión, copia de examen revisado y contestado, toda evidencia que haya formado parte de su evaluación en ese período).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Docencia" />
+	</entry>
+	<entry>
+		<title>Calendarios</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/docencia/calendario"/>
+		<published>2018-09-28T03:40:32+00:00</published>
+		<updated>2018-09-28T03:40:32+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/docencia/calendario</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Calendario académico Septiembre 2020&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;35&quot; data-category=&quot;35&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;gtx-trans&quot; style=&quot;position: absolute; left: 165px; top: -5px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Calendario académico Septiembre 2020&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;35&quot; data-category=&quot;35&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;gtx-trans&quot; style=&quot;position: absolute; left: 165px; top: -5px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Docencia" />
+	</entry>
+	<entry>
+		<title>Bienvenidos a Proyectos de Docencia</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/docencia"/>
+		<published>2018-09-28T03:13:35+00:00</published>
+		<updated>2018-09-28T03:13:35+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/docencia</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Misión&lt;/h2&gt;
+&lt;p&gt;Formar profesionales de la carrera de Ingeniería Industrial, que sean agentes de cambio, comprometidos e integrados al desarrollo de su país, emprendedores, analíticos y creativos, que mejoren la productividad de los sistemas generadores de bienes y servicios, mediante el uso eficiente de los recursos disponibles y la incorporación de procesos de alta tecnología.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Visión&lt;/h2&gt;
+&lt;p&gt;Ser un departamento que integre la docencia, la vinculación y la investigación, para la formación de ingenieros que respondan a los retos en la generación de bienes y servicios de clase mundial&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h2&gt;Misión&lt;/h2&gt;
+&lt;p&gt;Formar profesionales de la carrera de Ingeniería Industrial, que sean agentes de cambio, comprometidos e integrados al desarrollo de su país, emprendedores, analíticos y creativos, que mejoren la productividad de los sistemas generadores de bienes y servicios, mediante el uso eficiente de los recursos disponibles y la incorporación de procesos de alta tecnología.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Visión&lt;/h2&gt;
+&lt;p&gt;Ser un departamento que integre la docencia, la vinculación y la investigación, para la formación de ingenieros que respondan a los retos en la generación de bienes y servicios de clase mundial&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Docencia" />
+	</entry>
+</feed>

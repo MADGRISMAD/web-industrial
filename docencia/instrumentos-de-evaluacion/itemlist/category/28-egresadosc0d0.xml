@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<?xml-stylesheet href="/media/system/css/fields/calendar.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_breezingforms/libraries/jquery/pickadate/themes/default.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_breezingforms/libraries/jquery/pickadate/themes/default.date.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Instrumentos de evaluación</title>
+		<description><![CDATA[My site]]></description>
+		<link>https://www.ingenieriaindustrialitt.org</link>
+		<lastBuildDate>Tue, 07 Feb 2023 05:37:46 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.ingenieriaindustrialitt.org/docencia/instrumentos-de-evaluacion/itemlist/category/28-egresados?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<item>
+			<title>Egresados</title>
+			<link>https://www.ingenieriaindustrialitt.org/posgrado/posgrado-estudiantes/egresados</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/posgrado/posgrado-estudiantes/egresados</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p>Si eres un estudiante egresado del programa de Maestría de Ingeniería Industrial favor de llenar la siguiente forma</p>
+<p>{BreezingForms: encuesta1}</p></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Egresados</category>
+			<pubDate>Wed, 08 Jul 2020 02:15:46 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

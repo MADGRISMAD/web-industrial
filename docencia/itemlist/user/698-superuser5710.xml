@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Docencia</title>
+		<description><![CDATA[My site]]></description>
+		<link>https://www.ingenieriaindustrialitt.org</link>
+		<lastBuildDate>Tue, 07 Feb 2023 05:24:25 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.ingenieriaindustrialitt.org/docencia/itemlist/user/698-superuser?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<item>
+			<title>Calculo vectorial</title>
+			<link>https://www.ingenieriaindustrialitt.org/reticula/calculo-vectorial</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/reticula/calculo-vectorial</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h2>Caracterización de la asignatura</h2>
+<p>La asignatura contribuye a desarrollar un pensamiento lógico-matemático al perfil del ingeniero y aporta las herramientas básicas para introducirse al estudio del cálculo vectorial y su aplicación, así como las bases para el modelado matemático. Además proporciona herramientas que permiten modelar fenómenos de contexto.</p>
+<p>La importancia del estudio del Cálculo Vectorial radica principalmente en que en diversas aplicaciones de la ingeniería, la concurrencia de variables espaciales y temporales, hace necesario el análisis de fenómenos naturales cuyos modelos utilizan funciones vectoriales o escalares de varias variables.</p>
+<p>La asignatura está diseñada de manera que el estudiante pueda representar conceptos, que aparecen en el campo de la ingeniería por medio de vectores; resolver problemas en los que intervienen variaciones continuas; resolver problemas geométricos en forma vectorial; graficar funciones de varias variables; calcular derivadas parciales; representar campos vectoriales que provengan del gradiente de un campo escalar, así como su divergencia y rotacional; resolver integrales dobles y triples; aplicar las integrales en el cálculo de áreas y volúmenes.</p>
+<h2>Contenido</h2>
+<h3>Unidad 1. Vectores en el espacio</h3>
+<ul>
+<li>Definición de un vector en el plano y en el espacio y su interpretación geométrica</li>
+<li>Álgebra vectorial y su geometría</li>
+<li>Producto escalar y vectorial</li>
+<li>Ecuación de la recta</li>
+<li>Ecuación del plano</li>
+<li>Aplicaciones</li>
+</ul>
+<h3>Unidad 2.&nbsp;Curvas planas, ecuaciones paramétricas y coordenadas polares</h3>
+<ul>
+<li>Ecuaciones paramétricas de algunas curvas planas y su representación gráfica</li>
+<li>Derivada de una curva en forma paramétrica</li>
+<li>Tangentes a una curva</li>
+<li>Área y longitud de arco</li>
+<li>Curvas planas y graficación en coordenadas polares</li>
+<li>Cálculo en coordenadas polares</li>
+</ul>
+<h3>Unidad 3.&nbsp;Funciones vectoriales de una variable real</h3>
+<ul>
+<li>Definición de función vectorial de una variable real</li>
+<li>Límites y continuidad de una función vectorial</li>
+<li>Derivada de una función vectorial</li>
+<li>Integración de funciones vectoriales</li>
+<li>Longitud de arco</li>
+<li>Vectores tangente, normal y binormal</li>
+<li>Curvatura</li>
+<li>Aplicaciones</li>
+</ul>
+<h3>Unidad 4.&nbsp;Funciones reales de varias variables</h3>
+<ul>
+<li>Definición de una función de varias variables</li>
+<li>Gráfica de una función de varias variables Curvas y superficies de nivel</li>
+<li>Límite y continuidad de una función de varias variables</li>
+<li>Derivadas parciales</li>
+<li>Incrementos y diferenciales</li>
+<li>Regla de la cadena y derivada implícita</li>
+<li>Derivadas parciales de orden superior</li>
+<li>Derivada direccional y gradiente</li>
+<li>Valores extremos de funciones de varias variables</li>
+</ul>
+<h3>Unidad 5.&nbsp;Integración múltiple</h3>
+<ul>
+<li>Cálculo de áreas e integrales dobles</li>
+<li>Integrales iteradas</li>
+<li>Integral doble en coordenadas rectangulares</li>
+<li>Integral doble en coordenadas polares</li>
+<li>Integral triple en coordenadas rectangulares Volumen</li>
+<li>Integral triple en coordenadas cilíndricas y esféricas</li>
+<li>Campos vectoriales</li>
+<li>La Integral de línea</li>
+<li>Divergencia, rotacional, interpretación geométrica y física</li>
+<li>Teoremas de integrales Aplicaciones</li>
+</ul></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Reticula</category>
+			<pubDate>Sun, 13 Mar 2022 04:15:40 +0000</pubDate>
+		</item>
+		<item>
+			<title>Convocatoria primer congreso internacional de investigación de TECNM 2022</title>
+			<link>https://www.ingenieriaindustrialitt.org/investigacion/convocatorias/item/82-convocatoria-primer-congreso-internacional-de-investigacion-de-tecnm-2022</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/investigacion/convocatorias/item/82-convocatoria-primer-congreso-internacional-de-investigacion-de-tecnm-2022</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p>{pdf=/images/pdf/CONVOCATORIA_PRIMER_CONGRESO_INTERNACIONAL_DE_INVESTIGACIN_DEL_TECNM_2022.pdf|100%|600|native}</p></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Convocatorias</category>
+			<pubDate>Sat, 12 Mar 2022 01:51:10 +0000</pubDate>
+		</item>
+		<item>
+			<title>Calculo integral</title>
+			<link>https://www.ingenieriaindustrialitt.org/reticula/calculo-integral</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/reticula/calculo-integral</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h2>Caracterización de la asignatura</h2>
+<p>La asignatura contribuye a desarrollar un pensamiento lógico-matemático al perfil del ingeniero y aporta las herramientas básicas para desarrollar el estudio del cálculo integral y sus aplicaciones. Además, proporciona herramientas que permiten modelar fenómenos de contexto.</p>
+<p>Cálculo Integral requiere como competencia previa todos los temas de Cálculo Diferencial y a su vez proporciona las bases para el desarrollo de las competencias del Cálculo Vectorial y Ecuaciones Diferenciales y asignaturas de física y ciencias de la ingeniería, por lo que se pueden diseñar proyectos integradores con cualquiera de ellas.</p>
+<p>La característica más sobresaliente de esta asignatura es que en ella se estudian las bases sobre las que se construye el cálculo integral. Utilizando las definiciones de suma de Riemann, integral definida para el cálculo de áreas. Para integral indefinida se consideran los métodos de integración como parte fundamental del curso. La integral es tema de trascendental importancia en las aplicaciones de la ingeniería.</p>
+<h2>Contenido</h2>
+<h3>Unidad 1. Teorema fundamental del cálculo</h3>
+<ul>
+<li>Medición aproximada de figuras amorfas</li>
+<li>Notación sumatoria</li>
+<li>Sumas de Riemann</li>
+<li>Definición de integral definida</li>
+<li>Teorema de existencia</li>
+<li>Propiedades de la integral definida</li>
+<li>Función primitiva</li>
+<li>Teorema del valor intermedio</li>
+<li>Teorema fundamental del cálculo</li>
+<li>Cálculo de integrales definidas básicas</li>
+</ul>
+<h3>Unidad 2.&nbsp;Métodos de integración e integral indefinida</h3>
+<ul>
+<li>Definición de integral indefinida</li>
+<li>Propiedades de integrales indefinidas</li>
+<li>Cálculo de integrales indefinidas</li>
+<li>Directas</li>
+<li>Cambio de variable</li>
+<li>Por partes</li>
+<li>Trigonométricas</li>
+<li>Sustitución trigonométrica</li>
+<li>Fracciones parciales</li>
+</ul>
+<h3>Unidad 3.&nbsp;Aplicaciones de la integral</h3>
+<ul>
+<li>Áreas</li>
+<li>Área bajo la gráfica de una función</li>
+<li>Área entre las gráficas de funciones</li>
+<li>Longitud de curvas</li>
+<li>Cálculo de volúmenes de sólidos de revolución</li>
+<li>Integrales impropias</li>
+<li>Aplicaciones</li>
+</ul>
+<h3>Unidad 4.&nbsp;Series</h3>
+<ul>
+<li>Definición de sucesión</li>
+<li>Definición de serie</li>
+<li>Finita</li>
+<li>Infinita</li>
+<li>Serie numérica y convergencia Criterio de la razón Criterio de la raíz Criterio de la integral</li>
+<li>Series de potencias</li>
+<li>Radio de convergencia</li>
+<li>Serie de Taylor</li>
+<li>Representación de funciones mediante la</li>
+<li>serie de Taylor</li>
+<li>Cálculo de integrales de funciones expresadas como serie de Taylor</li>
+</ul></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Reticula</category>
+			<pubDate>Fri, 11 Mar 2022 22:48:47 +0000</pubDate>
+		</item>
+		<item>
+			<title>Dibujo industrial</title>
+			<link>https://www.ingenieriaindustrialitt.org/reticula/dibujo-industrial</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/reticula/dibujo-industrial</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h2>Caracterización de la asignatura</h2>
+<p>Esta asignatura aporta al perfil del egresado en ingeniería industrial la capacidad de interpretar dibujos de diferentes productos de la industria, de tal forma que sea capaz de determinar por medio de la materia, las especificaciones y otras características.</p>
+<p>Así como obtiene la capacidad de dibujar en un software que le permita tener mayor facilidad de adquirir un empleo ya que hoy en día todos los diseños de los productos, escantillones, lay-out y herramentales; son realizados por medio de software. Por otro lado, el simple hecho de dominar esta herramienta le abre la puerta no solo en el área de la ingeniería industrial sino también en el área de dibujo mecánico, dibujo civil.</p>
+<p>Esta materia se convierte en una competencia previa para las asignaturas de Metrología debido a que debe dibujar piezas para luego medirlas, Estudio del Trabajo I, ya que se dibujan herramentales de diferentes procesos, entre otras.</p>
+<h2>Contenido</h2>
+<h3>Unidad 1. Dibujo básico para ingeniería</h3>
+<ul>
+<li>Introducción al dibujo</li>
+<li>Simbología utilizada en el dibujo: eléctrica</li>
+</ul>
+<h3>Unidad 2.&nbsp;Cortes y vistas auxiliares</h3>
+<ul>
+<li>Reglas para dibujar cortes</li>
+<li>Tipos de cortes</li>
+<li>Vistas auxiliares</li>
+</ul>
+<h3>Unidad 3.&nbsp;Geometría descriptiva</h3>
+<ul>
+<li>Dibujo isométrico</li>
+<li>Dibujo oblicuo</li>
+</ul>
+<h3>Unidad 4.&nbsp;Modelado de objetos en 3D</h3>
+<ul>
+<li>Dibujo de objetos D a partir de una superficie D</li>
+<li>Manipulación en D</li>
+</ul></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Reticula</category>
+			<pubDate>Fri, 11 Mar 2022 18:33:27 +0000</pubDate>
+		</item>
+		<item>
+			<title>Química</title>
+			<link>https://www.ingenieriaindustrialitt.org/reticula/quimica</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/reticula/quimica</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h2>Caracterización de la asignatura</h2>
+<p>La asignatura de Química, aporta al perfil del Ingeniero Industrial el reforzamiento y desarrollo de las competencias para identificar propiedades, determinar el manejo y uso de sustancias de importancia industrial, a partir de lo cual el profesional puede tomar decisiones pertinentes ante las situaciones que se presenten en las diversas áreas de las organizaciones o empresas. Las consideraciones para integrar los contenidos asumen criterios de una formación que permite atender la realidad y necesidades de la empresa, gestionando programas que fortalezcan la seguridad e higiene así como el cuidado al medio ambiente.</p>
+<h2>Contenido</h2>
+<h3>Unidad 1. Materia, Estructura y Periodicidad</h3>
+<ul>
+<li>Materia: Estructura, composición, estados de agregación y clasificación por propiedades</li>
+<li>Sustancias puras: elementos y compuestos</li>
+<li>Dispersiones o mezclas</li>
+<li>Caracterización de los estados de agregación: sólido cristalino, líquido, sólido, vítreo y gel</li>
+<li>Cambios de estado</li>
+<li>Clasificación de las sustancias naturales por semejanzas en: propiedades físicas, propiedades químicas</li>
+<li>Base experimental de la teoría cuántica y estructura atómica</li>
+<li>Periodicidad química</li>
+<li>Desarrollo de la tabla periódica moderna</li>
+<li>Clasificación periódica de los elementos</li>
+<li>Propiedades atómicas y variaciones periódicas: carga nuclear efectiva, radio atómico, radio iónico, energía de ionización, afinidad electrónica, electronegatividad</li>
+<li>Propiedades químicas y su variación periódica: tendencias generales y por grupo</li>
+<li>Elementos de importancia económica, industrial y ambiental en la región o en el país</li>
+</ul>
+<h3>Unida 2.&nbsp;Enlaces Químicos y el Estado Sólido (Cristalino)</h3>
+<ul>
+<li>Introducción</li>
+<li>Conceptos de enlace químico</li>
+<li>Clasificación de los enlaces químicos</li>
+<li>Símbolos de Lewis y regla del octeto</li>
+<li>Enlace iónico</li>
+<li>Elementos que forman compuestos iónicos</li>
+<li>Propiedades físicas de compuestos iónicos</li>
+<li>Enlace covalente</li>
+<li>Comparación entre las propiedades de los compuestos iónicos y covalentes</li>
+<li>Fuerza del enlace covalente</li>
+<li>Enlace metálico y elementos semiconductores</li>
+<li>Teoría de bandas</li>
+<li>Estructura de los materiales</li>
+<li>Estado sólido (cristalino)</li>
+<li>Concepto y caracterización de sistemas cristalinos</li>
+<li>Estado vítreo</li>
+<li>Estructura amorfa</li>
+<li>Propiedades características de un material vítreo</li>
+<li>Metalurgia Principales metales y aleaciones utilizados en la industria</li>
+</ul>
+<h3>Unidad 3.&nbsp;Compuestos Inorgánicos y Orgánicos</h3>
+<ul>
+<li>Clasificación y propiedades de los compuestos inorgánicos</li>
+<li>Óxidos</li>
+<li>Hidróxidos</li>
+<li>Ácidos</li>
+<li>Sales</li>
+<li>Hidruros</li>
+<li>Compuestos inorgánicos de impacto económico, industrial, ambiental y social en la región o en el país</li>
+<li>Clasificación y propiedades de los compuestos orgánicos</li>
+<li>Hidrocarburos</li>
+<li>Halogenuros</li>
+<li>Alcoholes</li>
+<li>Éteres</li>
+<li>Aldehídos-Cetonas</li>
+<li>Ácidos carboxílicos</li>
+<li>Esteres</li>
+<li>Aminas</li>
+<li>Plásticos y Resinas Principales materiales de este tipo utilizados en la industria</li>
+<li>Compuestos orgánicos de impacto económico, industrial, ambiental y social en la región o en el país</li>
+</ul>
+<h3>Unidad 4.&nbsp;Reacciones Químicas Inorgánicas</h3>
+<ul>
+<li>Conceptos de mol, soluciones y reacciones</li>
+<li>Concepto de estequiometría</li>
+<li>Leyes estequiométricas</li>
+<li>Ley de la conservación de la materia</li>
+<li>Ley de las proporciones constantes</li>
+<li>Ley de las proporciones múltiples</li>
+<li>Cálculos estequiométricos A: unidades de medida usuales: átomo-gramo, mol-gramo,</li>
+<li>volumen-gramo molecular, número de Avogadro</li>
+<li>Cálculos estequiométricos B: relación peso-peso, relación peso-volumen, reactivo limitante, reactivo en exceso, grado de conversión o rendimiento</li>
+<li>Reacciones químicas simples</li>
+<li>Acido-base</li>
+<li>Compuestos de importancia económica, industrial y ambiental</li>
+</ul>
+<h3>Unidad 5.&nbsp;Conceptos Generales de Gases,&nbsp;Termoquímica y Electroquímica</h3>
+<ul>
+<li>Conceptos básicos: gas como estado de agregación, gas ideal, gas real, propiedades críticas y factor de compresibilidad</li>
+<li>Propiedades PVT: ley de Boyle, Charles, Gay- Lussac Ecuación General del Estado Gaseoso</li>
+<li>Termoquímica</li>
+<li>Calor de reacción</li>
+<li>Calor de formación</li>
+<li>Calor de solución</li>
+<li>Electroquímica</li>
+<li>Electroquímica y celdas electrolíticas</li>
+<li>Electroquímica y celdas voltaicas (galvánicas)</li>
+<li>Celdas voltaicas de uso práctico</li>
+</ul></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Reticula</category>
+			<pubDate>Fri, 11 Mar 2022 18:16:27 +0000</pubDate>
+		</item>
+		<item>
+			<title>Taller de herramientas intelectuales</title>
+			<link>https://www.ingenieriaindustrialitt.org/reticula/taller-herramientas-intelectuales</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/reticula/taller-herramientas-intelectuales</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h2>Caracterización de la asignatura</h2>
+<p>Esta asignatura aporta al perfil del Ingeniero Industrial las herramientas para desarrollar la capacidad de explicar situaciones de personalidad y habilidades del ser humano que contribuyen en la formación profesional, involucradas en la administración de los sistemas de producción.</p>
+<p>Se inserta en el primer semestre debido a&nbsp; que esta asignatura dará soporte a otras vinculadas con el desempeño profesional. De manera particular el contenido de esta asignatura se relaciona con&nbsp; los temas de liderazgo e investigación.</p>
+<p>El Taller de Herramientas Intelectuales proporciona las bases para desarrollar las competencias del ingeniero industrial formándolo en la creatividad, la visión sistémica y analítica para generar un compromiso ético con la sociedad.&nbsp;</p>
+<p>Esta asignatura tiene relevancia en la formación del ingeniero industrial, ya que contempla aspectos que contemple aspectos que favorecen la madurez y el autoconocimiento para la solución&nbsp; de problemas en las organizaciones de forma eficiente.</p>
+<p>Esta es una asignatura que comprende cinco temas:</p>
+<ul>
+<li>Aprender a ser, donde el estudiante fortalece el conocimiento de su personalidad.</li>
+<li>Aprender a pensar, donde el estudiante conoce y selecciona las formas de pensamiento adecuadas a situaciones dadas.</li>
+<li>Aprender a aprender, donde el estudiante aplica las herramientas para construir su propio aprendizaje.</li>
+<li>Aprender a comunicarse, donde el estudiante afianza sus habilidades de lectura, escritura y comprensión para comunicarse.</li>
+</ul>
+<p>Aprender a innovar, donde el estudiante aplica las herramientas adquiridas en los temas previos al elaborar un proyecto en equipo.</p>
+<h2>Contenido</h2>
+<h3>Unidad 1. Aprender a ser</h3>
+<ul>
+<li>Personalidad</li>
+<li>Definición y características de personalidad</li>
+<li>Carácter y temperamento</li>
+<li>Autoconocimiento y autoestima</li>
+<li>Sentimientos y emociones</li>
+<li>Motivación y empatía</li>
+<li>Inteligencia emocional en el aula</li>
+</ul>
+<h3>Unidad 2.&nbsp;Aprender a pensar</h3>
+<ul>
+<li>Tipos de pensamiento</li>
+<li>Pensamiento lógico</li>
+<li>Pensamiento creativo</li>
+<li>Pensamiento crítico</li>
+<li>Pensamiento sistémico</li>
+<li>Pensamiento inductivo y deductivo</li>
+</ul>
+<h3>Unidad 3.&nbsp;Aprender a aprender</h3>
+<ul>
+<li>Tipos de aprendizaje</li>
+<li>Aprendizaje significativo</li>
+<li>Aprendizaje cooperativo</li>
+<li>Aprendizaje colaborativo</li>
+<li>Aprendizaje basado en problemas</li>
+<li>Obstáculos para lograr el aprendizaje</li>
+<li>Malos hábitos de estudio</li>
+<li>Desperdicio del tiempo</li>
+<li>Estímulos inhibidores del aprendizaje</li>
+<li>Exceso de confianza</li>
+<li>Stress</li>
+<li>Estrategias para aprender</li>
+<li>Organización del tiempo</li>
+<li>Uso de métodos de estudio</li>
+<li>Diseño personalizado de las estrategias de aprendizaje</li>
+<li>Uso de herramientas de aprendizaje</li>
+<li>Crear un ambiente propicio para el aprendizaje</li>
+</ul>
+<h3>Unidad 4.&nbsp;Aprender a comunicarse</h3>
+<ul>
+<li>Comunicación oral</li>
+<li>Lectura en voz alta</li>
+<li>Tono</li>
+<li>Intensidad</li>
+<li>Ritmo</li>
+<li>Elementos para hablar en público</li>
+<li>Elección del tema</li>
+<li>Preparación del escrito</li>
+<li>Preparación personal para hablar en público</li>
+<li>Lenguaje corporal</li>
+<li>Presentaciones efectivas</li>
+<li>Comunicación escrita</li>
+<li>Tipos de lectura</li>
+<li>Lectura Selectiva</li>
+<li>Hojear</li>
+<li>Examinar</li>
+<li>Síntesis</li>
+<li>Lectura crítica</li>
+<li>Componentes de la lectura</li>
+<li>Identificar mensajes</li>
+<li>Hechos, inferencias y opiniones</li>
+<li>Lectura de comprensión</li>
+<li>Enunciados de apoyo</li>
+<li>Propósito del autor</li>
+<li>Puntos principales</li>
+<li>Objetivo del texto</li>
+<li>Contradicciones internas</li>
+<li>Escribir para pensar y pensar para escribir</li>
+<li>Valoración del vocabulario personal</li>
+<li>Escribir para comunicar: ideas, pensamientos y sentimientos</li>
+<li>Redacción de trabajos académicos</li>
+</ul>
+<h3>Unidad 5.&nbsp;Aprender a innovar</h3>
+<ul>
+<li>Creatividad e innovación</li>
+<li>Definición, similitud y diferencias</li>
+<li>Fases del proceso creativo e innovador</li>
+<li>Características de la persona creativa e innovadora</li>
+<li>La innovación como herramienta competitiva</li>
+<li>Facilitadores y obstáculos de la innovación</li>
+</ul></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Reticula</category>
+			<pubDate>Fri, 11 Mar 2022 17:38:12 +0000</pubDate>
+		</item>
+		<item>
+			<title>Calculo diferencial</title>
+			<link>https://www.ingenieriaindustrialitt.org/reticula/calculo-diferencial</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/reticula/calculo-diferencial</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h2>Caracterización de la asignatura</h2>
+<p>La asignatura contribuye a desarrollar un pensamiento lógico-matemático al perfil del ingeniero y aporta las herramientas básicas para introducirse al estudio del cálculo y su aplicación, así como las bases para el modelado matemático. Además, proporciona herramientas que permiten modelar fenómenos de contexto.</p>
+<p>La importancia del estudio del Cálculo Diferencial radica principalmente en proporcionar las bases para los temas en el desarrollo de las competencias del Cálculo Integral, Cálculo Vectorial, Ecuaciones Diferenciales y asignaturas de física y ciencias de la ingeniería, por lo que se pueden diseñar proyectos integradores con cualquiera de ellas.&nbsp;</p>
+<p>La característica más sobresaliente de esta asignatura es que en ella se estudian las bases sobre las que se construye el cálculo diferencial. Utilizando las definiciones de función y límite se establece uno de los conceptos más importantes del cálculo: la derivada, que permite analizar razones de cambio y problemas de optimización, entre otras. La derivada es tema de trascendental importancia en las aplicaciones de la ingeniería.</p>
+<h2>Contenido</h2>
+<h3>Unidad 1. Números reales</h3>
+<ul>
+<li>&nbsp;Los números reales</li>
+<li>&nbsp;Axiomas de los números reales</li>
+<li>&nbsp;Intervalos y su representación gráfica</li>
+<li>&nbsp;Valor absoluto y sus propiedades</li>
+<li>&nbsp;Propiedades de las desigualdades</li>
+<li>&nbsp;Resolución de desigualdades de primer y segundo grado con una incógnita</li>
+<li>&nbsp;Resolución de desigualdades que incluyan valor absoluto</li>
+</ul>
+<h3>Unidad 2.&nbsp;Funciones&nbsp;</h3>
+<ul>
+<li>Definición de variable, función, dominio y rango</li>
+<li>&nbsp;Función real de variable real y su representación gráfica</li>
+<li>&nbsp;Función inyectiva, suprayectiva y biyectiva</li>
+<li>&nbsp;Funciones algebraicas: polinomiales y racionales</li>
+<li>&nbsp;Funciones trascendentes: trigonométricas, logarítmicas y exponenciales</li>
+<li>&nbsp;Funciones escalonadas</li>
+<li>&nbsp;Operaciones con funciones: adición, multiplicación, división y composición</li>
+<li>&nbsp;Función inversa</li>
+<li>&nbsp;Función implícita</li>
+<li>&nbsp;Otro tipo de funciones</li>
+</ul>
+<h3>Unidad 3.&nbsp;&nbsp;Límites y continuidad</h3>
+<ul>
+<li>Noción de límite</li>
+<li>&nbsp;Definición de límite de una función</li>
+<li>&nbsp;Propiedades de los límites</li>
+<li>&nbsp;Cálculo de límites</li>
+<li>&nbsp;Límites laterales</li>
+<li>&nbsp;Límites infinitos y límites al infinito</li>
+<li>&nbsp;Asíntotas</li>
+<li>&nbsp;Continuidad en un punto y en un intervalo</li>
+<li>&nbsp;Tipos de discontinuidades</li>
+</ul>
+<h3>Unidad 4.&nbsp;Derivadas</h3>
+<ul>
+<li>&nbsp;Interpretación geométrica de la derivada</li>
+<li>&nbsp;Incremento y razón de cambio&nbsp;</li>
+<li>&nbsp;Definición de la derivada de una función</li>
+<li>&nbsp;Diferenciales</li>
+<li>&nbsp;Cálculo de derivadas</li>
+<li>&nbsp;Regla de la cadena</li>
+<li>&nbsp;Derivada de funciones implícitas</li>
+<li>&nbsp;Derivadas de orden superior</li>
+</ul>
+<h3>Unidad 5.&nbsp;&nbsp;Aplicaciones de la derivada</h3>
+<ul>
+<li>Recta tangente y recta normal a una curva en un punto</li>
+<li>&nbsp;Teorema de Rolle y teoremas del valor medio</li>
+<li>&nbsp;Función creciente y decreciente</li>
+<li>&nbsp;Máximos y mínimos de una función</li>
+<li>&nbsp;Criterio de la primera derivada para máximos y mínimos</li>
+<li>&nbsp;Concavidades y puntos de inflexión</li>
+<li>&nbsp;Criterio de la segunda derivada para máximos y mínimos</li>
+<li>&nbsp;Análisis de la variación de una función Graficación</li>
+<li>&nbsp;Problemas de optimización y de tasas relacionadas</li>
+<li>&nbsp;Cálculo de aproximaciones usando diferenciales</li>
+<li>&nbsp;La regla de L’Hôpital</li>
+</ul>
+<div id="gtx-trans" style="position: absolute; left: -12px; top: 1130.27px;">&nbsp;</div></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Reticula</category>
+			<pubDate>Fri, 11 Mar 2022 04:28:18 +0000</pubDate>
+		</item>
+		<item>
+			<title>Taller de etica</title>
+			<link>https://www.ingenieriaindustrialitt.org/reticula/etica</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/reticula/etica</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h2>Caracterización de la asignatura</h2>
+<p>El Taller de ética se plantea como una asignatura común a todas las carreras del SNIT. Esto se fundamenta en lo siguiente:</p>
+<p>En el Modelo del Siglo XXI del SNEST se busca una formación profesional que integre, en una totalidad dinámica, la competencia en el quehacer profesional con el ejercicio de una ciudadanía activa, responsable y el desarrollo psicosocial de la persona. Además, en el Código de ética del SNEST, se promueve el desarrollo armonioso de todas las facultades del ser humano. El desarrollo del profesionista requiere de una sólida formación ética.</p>
+<p>Esta asignatura permite reflexionar y desarrollar el juicio ético, permitirá al estudiante formarse en el convencimiento de que el ejercicio de su profesión constituye no sólo una práctica con compromisos laborales y técnicas diversas, sino que es al mismo tiempo una práctica con responsabilidades como ciudadanos y como personas en la construcción de una mejor sociedad. <br />Se busca desarrollar la comprensión de conceptos y métodos de la ética, así como la reflexión y experiencia de actos éticos, propicia que se involucre de manera consciente en la búsqueda de la congruencia entre su pensamiento, sus palabras y sus actos. Integrando el saber, el saber hacer con el saber ser.</p>
+<p>La asignatura brinda la ocasión de aprender a aprender para desarrollar su capacidad de confrontarse consigo mismo, de interrogarse y de reconocerse como un ser que posee dignidad, ideas propias y convicción de su quehacer profesional; derechos, deberes y compromisos en contextos organizacionales, tecnológicos, comunitarios y sociales cada vez más complejos, inciertos y cambiantes que requieren cada vez con mayor frecuencia de reflexiones y decisiones tecnoéticas.</p>
+<h2>Contenido</h2>
+<h3>Unidad 1. El sentido de aprender sobre ética</h3>
+<ul>
+<li>Generalidades sobre ética</li>
+<li>La ética, su objeto de estudio y su sentido sociocultural&nbsp;</li>
+<li>El juicio moral y el juicio ético</li>
+<li>Valores éticos fundamentales: verdad, responsabilidad justicia y libertad</li>
+<li>Derechos Humanos</li>
+<li>Significado y sentido del comportamiento ético</li>
+<li>&nbsp;En el ámbito personal y social&nbsp;</li>
+<li>&nbsp;En el ámbito académico&nbsp;</li>
+<li>&nbsp;En el ejercicio de la ciudadanía</li>
+</ul>
+<h3>Unidad 2.&nbsp;La ética en la ciencia y la tecnología</h3>
+<ul>
+<li>Implicaciones éticas de la investigación científica&nbsp;</li>
+<li>Límites éticos de la investigación&nbsp;</li>
+<li>Decisiones éticas en la investigación científica&nbsp;</li>
+<li>Comportamiento ético del investigador&nbsp;</li>
+<li>Motivaciones del investigador</li>
+<li>&nbsp;Implicaciones éticas en el desarrollo y aplicación de la tecnología&nbsp;</li>
+<li>Conceptos y problemas de la tecnoética y bioética</li>
+<li>Comportamiento ético del tecnólogo</li>
+</ul>
+<h3>Unidad 3.&nbsp;Ética en el ejercicio de la profesión</h3>
+<ul>
+<li>Consideraciones generales de la ética profesional</li>
+<li>Dimensiones, deberes e</li>
+<li>implicaciones de la ética profesional</li>
+<li>El profesionista y su ética en el ejercicio del liderazgo</li>
+<li>Dilemas éticos profesionales</li>
+<li>Códigos de ética profesionales</li>
+<li>Contenido, sentido e implicaciones de los códigos de ética profesionales</li>
+</ul>
+<h3>Unidad 4.&nbsp;La ética en las instituciones y organizaciones</h3>
+<ul>
+<li>Proceder ético en las instituciones y organizaciones</li>
+<li>Código de ética de las instituciones y organizaciones</li>
+<li>Casos concretos del proceder ético en las instituciones y organizaciones</li>
+<li>&nbsp;La Responsabilidad social de las Instituciones y organizaciones</li>
+<li>Desarrollo del concepto de Responsabilidad social&nbsp;</li>
+<li>Contexto actual de la responsabilidad social&nbsp;</li>
+<li>&nbsp;Derechos humanos laborales</li>
+<li>Conceptos generales&nbsp;</li>
+<li>Observancia de los derechos humanos laborales</li>
+</ul></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Reticula</category>
+			<pubDate>Thu, 10 Mar 2022 17:43:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>Fundamentos de investigacion</title>
+			<link>https://www.ingenieriaindustrialitt.org/reticula/fundamentos</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/reticula/fundamentos</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h2>Caracterización de la asignatura</h2>
+<p>El programa de la asignatura de Fundamentos de investigación, está diseñado para contribuir en la formación integral de los estudiantes del Sistema Nacional de Institutos Tecnológicos (SNIT); desarrolla las competencias de búsqueda, y manejo de información que se utilizan para el aprendizaje conceptual, procedimental y actitudinal contenido en los planes de estudio de los programas educativos que oferta. La investigación es un proceso que habilita al profesional para conocer, analizar y descubrir áreas de oportunidad en los diferentes ámbitos donde desarrollará su profesión y proponer soluciones interdisciplinarias y colaborativas con un enfoque sustentable.</p>
+<p>La formación de ingenieros y licenciados en un mundo globalizado, exige el dominio de herramientas de investigación que le permitan gestionar, aplicar y transformar información a contextos complejos y plurales, cuya solución de problemáticas de manera sustentable, es fundamental para la configuración de la sociedad del conocimiento. Esta asignatura se ubica en primer semestre de las carreras del SNIT, ya que integra las competencias necesarias para el desarrollo de investigación documental útil en el proceso de formación profesional durante la carrera, fortaleciendo el compromiso humano y social.</p>
+<h2>Contenido</h2>
+<h3>Unidad 1. Conceptos básicos de fundamentos de&nbsp;investigación como proceso de&nbsp;construcción social</h3>
+<ul>
+<li><span>Relación hombre-conocimiento-realidad</span></li>
+<li><span> Concepto de realidad y conocimiento</span></li>
+<li><span> Proceso de adquisición del conocimiento</span></li>
+<li><span> Tipos de conocimiento</span></li>
+<li><span> Proceso de construcción de la ciencia</span></li>
+<li><span> Definición y características de la ciencia</span></li>
+<li><span>Proceso de construcción</span></li>
+<li><span> Clasificación de las ciencias</span></li>
+<li><span> Métodos</span></li>
+<li><span> Definición de método y técnica</span></li>
+<li><span> Tipos de métodos; No científicos lógicos y científicos</span></li>
+<li><span> Características, etapas y reglas del método científico</span></li>
+<li><span> La investigación y el investigador</span></li>
+<li><span> Definición y características de la investigación</span></li>
+<li><span> Características del investigador</span></li>
+<li><span> Obstáculos de la investigación</span></li>
+</ul>
+<h3>Unidad 2. Herramientas de la comunicación oral y escrita en la investigación&nbsp;documental</h3>
+<ul>
+<li dir="ltr">Distinción entre comunicación escrita y oral</li>
+<li dir="ltr">Técnicas de redacción: coherencia, Concordancia</li>
+<li dir="ltr">Normas y reglas ortográficas y de puntuación</li>
+<li dir="ltr">Tipología de textos académicos como herramientas del conocimiento</li>
+<li dir="ltr">científico (monografía, ensayo, reseña, reporte, tesis, protocolo e informe de&nbsp;investigación)</li>
+</ul>
+<h3>Unidad 3. Estudio del desarrollo de su profesión&nbsp;y su estado actual</h3>
+<ul>
+<li>Historia, desarrollo y estado actual de la Profesión</li>
+<li>Los ámbitos del desarrollo de la profesión en el contexto social</li>
+<li>Las prácticas predominantes y Emergentes de la profesión en el&nbsp;contexto local, nacional e internacional</li>
+</ul>
+<h3>Unidad 4. Proceso de elaboración de una investigación documental</h3>
+<ul>
+<li>Fuentes de investigación documental</li>
+<li>Instrumentos de Investigación documental</li>
+<li>Estructura de la investigación documental</li>
+<li>Elección y delimitación del tema</li>
+<li>Objetivos</li>
+<li>Localización, selección y acopio de información de diferentes fuentes</li>
+<li>Diseño del esquema de trabajo (temario tentativo)</li>
+<li>Sistematización de información en los diversos tipos de fichas</li>
+<li>Organización del fichero</li>
+<li>Construcción lógica del aparato crítico (Uso de fuentes referenciales utilizadas como fundamento, citas textuales)</li>
+<li>Elaboración del informe en borrador</li>
+<li>Correcciones</li>
+<li>Presentación del informe</li>
+</ul>
+<h2>Asignaturas relacionadas</h2>
+<p>{loadmoduleid 184}</p></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Reticula</category>
+			<pubDate>Thu, 10 Mar 2022 04:37:39 +0000</pubDate>
+		</item>
+		<item>
+			<title>Encuesta a Empleadores de Ingenieros Industriales del ITT 2022</title>
+			<link>https://www.ingenieriaindustrialitt.org/vinculacion/encuesta-para-empleadores</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/vinculacion/encuesta-para-empleadores</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><!-- Easy Forms -->
+<div id="c7">
+    Completa mi <a href="https://ingenieriaindustrialitt.org/easyforms/app/form?id=NTdiGg">formulario en linea</a>.
+</div>
+<script type="text/javascript">
+    (function(d, t) {
+        var s = d.createElement(t), options = {
+            'id': 'NTdiGg',
+            'container': 'c7',
+            'height': '4015px',
+            'form': '//ingenieriaindustrialitt.org/easyforms/app/embed'
+        };
+        s.type= 'text/javascript';
+        s.src = '//ingenieriaindustrialitt.org/easyforms/static_files/js/form.widget.js';
+        s.onload = s.onreadystatechange = function() {
+            var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+            try { (new EasyForms()).initialize(options).display() } catch (e) { }
+        };
+        var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+    })(document, 'script');
+</script>
+<!-- End Easy Forms --></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Vinculacion</category>
+			<pubDate>Thu, 03 Feb 2022 20:57:31 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Criterios de evaluación</title>
+		<description><![CDATA[My site]]></description>
+		<link>https://www.ingenieriaindustrialitt.org</link>
+		<lastBuildDate>Tue, 07 Feb 2023 05:36:40 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.ingenieriaindustrialitt.org/docencia/criterios-de-evaluacion/itemlist/category/24-plan-de-estudios?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<item>
+			<title>Plan de estudios</title>
+			<link>https://www.ingenieriaindustrialitt.org/posgrado/programa/plan-de-estudios</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/posgrado/programa/plan-de-estudios</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p><img src="https://www.ingenieriaindustrialitt.org/images/posgrado/plan_estudios_maestria.png" alt="plan estudios maestria" /></p></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Plan de estudios</category>
+			<pubDate>Wed, 27 Oct 2021 17:09:35 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
