@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<?xml-stylesheet href="/media/system/css/fields/calendar.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_breezingforms/libraries/jquery/pickadate/themes/default.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_breezingforms/libraries/jquery/pickadate/themes/default.date.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Plan reticular</title>
+		<description><![CDATA[My site]]></description>
+		<link>https://www.ingenieriaindustrialitt.org</link>
+		<lastBuildDate>Tue, 07 Feb 2023 05:31:00 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.ingenieriaindustrialitt.org/home/plan-reticular-iind-2010-227/itemlist/category/16-estudiantes?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<item>
+			<title>¿Qué opinan los alumnos sobre el regreso a clases presenciales?</title>
+			<link>https://www.ingenieriaindustrialitt.org/home/experiencia-regreso-a-clases</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/home/experiencia-regreso-a-clases</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h3></h3>
+<p>{loadmoduleid 177}</p>
+<p>{loadmoduleid 178}</p>
+<h3 style="text-align: center;">Alumnado con pase diario</h3>
+<p>{loadmoduleid 179}</p></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Estudiantes</category>
+			<pubDate>Fri, 04 Mar 2022 01:05:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Protocolo para regreso a clases presenciales</title>
+			<link>https://www.ingenieriaindustrialitt.org/estudiantes/regreso-seguro</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/estudiantes/regreso-seguro</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h3>Recomendaciones sobre la prevención y control de transmisión de COVID -19</h3>
+<p>Asegurarse el cumplimiento de las siguientes pautas de prevención para controlar el riesgo de exposición a nivel individual e institucional antes de entrar a un salón o laboratorio, para poder proteger la salud de alumnos, docentes, personal de limpieza y personal administrativo:</p>
+<p>{loadmoduleid 175}</p>
+<p>Notas:<br />● No asistirán al Instituto aquellos estudiantes, docentes y otros profesionales que tengan síntomas con COVID-19, así como aquellos que se encuentren en aislamiento por diagnóstico de COVID-19, o en período de cuarentena.<br />● En caso de presentar algún malestar dentro de las instalaciones hacerlo saber al docente o alguna autoridad y seguir indicaciones.</p>
+<p>{loadmoduleid 176}</p>
+<h3>&nbsp;Registro para obtención del pase diario</h3>
+<p>&nbsp;</p>
+<!-- Easy Forms -->
+<div id="c8">
+    Completa mi <a href="https://ingenieriaindustrialitt.org/easyforms/app/form?id=PlowDA">formulario en linea</a>.
+</div>
+<script type="text/javascript">
+    (function(d, t) {
+        var s = d.createElement(t), options = {
+            'id': 'PlowDA',
+            'container': 'c8',
+            'height': '1424px',
+            'form': '//ingenieriaindustrialitt.org/easyforms/app/embed'
+        };
+        s.type= 'text/javascript';
+        s.src = '//ingenieriaindustrialitt.org/easyforms/static_files/js/form.widget.js';
+        s.onload = s.onreadystatechange = function() {
+            var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+            try { (new EasyForms()).initialize(options).display() } catch (e) { }
+        };
+        var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+    })(document, 'script');
+</script>
+<!-- End Easy Forms --></div>]]></description>
+			<author>emigdioz@gmail.com (Omar Said Acosta)</author>
+			<category>Estudiantes</category>
+			<pubDate>Thu, 24 Feb 2022 04:53:39 +0000</pubDate>
+		</item>
+		<item>
+			<title>Egresados</title>
+			<link>https://www.ingenieriaindustrialitt.org/posgrado/posgrado-estudiantes/egresados</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/posgrado/posgrado-estudiantes/egresados</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><p>Si eres un estudiante egresado del programa de Maestría de Ingeniería Industrial favor de llenar la siguiente forma</p>
+<p>{BreezingForms: encuesta1}</p></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Egresados</category>
+			<pubDate>Wed, 08 Jul 2020 02:15:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>Estudiantes</title>
+			<link>https://www.ingenieriaindustrialitt.org/posgrado/posgrado-estudiantes/matricula</link>
+			<guid isPermaLink="true">https://www.ingenieriaindustrialitt.org/posgrado/posgrado-estudiantes/matricula</guid>
+			<description><![CDATA[<div class="K2FeedIntroText"><h3>Línea de investigación: Sistemas de manufactura</h3>
+<h4>Fecha de ingreso: Agosto de 2019</h4>
+<table class="table" style="width: 100%; height: 159px;" border="0"><colgroup span="2" width="67"></colgroup>
+<tbody>
+<tr>
+<td style="background-color: #f47402;"><span style="color: #ffffff;"><strong>No Control</strong></span></td>
+<td style="background-color: #f47402;"><span style="color: #ffffff;"><strong>Nombre</strong></span></td>
+</tr>
+<tr>
+<td align="left">M1921062</td>
+<td align="left">PERLA MARIA LARRAÑAGA LOPEZ</td>
+</tr>
+<tr>
+<td align="left">M1921063</td>
+<td align="left">DANIEL RAMIREZ</td>
+</tr>
+<tr>
+<td align="left">M1921064</td>
+<td align="left">FLOR DENISSE OLIVAS OLIVAS</td>
+</tr>
+<tr>
+<td align="left">M1921065</td>
+<td align="left">SANDRA LUZ SEGURA ORTEGA</td>
+</tr>
+<tr>
+<td align="left">M1921066</td>
+<td align="left">PATRICK ALEJANDRO SAGE SEPULVEDA</td>
+</tr>
+<tr>
+<td align="left">M1921067</td>
+<td style="text-align: justify;" align="left">VICTOR ELIAS SANTOS ESCALANTE</td>
+</tr>
+<tr>
+<td align="left">M1921068</td>
+<td align="left">KLAYNA ALICIA PRADO LOPEZ</td>
+</tr>
+<tr>
+<td align="left">M1921069</td>
+<td align="left">JOSE EDUARDO SANCHEZ MENDEZ</td>
+</tr>
+<tr>
+<td align="left">M1921071</td>
+<td align="left">DENISSE LOPEZ GUTIERREZ</td>
+</tr>
+<tr>
+<td align="left">M1921073</td>
+<td align="left">SANDRA VANESSA ZAMARRIPA VAZQUEZ</td>
+</tr>
+</tbody>
+</table>
+<h4>Fecha de ingreso: Agosto de 2018</h4>
+<table class="table" style="width: 100%; height: 37px;" border="0"><colgroup span="2" width="67"></colgroup>
+<tbody>
+<tr>
+<td style="background-color: #f47402;"><strong><span style="color: #ffffff;">No Control</span></strong></td>
+<td style="background-color: #f47402;"><strong><span style="color: #ffffff;">Nombre</span></strong></td>
+</tr>
+<tr>
+<td align="left">G07210918</td>
+<td align="left">IGREYNE ARACELY RUIZ ROMERO</td>
+</tr>
+<tr>
+<td align="left">G09441039</td>
+<td align="left">SAUL ESPINOZA CASTRO</td>
+</tr>
+<tr>
+<td align="left">G18212031</td>
+<td align="left">JOSE LUIS CERVANTES MORALES</td>
+</tr>
+</tbody>
+</table>
+<h3>Línea de investigación: Manufactura Inteligente</h3>
+<h4>Fecha de ingreso: Agosto de 2018</h4>
+<table class="table" style="width: 100%; height: 127px;" border="0"><colgroup span="2" width="67"></colgroup>
+<tbody>
+<tr>
+<td style="background-color: #f47402;"><span style="color: #ffffff;"><strong>No Control</strong></span></td>
+<td style="background-color: #f47402;"><span style="color: #ffffff;"><strong>Nombre</strong></span></td>
+</tr>
+<tr>
+<td align="left">G10070064</td>
+<td align="left">VICTOR MANUEL GUTIERREZ CABELLO</td>
+</tr>
+<tr>
+<td align="left">G18212027</td>
+<td align="left">JOAQUIN ARROYO MENDEZ</td>
+</tr>
+<tr>
+<td align="left">G18212047</td>
+<td align="left">BRYAN ANSELMO SOLIS MAGALLANES</td>
+</tr>
+<tr>
+<td align="left">G18212892</td>
+<td align="left">JONATHAN ESTIVEN RINCON AMEZQUITA</td>
+</tr>
+<tr>
+<td align="left">G18212893</td>
+<td align="left">JOSE ALFREDO GARCIA TRUJILLO</td>
+</tr>
+<tr>
+<td align="left">G18212894</td>
+<td align="left">SANDRA PATRICIA LAZO JIMENEZ</td>
+</tr>
+</tbody>
+</table>
+<div id="gtx-trans" style="position: absolute; left: 984px; top: 500.125px;">&nbsp;</div></div>]]></description>
+			<author>emigdioz@gmail.com (Super User)</author>
+			<category>Estudiantes</category>
+			<pubDate>Sat, 18 Apr 2020 05:02:13 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

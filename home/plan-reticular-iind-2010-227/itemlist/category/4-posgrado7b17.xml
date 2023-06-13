@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/content/pdf_embed/assets/css/style.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_dropfiles/assets/css/jaofoldertree.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_dropfiles/assets/css/material-design-iconic-font.min.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/dropfilesthemes/table/css/style.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/dropfilesthemes/table/css/jquery.mediaTable.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_dropfiles/assets/css/front.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/dropfilesthemes/default/style.css" type="text/css"?>
+<?xml-stylesheet href="/media/system/css/fields/calendar.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_breezingforms/libraries/jquery/pickadate/themes/default.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_breezingforms/libraries/jquery/pickadate/themes/default.date.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
+	<title type="text">Plan reticular</title>
+	<subtitle type="text">My site</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org"/>
+	<id>https://www.ingenieriaindustrialitt.org/home/plan-reticular-iind-2010-227/itemlist/category/4-posgrado</id>
+	<updated>2023-02-07T05:30:35+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.ingenieriaindustrialitt.org/home/plan-reticular-iind-2010-227/itemlist/category/4-posgrado?format=feed&amp;type=atom"/>
+	<entry>
+		<title>¿Qué opinan los alumnos sobre el regreso a clases presenciales?</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/home/experiencia-regreso-a-clases"/>
+		<published>2022-03-04T01:05:01+00:00</published>
+		<updated>2022-03-04T01:05:01+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/home/experiencia-regreso-a-clases</id>
+		<author>
+			<name>Omar Said Acosta</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h3&gt;&lt;/h3&gt;
+&lt;p&gt;{loadmoduleid 177}&lt;/p&gt;
+&lt;p&gt;{loadmoduleid 178}&lt;/p&gt;
+&lt;h3 style=&quot;text-align: center;&quot;&gt;Alumnado con pase diario&lt;/h3&gt;
+&lt;p&gt;{loadmoduleid 179}&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h3&gt;&lt;/h3&gt;
+&lt;p&gt;{loadmoduleid 177}&lt;/p&gt;
+&lt;p&gt;{loadmoduleid 178}&lt;/p&gt;
+&lt;h3 style=&quot;text-align: center;&quot;&gt;Alumnado con pase diario&lt;/h3&gt;
+&lt;p&gt;{loadmoduleid 179}&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Estudiantes" />
+	</entry>
+	<entry>
+		<title>Protocolo para regreso a clases presenciales</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/estudiantes/regreso-seguro"/>
+		<published>2022-02-24T04:53:39+00:00</published>
+		<updated>2022-02-24T04:53:39+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/estudiantes/regreso-seguro</id>
+		<author>
+			<name>Omar Said Acosta</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h3&gt;Recomendaciones sobre la prevención y control de transmisión de COVID -19&lt;/h3&gt;
+&lt;p&gt;Asegurarse el cumplimiento de las siguientes pautas de prevención para controlar el riesgo de exposición a nivel individual e institucional antes de entrar a un salón o laboratorio, para poder proteger la salud de alumnos, docentes, personal de limpieza y personal administrativo:&lt;/p&gt;
+&lt;p&gt;{loadmoduleid 175}&lt;/p&gt;
+&lt;p&gt;Notas:&lt;br /&gt;● No asistirán al Instituto aquellos estudiantes, docentes y otros profesionales que tengan síntomas con COVID-19, así como aquellos que se encuentren en aislamiento por diagnóstico de COVID-19, o en período de cuarentena.&lt;br /&gt;● En caso de presentar algún malestar dentro de las instalaciones hacerlo saber al docente o alguna autoridad y seguir indicaciones.&lt;/p&gt;
+&lt;p&gt;{loadmoduleid 176}&lt;/p&gt;
+&lt;h3&gt;&amp;nbsp;Registro para obtención del pase diario&lt;/h3&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;!-- Easy Forms --&gt;
+&lt;div id=&quot;c8&quot;&gt;
+    Completa mi &lt;a href=&quot;https://ingenieriaindustrialitt.org/easyforms/app/form?id=PlowDA&quot;&gt;formulario en linea&lt;/a&gt;.
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    (function(d, t) {
+        var s = d.createElement(t), options = {
+            'id': 'PlowDA',
+            'container': 'c8',
+            'height': '1424px',
+            'form': '//ingenieriaindustrialitt.org/easyforms/app/embed'
+        };
+        s.type= 'text/javascript';
+        s.src = '//ingenieriaindustrialitt.org/easyforms/static_files/js/form.widget.js';
+        s.onload = s.onreadystatechange = function() {
+            var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+            try { (new EasyForms()).initialize(options).display() } catch (e) { }
+        };
+        var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+    })(document, 'script');
+&lt;/script&gt;
+&lt;!-- End Easy Forms --&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h3&gt;Recomendaciones sobre la prevención y control de transmisión de COVID -19&lt;/h3&gt;
+&lt;p&gt;Asegurarse el cumplimiento de las siguientes pautas de prevención para controlar el riesgo de exposición a nivel individual e institucional antes de entrar a un salón o laboratorio, para poder proteger la salud de alumnos, docentes, personal de limpieza y personal administrativo:&lt;/p&gt;
+&lt;p&gt;{loadmoduleid 175}&lt;/p&gt;
+&lt;p&gt;Notas:&lt;br /&gt;● No asistirán al Instituto aquellos estudiantes, docentes y otros profesionales que tengan síntomas con COVID-19, así como aquellos que se encuentren en aislamiento por diagnóstico de COVID-19, o en período de cuarentena.&lt;br /&gt;● En caso de presentar algún malestar dentro de las instalaciones hacerlo saber al docente o alguna autoridad y seguir indicaciones.&lt;/p&gt;
+&lt;p&gt;{loadmoduleid 176}&lt;/p&gt;
+&lt;h3&gt;&amp;nbsp;Registro para obtención del pase diario&lt;/h3&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;!-- Easy Forms --&gt;
+&lt;div id=&quot;c8&quot;&gt;
+    Completa mi &lt;a href=&quot;https://ingenieriaindustrialitt.org/easyforms/app/form?id=PlowDA&quot;&gt;formulario en linea&lt;/a&gt;.
+&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+    (function(d, t) {
+        var s = d.createElement(t), options = {
+            'id': 'PlowDA',
+            'container': 'c8',
+            'height': '1424px',
+            'form': '//ingenieriaindustrialitt.org/easyforms/app/embed'
+        };
+        s.type= 'text/javascript';
+        s.src = '//ingenieriaindustrialitt.org/easyforms/static_files/js/form.widget.js';
+        s.onload = s.onreadystatechange = function() {
+            var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+            try { (new EasyForms()).initialize(options).display() } catch (e) { }
+        };
+        var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+    })(document, 'script');
+&lt;/script&gt;
+&lt;!-- End Easy Forms --&gt;&lt;/div&gt;</content>
+		<category term="Estudiantes" />
+	</entry>
+	<entry>
+		<title>Pre-registro maestria</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/posgrado/programa/pre-registro"/>
+		<published>2021-10-27T19:09:34+00:00</published>
+		<updated>2021-10-27T19:09:34+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/posgrado/programa/pre-registro</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;!-- Easy Forms --&gt;
+&lt;div id=&quot;c3&quot;&gt;Completa mi &lt;a href=&quot;https://ingenieriaindustrialitt.org/easyforms/app/form?id=TMGmFw&quot;&gt;formulario en linea&lt;/a&gt;.&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;(function(d, t) {
+        var s = d.createElement(t), options = {
+            'id': 'TMGmFw',
+            'theme': 0,
+            'container': 'c3',
+            'height': '912px',
+            'form': '//ingenieriaindustrialitt.org/easyforms/app/embed'
+        };
+        s.type= 'text/javascript';
+        s.src = '//ingenieriaindustrialitt.org/easyforms/static_files/js/form.widget.js';
+        s.onload = s.onreadystatechange = function() {
+            var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+            try { (new EasyForms()).initialize(options).display() } catch (e) { }
+        };
+        var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+    })(document, 'script');&lt;/script&gt;
+&lt;!-- End Easy Forms --&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;!-- Easy Forms --&gt;
+&lt;div id=&quot;c3&quot;&gt;Completa mi &lt;a href=&quot;https://ingenieriaindustrialitt.org/easyforms/app/form?id=TMGmFw&quot;&gt;formulario en linea&lt;/a&gt;.&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;(function(d, t) {
+        var s = d.createElement(t), options = {
+            'id': 'TMGmFw',
+            'theme': 0,
+            'container': 'c3',
+            'height': '912px',
+            'form': '//ingenieriaindustrialitt.org/easyforms/app/embed'
+        };
+        s.type= 'text/javascript';
+        s.src = '//ingenieriaindustrialitt.org/easyforms/static_files/js/form.widget.js';
+        s.onload = s.onreadystatechange = function() {
+            var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+            try { (new EasyForms()).initialize(options).display() } catch (e) { }
+        };
+        var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+    })(document, 'script');&lt;/script&gt;
+&lt;!-- End Easy Forms --&gt;&lt;/div&gt;</content>
+		<category term="Admision" />
+	</entry>
+	<entry>
+		<title>Plan de estudios</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/posgrado/programa/plan-de-estudios"/>
+		<published>2021-10-27T17:09:35+00:00</published>
+		<updated>2021-10-27T17:09:35+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/posgrado/programa/plan-de-estudios</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/posgrado/plan_estudios_maestria.png&quot; alt=&quot;plan estudios maestria&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/posgrado/plan_estudios_maestria.png&quot; alt=&quot;plan estudios maestria&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Plan de estudios" />
+	</entry>
+	<entry>
+		<title>Procedimientos, lineamientos y documentos oficiales</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/posgrado/procedimientos"/>
+		<published>2021-03-25T21:17:02+00:00</published>
+		<updated>2021-03-25T21:17:02+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/posgrado/procedimientos</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;38&quot; data-category=&quot;38&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/folder_download.png') no-repeat scroll center center #444444; height: 200px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilescategory=&quot;38&quot; data-category=&quot;38&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Posgrado" />
+	</entry>
+	<entry>
+		<title>Convocatorias</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/posgrado/convocatorias"/>
+		<published>2020-11-18T01:23:23+00:00</published>
+		<updated>2020-11-18T01:23:23+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/posgrado/convocatorias</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h1 style=&quot;text-align: center;&quot;&gt;Convocatoria 2022-2&lt;/h1&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&amp;nbsp;El Instituto Tecnológico de Tijuana&lt;/h2&gt;
+&lt;h3 style=&quot;text-align: center;&quot;&gt;Convoca&lt;/h3&gt;
+&lt;p&gt;A profesionistas egresados de programas de educación superior en áreas afines a ingeniería, ciencias económico-administrativas, ciencias físico-matemáticas, interesados en adquirir formación de nuevas metodologías y tecnologías, que, mediante la investigación, sean capaces de diseñar y aplicar proyectos de innovación y desarrollos tecnológicos en su entorno laboral, para fortalecer la competitividad, productividad y mejora continua de la empresa.&lt;/p&gt;
+&lt;h3&gt;Modalidades de inscripción&lt;/h3&gt;
+&lt;h4&gt;Estudiante de tiempo completo (sujeto a disponibilidad de becas otorgadas por CONACYT). Se permite trabajar hasta 8 horas/semana&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Pago semestral fijo de $2200 pesos&lt;/li&gt;
+&lt;li&gt;Beca de manutención ofrecida por CONACYT por un periodo de 2 años&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Estudiante de tiempo parcial. Se permite trabajar mientras se estudia&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Pago por crédito $600, siendo un total de 102 créditos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Documentación requerida&lt;/h3&gt;
+&lt;p&gt;1. Curriculum Vitae.&lt;br /&gt;2. Carta de intención para cursar estudios de posgrado, dirigida a a la jefatura de División de Estudios de posgrado e Investigación, con atención a la coordinación de la maestría en Ingeniería Industrial. (formato libre).&lt;br /&gt;3. Título y cédula profesional, o en su caso documento de acta de examen profesional.&lt;br /&gt;4. Certificado de estudios de licenciatura.&lt;br /&gt;5. CURP (formato actual).&lt;br /&gt;6. Acta de nacimiento (formato actual).&lt;br /&gt;7. En caso de no contar con titulo y cedula, carta compromiso que tramitara los documentos en los próximos 3 meses. Deberá estar dirigida a la jefatura de División de Estudios de posgrado e Investigación, con atención a la coordinación de la maestría en Ingeniería Industrial. (formato libre).&lt;br /&gt;8. En el caso de los extranjeros tener regularizada su documentación por la Secretaría de Relaciones Exteriores y por la Dirección General de Evaluación, Incorporación y Revalidación.&lt;/p&gt;
+&lt;h3&gt;Ademas, para estudiantes extranjeros:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Revalidación emitida por la SEP que demuestra la equivalencia en México del nivel inmediato&lt;/li&gt;
+&lt;li&gt;Certificado, título y cédula en caso de aplicar, apostillado por el país de origen, traducido en caso de un idioma diferente al español&lt;/li&gt;
+&lt;li&gt;Comprobante migratorio vigente durante el proceso de inscripción (residente, estudiante o trabajo)&lt;/li&gt;
+&lt;li&gt;Acta de nacimiento traducida al español, apostillado por el país de origen&lt;/li&gt;
+&lt;li&gt;Certificado de preparatoria traducida al español, apostillado por el país de origen&lt;/li&gt;
+&lt;li&gt;Curp (como extranjero o residente)&lt;/li&gt;
+&lt;li&gt;Identificación oficial con fotografía&lt;/li&gt;
+&lt;li&gt;Pago de inscripción&lt;/li&gt;
+&lt;li&gt;Aparezca en listado oficial como aspirante aceptado al programa&lt;/li&gt;
+&lt;li&gt;Solicitud de inscripción del ITT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Consideraciones para integración de expediente&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Enviar al correo de coordinación los documentos en formato PDF de manera individual, colocando el nombre que le corresponde a cada archivo.&lt;/li&gt;
+&lt;li&gt;Escanear los documentos a color y del original, con buena calidad; NO tomarles fotografía. Los documentos que tengan dos caras (anverso y reverso), escanearlos en el mismo PDF, de forma vertical (no horizontal).&lt;/li&gt;
+&lt;li&gt;Los archivos como CURP y actas de nacimiento le sugerimos descargarlos en línea en las páginas de gobierno establecidas para ello.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Proceso de admisión&lt;/h3&gt;
+&lt;p&gt;1. Llenar la solicitud a ingresar al Programa de Maestría&lt;br /&gt;2. Entrevista con el Coordinador de la Maestría y/o con algún miembro del Consejo de Posgrado.&lt;br /&gt;3. Enviar por correo electrónico a Coordinación la documentación requerida en formato PDF.&lt;br /&gt;4. Presentar anteproyecto de investigación (problemática a resolver o estado del arte) ante un Comité Académico.&lt;br /&gt;5. Aprobar examen de conocimientos (matemáticas, estadística e investigación de operaciones)&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;Calendario de actividades&lt;/h3&gt;
+&lt;p&gt;{loadmoduleid 199}&lt;/p&gt;
+&lt;h3&gt;Plan de estudios&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ingenieriaindustrialitt.org/posgrado/programa/plan-de-estudios&quot;&gt;Revisar seccion correspondiente&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Horario de clases&lt;/h3&gt;
+&lt;p&gt;Actividades académicas y de investigación de &lt;strong&gt;19:00&lt;/strong&gt; a &lt;strong&gt;22:00&lt;/strong&gt; horas, durante &lt;strong&gt;4 días&lt;/strong&gt; a la semana&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;{loadmoduleid 170}&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&amp;nbsp;Antiguas convocatorias&lt;/h3&gt;
+&lt;p&gt;
+
+<!-- START: Sliders -->
+<div class="rl_sliders nn_sliders accordion panel-group" id="set-rl_sliders-3" role="presentation"><a id="rl_sliders-scrollto_3" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-group panel rl_sliders-group nn_sliders-group">
+<a id="rl_sliders-scrollto_2022-1-3" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading" role="heading" aria-controls="2022-1-3">
+<a href="https://www.ingenieriaindustrialitt.org/home/plan-reticular-iind-2010-227/itemlist/category/4-posgrado?format=feed&type=atom#2022-1-3" title="2022-1" class="accordion-toggle rl_sliders-toggle nn_sliders-toggle collapsed" data-toggle="collapse" id="slider-2022-1-3" data-id="2022-1-3" data-parent="#set-rl_sliders-3" aria-selected="false" aria-expanded="false"><span class="rl_sliders-toggle-inner nn_sliders-toggle-inner"> 2022-1</span></a>
+</div>
+<div class="accordion-body rl_sliders-body nn_sliders-body collapse" role="region" aria-labelledby="slider-2022-1-3" aria-hidden="true" id="2022-1-3">
+<div class="accordion-inner panel-body">
+<h2 class="rl_sliders-title nn_sliders-title">2022-1</h2>&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/convocatorias/convocatoria2022-1.jpg&quot; alt=&quot;convocatoria2022 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+
+</div></div></div>
+<div class="accordion-group panel rl_sliders-group nn_sliders-group">
+<a id="rl_sliders-scrollto_2021-2-3" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading" role="heading" aria-controls="2021-2-3">
+<a href="https://www.ingenieriaindustrialitt.org/home/plan-reticular-iind-2010-227/itemlist/category/4-posgrado?format=feed&type=atom#2021-2-3" title="2021-2" class="accordion-toggle rl_sliders-toggle nn_sliders-toggle collapsed" data-toggle="collapse" id="slider-2021-2-3" data-id="2021-2-3" data-parent="#set-rl_sliders-3" aria-selected="false" aria-expanded="false"><span class="rl_sliders-toggle-inner nn_sliders-toggle-inner"> 2021-2</span></a>
+</div>
+<div class="accordion-body rl_sliders-body nn_sliders-body collapse" role="region" aria-labelledby="slider-2021-2-3" aria-hidden="true" id="2021-2-3">
+<div class="accordion-inner panel-body">
+<h2 class="rl_sliders-title nn_sliders-title">2021-2</h2>&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/convocatorias/CONVOCATORIA_INDUSTRIAL_MAESTRIA_POSTER_2021.jpg&quot; alt=&quot;CONVOCATORIA INDUSTRIAL MAESTRIA POSTER 2021&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+
+</div></div></div>
+<div class="accordion-group panel rl_sliders-group nn_sliders-group">
+<a id="rl_sliders-scrollto_2021-1-3" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading" role="heading" aria-controls="2021-1-3">
+<a href="https://www.ingenieriaindustrialitt.org/home/plan-reticular-iind-2010-227/itemlist/category/4-posgrado?format=feed&type=atom#2021-1-3" title="2021-1" class="accordion-toggle rl_sliders-toggle nn_sliders-toggle collapsed" data-toggle="collapse" id="slider-2021-1-3" data-id="2021-1-3" data-parent="#set-rl_sliders-3" aria-selected="false" aria-expanded="false"><span class="rl_sliders-toggle-inner nn_sliders-toggle-inner"> 2021-1</span></a>
+</div>
+<div class="accordion-body rl_sliders-body nn_sliders-body collapse" role="region" aria-labelledby="slider-2021-1-3" aria-hidden="true" id="2021-1-3">
+<div class="accordion-inner panel-body">
+<h2 class="rl_sliders-title nn_sliders-title">2021-1</h2>&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/convocatorias/convocatoria_oficial_MII_2021-1.jpg&quot; alt=&quot;convocatoria oficial MII 2021 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Descargable en PDF&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/file_download.png') no-repeat scroll center center #444444; height: 100px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilesfile=&quot;95&quot; data-dropfilesfilecategory=&quot;36&quot; data-file=&quot;95&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;</div></div></div></div><!-- END: Sliders -->&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h1 style=&quot;text-align: center;&quot;&gt;Convocatoria 2022-2&lt;/h1&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&amp;nbsp;El Instituto Tecnológico de Tijuana&lt;/h2&gt;
+&lt;h3 style=&quot;text-align: center;&quot;&gt;Convoca&lt;/h3&gt;
+&lt;p&gt;A profesionistas egresados de programas de educación superior en áreas afines a ingeniería, ciencias económico-administrativas, ciencias físico-matemáticas, interesados en adquirir formación de nuevas metodologías y tecnologías, que, mediante la investigación, sean capaces de diseñar y aplicar proyectos de innovación y desarrollos tecnológicos en su entorno laboral, para fortalecer la competitividad, productividad y mejora continua de la empresa.&lt;/p&gt;
+&lt;h3&gt;Modalidades de inscripción&lt;/h3&gt;
+&lt;h4&gt;Estudiante de tiempo completo (sujeto a disponibilidad de becas otorgadas por CONACYT). Se permite trabajar hasta 8 horas/semana&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Pago semestral fijo de $2200 pesos&lt;/li&gt;
+&lt;li&gt;Beca de manutención ofrecida por CONACYT por un periodo de 2 años&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Estudiante de tiempo parcial. Se permite trabajar mientras se estudia&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Pago por crédito $600, siendo un total de 102 créditos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Documentación requerida&lt;/h3&gt;
+&lt;p&gt;1. Curriculum Vitae.&lt;br /&gt;2. Carta de intención para cursar estudios de posgrado, dirigida a a la jefatura de División de Estudios de posgrado e Investigación, con atención a la coordinación de la maestría en Ingeniería Industrial. (formato libre).&lt;br /&gt;3. Título y cédula profesional, o en su caso documento de acta de examen profesional.&lt;br /&gt;4. Certificado de estudios de licenciatura.&lt;br /&gt;5. CURP (formato actual).&lt;br /&gt;6. Acta de nacimiento (formato actual).&lt;br /&gt;7. En caso de no contar con titulo y cedula, carta compromiso que tramitara los documentos en los próximos 3 meses. Deberá estar dirigida a la jefatura de División de Estudios de posgrado e Investigación, con atención a la coordinación de la maestría en Ingeniería Industrial. (formato libre).&lt;br /&gt;8. En el caso de los extranjeros tener regularizada su documentación por la Secretaría de Relaciones Exteriores y por la Dirección General de Evaluación, Incorporación y Revalidación.&lt;/p&gt;
+&lt;h3&gt;Ademas, para estudiantes extranjeros:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Revalidación emitida por la SEP que demuestra la equivalencia en México del nivel inmediato&lt;/li&gt;
+&lt;li&gt;Certificado, título y cédula en caso de aplicar, apostillado por el país de origen, traducido en caso de un idioma diferente al español&lt;/li&gt;
+&lt;li&gt;Comprobante migratorio vigente durante el proceso de inscripción (residente, estudiante o trabajo)&lt;/li&gt;
+&lt;li&gt;Acta de nacimiento traducida al español, apostillado por el país de origen&lt;/li&gt;
+&lt;li&gt;Certificado de preparatoria traducida al español, apostillado por el país de origen&lt;/li&gt;
+&lt;li&gt;Curp (como extranjero o residente)&lt;/li&gt;
+&lt;li&gt;Identificación oficial con fotografía&lt;/li&gt;
+&lt;li&gt;Pago de inscripción&lt;/li&gt;
+&lt;li&gt;Aparezca en listado oficial como aspirante aceptado al programa&lt;/li&gt;
+&lt;li&gt;Solicitud de inscripción del ITT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Consideraciones para integración de expediente&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Enviar al correo de coordinación los documentos en formato PDF de manera individual, colocando el nombre que le corresponde a cada archivo.&lt;/li&gt;
+&lt;li&gt;Escanear los documentos a color y del original, con buena calidad; NO tomarles fotografía. Los documentos que tengan dos caras (anverso y reverso), escanearlos en el mismo PDF, de forma vertical (no horizontal).&lt;/li&gt;
+&lt;li&gt;Los archivos como CURP y actas de nacimiento le sugerimos descargarlos en línea en las páginas de gobierno establecidas para ello.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Proceso de admisión&lt;/h3&gt;
+&lt;p&gt;1. Llenar la solicitud a ingresar al Programa de Maestría&lt;br /&gt;2. Entrevista con el Coordinador de la Maestría y/o con algún miembro del Consejo de Posgrado.&lt;br /&gt;3. Enviar por correo electrónico a Coordinación la documentación requerida en formato PDF.&lt;br /&gt;4. Presentar anteproyecto de investigación (problemática a resolver o estado del arte) ante un Comité Académico.&lt;br /&gt;5. Aprobar examen de conocimientos (matemáticas, estadística e investigación de operaciones)&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;Calendario de actividades&lt;/h3&gt;
+&lt;p&gt;{loadmoduleid 199}&lt;/p&gt;
+&lt;h3&gt;Plan de estudios&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ingenieriaindustrialitt.org/posgrado/programa/plan-de-estudios&quot;&gt;Revisar seccion correspondiente&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Horario de clases&lt;/h3&gt;
+&lt;p&gt;Actividades académicas y de investigación de &lt;strong&gt;19:00&lt;/strong&gt; a &lt;strong&gt;22:00&lt;/strong&gt; horas, durante &lt;strong&gt;4 días&lt;/strong&gt; a la semana&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;{loadmoduleid 170}&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&amp;nbsp;Antiguas convocatorias&lt;/h3&gt;
+&lt;p&gt;
+
+<!-- START: Sliders -->
+<div class="rl_sliders nn_sliders accordion panel-group" id="set-rl_sliders-4" role="presentation"><a id="rl_sliders-scrollto_4" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-group panel rl_sliders-group nn_sliders-group">
+<a id="rl_sliders-scrollto_2022-1-4" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading" role="heading" aria-controls="2022-1-4">
+<a href="https://www.ingenieriaindustrialitt.org/home/plan-reticular-iind-2010-227/itemlist/category/4-posgrado?format=feed&type=atom#2022-1-4" title="2022-1" class="accordion-toggle rl_sliders-toggle nn_sliders-toggle collapsed" data-toggle="collapse" id="slider-2022-1-4" data-id="2022-1-4" data-parent="#set-rl_sliders-4" aria-selected="false" aria-expanded="false"><span class="rl_sliders-toggle-inner nn_sliders-toggle-inner"> 2022-1</span></a>
+</div>
+<div class="accordion-body rl_sliders-body nn_sliders-body collapse" role="region" aria-labelledby="slider-2022-1-4" aria-hidden="true" id="2022-1-4">
+<div class="accordion-inner panel-body">
+<h2 class="rl_sliders-title nn_sliders-title">2022-1</h2>&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/convocatorias/convocatoria2022-1.jpg&quot; alt=&quot;convocatoria2022 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+
+</div></div></div>
+<div class="accordion-group panel rl_sliders-group nn_sliders-group">
+<a id="rl_sliders-scrollto_2021-2-4" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading" role="heading" aria-controls="2021-2-4">
+<a href="https://www.ingenieriaindustrialitt.org/home/plan-reticular-iind-2010-227/itemlist/category/4-posgrado?format=feed&type=atom#2021-2-4" title="2021-2" class="accordion-toggle rl_sliders-toggle nn_sliders-toggle collapsed" data-toggle="collapse" id="slider-2021-2-4" data-id="2021-2-4" data-parent="#set-rl_sliders-4" aria-selected="false" aria-expanded="false"><span class="rl_sliders-toggle-inner nn_sliders-toggle-inner"> 2021-2</span></a>
+</div>
+<div class="accordion-body rl_sliders-body nn_sliders-body collapse" role="region" aria-labelledby="slider-2021-2-4" aria-hidden="true" id="2021-2-4">
+<div class="accordion-inner panel-body">
+<h2 class="rl_sliders-title nn_sliders-title">2021-2</h2>&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/convocatorias/CONVOCATORIA_INDUSTRIAL_MAESTRIA_POSTER_2021.jpg&quot; alt=&quot;CONVOCATORIA INDUSTRIAL MAESTRIA POSTER 2021&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+
+</div></div></div>
+<div class="accordion-group panel rl_sliders-group nn_sliders-group">
+<a id="rl_sliders-scrollto_2021-1-4" class="anchor rl_sliders-scroll nn_sliders-scroll"></a>
+<div class="accordion-heading panel-heading" role="heading" aria-controls="2021-1-4">
+<a href="https://www.ingenieriaindustrialitt.org/home/plan-reticular-iind-2010-227/itemlist/category/4-posgrado?format=feed&type=atom#2021-1-4" title="2021-1" class="accordion-toggle rl_sliders-toggle nn_sliders-toggle collapsed" data-toggle="collapse" id="slider-2021-1-4" data-id="2021-1-4" data-parent="#set-rl_sliders-4" aria-selected="false" aria-expanded="false"><span class="rl_sliders-toggle-inner nn_sliders-toggle-inner"> 2021-1</span></a>
+</div>
+<div class="accordion-body rl_sliders-body nn_sliders-body collapse" role="region" aria-labelledby="slider-2021-1-4" aria-hidden="true" id="2021-1-4">
+<div class="accordion-inner panel-body">
+<h2 class="rl_sliders-title nn_sliders-title">2021-1</h2>&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img src=&quot;https://www.ingenieriaindustrialitt.org/images/convocatorias/convocatoria_oficial_MII_2021-1.jpg&quot; alt=&quot;convocatoria oficial MII 2021 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Descargable en PDF&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;background: url('/components/com_dropfiles/assets/images/file_download.png') no-repeat scroll center center #444444; height: 100px; border-radius: 10px; width: 99%;&quot; src=&quot;https://www.ingenieriaindustrialitt.org//components/com_dropfiles/assets/images/t.gif&quot; alt=&quot;&quot; data-dropfilesfile=&quot;95&quot; data-dropfilesfilecategory=&quot;36&quot; data-file=&quot;95&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;</div></div></div></div><!-- END: Sliders -->&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Convocatorias" />
+	</entry>
+	<entry>
+		<title>Egresados</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/posgrado/posgrado-estudiantes/egresados"/>
+		<published>2020-07-08T02:15:46+00:00</published>
+		<updated>2020-07-08T02:15:46+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/posgrado/posgrado-estudiantes/egresados</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Si eres un estudiante egresado del programa de Maestría de Ingeniería Industrial favor de llenar la siguiente forma&lt;/p&gt;
+&lt;p&gt;{BreezingForms: encuesta1}&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Si eres un estudiante egresado del programa de Maestría de Ingeniería Industrial favor de llenar la siguiente forma&lt;/p&gt;
+&lt;p&gt;{BreezingForms: encuesta1}&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Egresados" />
+	</entry>
+	<entry>
+		<title>Perfil de egreso</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/posgrado/programa/perfil-de-egreso"/>
+		<published>2020-07-05T02:22:35+00:00</published>
+		<updated>2020-07-05T02:22:35+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/posgrado/programa/perfil-de-egreso</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;El egresado será capaz de diseñar, implantar y mejorar continuamente los sistemas de manufactura, calidad y toma de decisiones en las organizaciones, así como participar en actividades de aplicación en el desarrollo tecnológico, administración de proyectos, excelencia académica y asesoría con apoyo en la computación y grupos multidisciplinarios.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;El egresado será capaz de diseñar, implantar y mejorar continuamente los sistemas de manufactura, calidad y toma de decisiones en las organizaciones, así como participar en actividades de aplicación en el desarrollo tecnológico, administración de proyectos, excelencia académica y asesoría con apoyo en la computación y grupos multidisciplinarios.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Perfil de egreso" />
+	</entry>
+	<entry>
+		<title>Perfil de ingreso</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/posgrado/programa/perfil-de-ingreso"/>
+		<published>2020-07-05T02:21:29+00:00</published>
+		<updated>2020-07-05T02:21:29+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/posgrado/programa/perfil-de-ingreso</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Los aspirantes al programa de Maestría en Ingeniería Industrial deberán ser graduados de una licenciatura o ingeniería afín al programa. Así mismo, el candidato deberá tener la disposición de aprender, a fin de mejorar sus capacidades analíticas y disciplina profesional, que le permita diseñar y desarrollar proyectos de innovación en su entorno laboral. Por tal motivo, el aspirante deberá tener empatía con los valores del posgrado y un gran interés en aprender y aplicar nuevas metodologías y tecnologías que le permitan estar a la vanguardia del conocimiento, ser proactivo y aptitud para el trabajo en equipo.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Los aspirantes al programa de Maestría en Ingeniería Industrial deberán ser graduados de una licenciatura o ingeniería afín al programa. Así mismo, el candidato deberá tener la disposición de aprender, a fin de mejorar sus capacidades analíticas y disciplina profesional, que le permita diseñar y desarrollar proyectos de innovación en su entorno laboral. Por tal motivo, el aspirante deberá tener empatía con los valores del posgrado y un gran interés en aprender y aplicar nuevas metodologías y tecnologías que le permitan estar a la vanguardia del conocimiento, ser proactivo y aptitud para el trabajo en equipo.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Perfil de ingreso" />
+	</entry>
+	<entry>
+		<title>Estudiantes</title>
+		<link rel="alternate" type="text/html" href="https://www.ingenieriaindustrialitt.org/posgrado/posgrado-estudiantes/matricula"/>
+		<published>2020-04-18T05:02:13+00:00</published>
+		<updated>2020-04-18T05:02:13+00:00</updated>
+		<id>https://www.ingenieriaindustrialitt.org/posgrado/posgrado-estudiantes/matricula</id>
+		<author>
+			<name>Super User</name>
+			<email>emigdioz@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h3&gt;Línea de investigación: Sistemas de manufactura&lt;/h3&gt;
+&lt;h4&gt;Fecha de ingreso: Agosto de 2019&lt;/h4&gt;
+&lt;table class=&quot;table&quot; style=&quot;width: 100%; height: 159px;&quot; border=&quot;0&quot;&gt;&lt;colgroup span=&quot;2&quot; width=&quot;67&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;background-color: #f47402;&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;No Control&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;background-color: #f47402;&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;Nombre&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921062&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;PERLA MARIA LARRAÑAGA LOPEZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921063&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;DANIEL RAMIREZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921064&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;FLOR DENISSE OLIVAS OLIVAS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921065&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;SANDRA LUZ SEGURA ORTEGA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921066&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;PATRICK ALEJANDRO SAGE SEPULVEDA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921067&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot; align=&quot;left&quot;&gt;VICTOR ELIAS SANTOS ESCALANTE&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921068&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;KLAYNA ALICIA PRADO LOPEZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921069&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;JOSE EDUARDO SANCHEZ MENDEZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921071&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;DENISSE LOPEZ GUTIERREZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921073&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;SANDRA VANESSA ZAMARRIPA VAZQUEZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;Fecha de ingreso: Agosto de 2018&lt;/h4&gt;
+&lt;table class=&quot;table&quot; style=&quot;width: 100%; height: 37px;&quot; border=&quot;0&quot;&gt;&lt;colgroup span=&quot;2&quot; width=&quot;67&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;background-color: #f47402;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;No Control&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;background-color: #f47402;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;Nombre&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G07210918&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;IGREYNE ARACELY RUIZ ROMERO&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G09441039&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;SAUL ESPINOZA CASTRO&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G18212031&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;JOSE LUIS CERVANTES MORALES&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Línea de investigación: Manufactura Inteligente&lt;/h3&gt;
+&lt;h4&gt;Fecha de ingreso: Agosto de 2018&lt;/h4&gt;
+&lt;table class=&quot;table&quot; style=&quot;width: 100%; height: 127px;&quot; border=&quot;0&quot;&gt;&lt;colgroup span=&quot;2&quot; width=&quot;67&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;background-color: #f47402;&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;No Control&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;background-color: #f47402;&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;Nombre&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G10070064&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;VICTOR MANUEL GUTIERREZ CABELLO&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G18212027&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;JOAQUIN ARROYO MENDEZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G18212047&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;BRYAN ANSELMO SOLIS MAGALLANES&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G18212892&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;JONATHAN ESTIVEN RINCON AMEZQUITA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G18212893&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;JOSE ALFREDO GARCIA TRUJILLO&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G18212894&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;SANDRA PATRICIA LAZO JIMENEZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div id=&quot;gtx-trans&quot; style=&quot;position: absolute; left: 984px; top: 500.125px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;h3&gt;Línea de investigación: Sistemas de manufactura&lt;/h3&gt;
+&lt;h4&gt;Fecha de ingreso: Agosto de 2019&lt;/h4&gt;
+&lt;table class=&quot;table&quot; style=&quot;width: 100%; height: 159px;&quot; border=&quot;0&quot;&gt;&lt;colgroup span=&quot;2&quot; width=&quot;67&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;background-color: #f47402;&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;No Control&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;background-color: #f47402;&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;Nombre&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921062&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;PERLA MARIA LARRAÑAGA LOPEZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921063&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;DANIEL RAMIREZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921064&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;FLOR DENISSE OLIVAS OLIVAS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921065&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;SANDRA LUZ SEGURA ORTEGA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921066&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;PATRICK ALEJANDRO SAGE SEPULVEDA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921067&lt;/td&gt;
+&lt;td style=&quot;text-align: justify;&quot; align=&quot;left&quot;&gt;VICTOR ELIAS SANTOS ESCALANTE&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921068&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;KLAYNA ALICIA PRADO LOPEZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921069&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;JOSE EDUARDO SANCHEZ MENDEZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921071&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;DENISSE LOPEZ GUTIERREZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;M1921073&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;SANDRA VANESSA ZAMARRIPA VAZQUEZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;Fecha de ingreso: Agosto de 2018&lt;/h4&gt;
+&lt;table class=&quot;table&quot; style=&quot;width: 100%; height: 37px;&quot; border=&quot;0&quot;&gt;&lt;colgroup span=&quot;2&quot; width=&quot;67&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;background-color: #f47402;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;No Control&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;background-color: #f47402;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;Nombre&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G07210918&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;IGREYNE ARACELY RUIZ ROMERO&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G09441039&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;SAUL ESPINOZA CASTRO&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G18212031&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;JOSE LUIS CERVANTES MORALES&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Línea de investigación: Manufactura Inteligente&lt;/h3&gt;
+&lt;h4&gt;Fecha de ingreso: Agosto de 2018&lt;/h4&gt;
+&lt;table class=&quot;table&quot; style=&quot;width: 100%; height: 127px;&quot; border=&quot;0&quot;&gt;&lt;colgroup span=&quot;2&quot; width=&quot;67&quot;&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;background-color: #f47402;&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;No Control&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&quot;background-color: #f47402;&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;Nombre&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G10070064&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;VICTOR MANUEL GUTIERREZ CABELLO&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G18212027&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;JOAQUIN ARROYO MENDEZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G18212047&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;BRYAN ANSELMO SOLIS MAGALLANES&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G18212892&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;JONATHAN ESTIVEN RINCON AMEZQUITA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G18212893&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;JOSE ALFREDO GARCIA TRUJILLO&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;G18212894&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;SANDRA PATRICIA LAZO JIMENEZ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div id=&quot;gtx-trans&quot; style=&quot;position: absolute; left: 984px; top: 500.125px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Estudiantes" />
+	</entry>
+</feed>
